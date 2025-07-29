@@ -2535,6 +2535,153 @@
       "thirdMoveStardust": 10000,
       "thirdMoveCandy": 25
     },
+    "25_2863": {
+      "name": "Pikachu",
+      "id": 25,
+      "types": [
+        {
+          "id": 13,
+          "name": "Electric"
+        }
+      ],
+      "form": {
+        "name": "Kurta",
+        "id": 2863
+      },
+      "stats": {
+        "baseAttack": 112,
+        "baseDefense": 96,
+        "baseStamina": 111
+      },
+      "thirdMoveStardust": 10000,
+      "thirdMoveCandy": 25
+    },
+    "25_2864": {
+      "name": "Pikachu",
+      "id": 25,
+      "types": [
+        {
+          "id": 13,
+          "name": "Electric"
+        }
+      ],
+      "form": {
+        "name": "Gofest 2025 Goggles Red",
+        "id": 2864
+      },
+      "stats": {
+        "baseAttack": 112,
+        "baseDefense": 96,
+        "baseStamina": 111
+      },
+      "thirdMoveStardust": 10000,
+      "thirdMoveCandy": 25
+    },
+    "25_2865": {
+      "name": "Pikachu",
+      "id": 25,
+      "types": [
+        {
+          "id": 13,
+          "name": "Electric"
+        }
+      ],
+      "form": {
+        "name": "Gofest 2025 Goggles Blue",
+        "id": 2865
+      },
+      "stats": {
+        "baseAttack": 112,
+        "baseDefense": 96,
+        "baseStamina": 111
+      },
+      "thirdMoveStardust": 10000,
+      "thirdMoveCandy": 25
+    },
+    "25_2866": {
+      "name": "Pikachu",
+      "id": 25,
+      "types": [
+        {
+          "id": 13,
+          "name": "Electric"
+        }
+      ],
+      "form": {
+        "name": "Gofest 2025 Goggles Yellow",
+        "id": 2866
+      },
+      "stats": {
+        "baseAttack": 112,
+        "baseDefense": 96,
+        "baseStamina": 111
+      },
+      "thirdMoveStardust": 10000,
+      "thirdMoveCandy": 25
+    },
+    "25_2867": {
+      "name": "Pikachu",
+      "id": 25,
+      "types": [
+        {
+          "id": 13,
+          "name": "Electric"
+        }
+      ],
+      "form": {
+        "name": "Gofest 2025 Monocle Red",
+        "id": 2867
+      },
+      "stats": {
+        "baseAttack": 112,
+        "baseDefense": 96,
+        "baseStamina": 111
+      },
+      "thirdMoveStardust": 10000,
+      "thirdMoveCandy": 25
+    },
+    "25_2868": {
+      "name": "Pikachu",
+      "id": 25,
+      "types": [
+        {
+          "id": 13,
+          "name": "Electric"
+        }
+      ],
+      "form": {
+        "name": "Gofest 2025 Monocle Blue",
+        "id": 2868
+      },
+      "stats": {
+        "baseAttack": 112,
+        "baseDefense": 96,
+        "baseStamina": 111
+      },
+      "thirdMoveStardust": 10000,
+      "thirdMoveCandy": 25
+    },
+    "25_2869": {
+      "name": "Pikachu",
+      "id": 25,
+      "types": [
+        {
+          "id": 13,
+          "name": "Electric"
+        }
+      ],
+      "form": {
+        "name": "Gofest 2025 Monocle Yellow",
+        "id": 2869
+      },
+      "stats": {
+        "baseAttack": 112,
+        "baseDefense": 96,
+        "baseStamina": 111
+      },
+      "thirdMoveStardust": 10000,
+      "thirdMoveCandy": 25
+    },
     "25_3002": {
       "name": "Pikachu",
       "id": 25,
@@ -2736,6 +2883,27 @@
       "form": {
         "name": "Wcs 2024",
         "id": 3015
+      },
+      "stats": {
+        "baseAttack": 112,
+        "baseDefense": 96,
+        "baseStamina": 111
+      },
+      "thirdMoveStardust": 10000,
+      "thirdMoveCandy": 25
+    },
+    "25_3017": {
+      "name": "Pikachu",
+      "id": 25,
+      "types": [
+        {
+          "id": 13,
+          "name": "Electric"
+        }
+      ],
+      "form": {
+        "name": "Wcs 2025",
+        "id": 3017
       },
       "stats": {
         "baseAttack": 112,
@@ -9333,17 +9501,17 @@
       "id": 128,
       "types": [
         {
-          "id": 1,
-          "name": "Normal"
+          "id": 2,
+          "name": "Fighting"
         }
       ],
       "form": {
-        "name": "Paldea Combat",
+        "name": "Combat Breed",
         "id": 3006
       },
       "stats": {
-        "baseAttack": 198,
-        "baseDefense": 183,
+        "baseAttack": 210,
+        "baseDefense": 193,
         "baseStamina": 181
       },
       "thirdMoveStardust": 50000,
@@ -9354,17 +9522,21 @@
       "id": 128,
       "types": [
         {
-          "id": 1,
-          "name": "Normal"
+          "id": 2,
+          "name": "Fighting"
+        },
+        {
+          "id": 10,
+          "name": "Fire"
         }
       ],
       "form": {
-        "name": "Paldea Blaze",
+        "name": "Blaze Breed",
         "id": 3007
       },
       "stats": {
-        "baseAttack": 198,
-        "baseDefense": 183,
+        "baseAttack": 210,
+        "baseDefense": 193,
         "baseStamina": 181
       },
       "thirdMoveStardust": 50000,
@@ -9375,17 +9547,21 @@
       "id": 128,
       "types": [
         {
-          "id": 1,
-          "name": "Normal"
+          "id": 2,
+          "name": "Fighting"
+        },
+        {
+          "id": 11,
+          "name": "Water"
         }
       ],
       "form": {
-        "name": "Paldea Aqua",
+        "name": "Aqua Breed",
         "id": 3008
       },
       "stats": {
-        "baseAttack": 198,
-        "baseDefense": 183,
+        "baseAttack": 210,
+        "baseDefense": 193,
         "baseStamina": 181
       },
       "thirdMoveStardust": 50000,
@@ -33810,6 +33986,26 @@
             }
           ],
           "unreleased": true
+        },
+        {
+          "tempEvoId": 1,
+          "stats": {
+            "baseAttack": 147,
+            "baseDefense": 239,
+            "baseStamina": 230
+          },
+          "types": [
+            {
+              "id": 1,
+              "name": "Normal"
+            },
+            {
+              "id": 18,
+              "name": "Fairy"
+            }
+          ],
+          "firstEnergyCost": 200,
+          "subsequentEnergyCost": 40
         }
       ]
     },
@@ -33852,6 +34048,26 @@
             }
           ],
           "unreleased": true
+        },
+        {
+          "tempEvoId": 1,
+          "stats": {
+            "baseAttack": 147,
+            "baseDefense": 239,
+            "baseStamina": 230
+          },
+          "types": [
+            {
+              "id": 1,
+              "name": "Normal"
+            },
+            {
+              "id": 18,
+              "name": "Fairy"
+            }
+          ],
+          "firstEnergyCost": 200,
+          "subsequentEnergyCost": 40
         }
       ]
     },
@@ -34772,6 +34988,10 @@
       "name": "Lilligant",
       "id": 549,
       "types": [
+        {
+          "id": 2,
+          "name": "Fighting"
+        },
         {
           "id": 12,
           "name": "Grass"
@@ -36008,7 +36228,7 @@
       "evolutions": [
         {
           "evoId": 571,
-          "id": 0,
+          "id": 2111,
           "candyCost": 50
         }
       ]
@@ -36032,15 +36252,26 @@
         "baseStamina": 120
       },
       "thirdMoveStardust": 75000,
-      "thirdMoveCandy": 75
+      "thirdMoveCandy": 75,
+      "evolutions": [
+        {
+          "evoId": 571,
+          "id": 2111,
+          "candyCost": 50
+        }
+      ]
     },
     "570_2796": {
       "name": "Zorua",
       "id": 570,
       "types": [
         {
-          "id": 17,
-          "name": "Dark"
+          "id": 1,
+          "name": "Normal"
+        },
+        {
+          "id": 8,
+          "name": "Ghost"
         }
       ],
       "form": {
@@ -36048,12 +36279,19 @@
         "id": 2796
       },
       "stats": {
-        "baseAttack": 153,
-        "baseDefense": 78,
-        "baseStamina": 120
+        "baseAttack": 162,
+        "baseDefense": 79,
+        "baseStamina": 111
       },
       "thirdMoveStardust": 75000,
-      "thirdMoveCandy": 75
+      "thirdMoveCandy": 75,
+      "evolutions": [
+        {
+          "evoId": 571,
+          "id": 2797,
+          "candyCost": 50
+        }
+      ]
     },
     "571_0": {
       "name": "Zoroark",
@@ -36102,8 +36340,12 @@
       "id": 571,
       "types": [
         {
-          "id": 17,
-          "name": "Dark"
+          "id": 1,
+          "name": "Normal"
+        },
+        {
+          "id": 8,
+          "name": "Ghost"
         }
       ],
       "form": {
@@ -36111,9 +36353,9 @@
         "id": 2797
       },
       "stats": {
-        "baseAttack": 250,
-        "baseDefense": 127,
-        "baseStamina": 155
+        "baseAttack": 261,
+        "baseDefense": 128,
+        "baseStamina": 146
       },
       "thirdMoveStardust": 75000,
       "thirdMoveCandy": 75
@@ -39056,7 +39298,12 @@
       "evolutions": [
         {
           "evoId": 983,
-          "id": 0
+          "id": 0,
+          "candyCost": 100,
+          "questRequirement": {
+            "target": 15,
+            "i18n": "Defeat {{amount}} Dark- or Steel-type Raid Bosses"
+          }
         }
       ]
     },
@@ -43778,7 +44025,7 @@
       "evolutions": [
         {
           "evoId": 681,
-          "id": 0,
+          "id": 2639,
           "candyCost": 100
         }
       ],
@@ -43854,8 +44101,8 @@
         "id": 2640
       },
       "stats": {
-        "baseAttack": 97,
-        "baseDefense": 272,
+        "baseAttack": 272,
+        "baseDefense": 97,
         "baseStamina": 155
       },
       "thirdMoveStardust": 75000,
@@ -48966,10 +49213,6 @@
             "target": 20,
             "i18n": "Catch {{amount}} Dragon-type Pokémon"
           }
-        },
-        {
-          "evoId": 804,
-          "id": 0
         }
       ]
     },
@@ -49237,6 +49480,27 @@
       "thirdMoveStardust": 10000,
       "thirdMoveCandy": 25
     },
+    "812_2326": {
+      "name": "Rillaboom",
+      "id": 812,
+      "types": [
+        {
+          "id": 12,
+          "name": "Grass"
+        }
+      ],
+      "form": {
+        "name": "Normal",
+        "id": 2326
+      },
+      "stats": {
+        "baseAttack": 239,
+        "baseDefense": 168,
+        "baseStamina": 225
+      },
+      "thirdMoveStardust": 10000,
+      "thirdMoveCandy": 25
+    },
     "813_0": {
       "name": "Scorbunny",
       "id": 813,
@@ -49305,6 +49569,27 @@
       "form": {
         "name": "",
         "id": 0
+      },
+      "stats": {
+        "baseAttack": 238,
+        "baseDefense": 163,
+        "baseStamina": 190
+      },
+      "thirdMoveStardust": 10000,
+      "thirdMoveCandy": 25
+    },
+    "815_3016": {
+      "name": "Cinderace",
+      "id": 815,
+      "types": [
+        {
+          "id": 10,
+          "name": "Fire"
+        }
+      ],
+      "form": {
+        "name": "Normal",
+        "id": 3016
       },
       "stats": {
         "baseAttack": 238,
@@ -49968,12 +50253,14 @@
         {
           "evoId": 841,
           "id": 0,
-          "candyCost": 400
+          "candyCost": 200,
+          "itemRequirement": "Tart Apple"
         },
         {
           "evoId": 842,
           "id": 0,
-          "candyCost": 400
+          "candyCost": 200,
+          "itemRequirement": "Sweet Apple"
         }
       ]
     },
@@ -51031,6 +51318,48 @@
       "thirdMoveStardust": 75000,
       "thirdMoveCandy": 75
     },
+    "870_2325": {
+      "name": "Falinks",
+      "id": 870,
+      "types": [
+        {
+          "id": 2,
+          "name": "Fighting"
+        }
+      ],
+      "form": {
+        "name": "Normal",
+        "id": 2325
+      },
+      "stats": {
+        "baseAttack": 193,
+        "baseDefense": 170,
+        "baseStamina": 163
+      },
+      "thirdMoveStardust": 75000,
+      "thirdMoveCandy": 75
+    },
+    "870_2870": {
+      "name": "Falinks",
+      "id": 870,
+      "types": [
+        {
+          "id": 2,
+          "name": "Fighting"
+        }
+      ],
+      "form": {
+        "name": "Gofest 2025 Train Conductor",
+        "id": 2870
+      },
+      "stats": {
+        "baseAttack": 193,
+        "baseDefense": 170,
+        "baseStamina": 163
+      },
+      "thirdMoveStardust": 75000,
+      "thirdMoveCandy": 75
+    },
     "871_0": {
       "name": "Pincurchin",
       "id": 871,
@@ -51666,7 +51995,7 @@
         }
       ],
       "form": {
-        "name": "Hero of Many Battles",
+        "name": "Hero",
         "id": 2577
       },
       "stats": {
@@ -51737,7 +52066,7 @@
         }
       ],
       "form": {
-        "name": "Hero of Many Battles",
+        "name": "Hero",
         "id": 2579
       },
       "stats": {
@@ -51842,7 +52171,27 @@
         "baseStamina": 155
       },
       "thirdMoveStardust": 100000,
-      "thirdMoveCandy": 100
+      "thirdMoveCandy": 100,
+      "evolutions": [
+        {
+          "evoId": 892,
+          "id": 2723,
+          "candyCost": 200,
+          "questRequirement": {
+            "target": 30,
+            "i18n": "Defeat {{amount}} Dark-type Pokémon in raids or Max Battles"
+          }
+        },
+        {
+          "evoId": 892,
+          "id": 2724,
+          "candyCost": 200,
+          "questRequirement": {
+            "target": 30,
+            "i18n": "Defeat {{amount}} Water-type Pokémon in raids or Max Battles"
+          }
+        }
+      ]
     },
     "892_0": {
       "name": "Urshifu",
@@ -51879,7 +52228,7 @@
         }
       ],
       "form": {
-        "name": "Single Strike",
+        "name": "Single Strike Style",
         "id": 2723
       },
       "stats": {
@@ -51904,7 +52253,7 @@
         }
       ],
       "form": {
-        "name": "Rapid Strike",
+        "name": "Rapid Strike Style",
         "id": 2724
       },
       "stats": {
@@ -54225,7 +54574,7 @@
         }
       ],
       "form": {
-        "name": "Hero of Many Battles",
+        "name": "Hero",
         "id": 2990
       },
       "stats": {
@@ -55257,6 +55606,34 @@
       "form": {
         "name": "Normal",
         "id": 2998
+      },
+      "stats": {
+        "baseAttack": 140,
+        "baseDefense": 76,
+        "baseStamina": 128
+      },
+      "thirdMoveStardust": 10000,
+      "thirdMoveCandy": 25,
+      "evolutions": [
+        {
+          "evoId": 1000,
+          "id": 0,
+          "itemRequirement": "Gimmighoul Coins"
+        }
+      ]
+    },
+    "999_3018": {
+      "name": "Gimmighoul",
+      "id": 999,
+      "types": [
+        {
+          "id": 8,
+          "name": "Ghost"
+        }
+      ],
+      "form": {
+        "name": "Coin A1",
+        "id": 3018
       },
       "stats": {
         "baseAttack": 140,
@@ -57218,6 +57595,12 @@
     "303": {
       "name": "Lucky Trinket"
     },
+    "304": {
+      "name": "Silver Bottle Cap"
+    },
+    "305": {
+      "name": "Gold Bottle Cap"
+    },
     "401": {
       "name": "Incense"
     },
@@ -57231,10 +57614,10 @@
       "name": "Coin Bag"
     },
     "408": {
-      "name": "Incense Day Bonus"
+      "name": "Sunsteel Strike"
     },
     "409": {
-      "name": "Incense Night Bonus"
+      "name": "Moongeist Beam"
     },
     "501": {
       "name": "Lure Module"
@@ -57344,6 +57727,18 @@
     "1150": {
       "name": "Gimmighoul Coins"
     },
+    "1151": {
+      "name": "Sweet Apple"
+    },
+    "1152": {
+      "name": "Tart Apple"
+    },
+    "1153": {
+      "name": "Crowned Sword Energy"
+    },
+    "1154": {
+      "name": "Crowned Shield Energy"
+    },
     "1201": {
       "name": "Fast TM"
     },
@@ -57379,6 +57774,9 @@
     },
     "1406": {
       "name": "Team Medallion"
+    },
+    "1407": {
+      "name": "Route Maker"
     },
     "1408": {
       "name": "Remote Raid Pass"
@@ -57498,10 +57896,25 @@
       "name": "Event Ticket 10 To Gift"
     },
     "2001": {
-      "name": "Event Pass Point Go Tour 01"
+      "name": "Pass Points"
     },
     "2002": {
-      "name": "Event Pass Point Go Tour 02"
+      "name": "Pass Points"
+    },
+    "2021": {
+      "name": "Pass Points"
+    },
+    "2022": {
+      "name": "Pass Points"
+    },
+    "2101": {
+      "name": "Pass Points"
+    },
+    "2102": {
+      "name": "Pass Points"
+    },
+    "2103": {
+      "name": "Pass Points"
     }
   },
   "moves": {
@@ -58936,6 +59349,82 @@
     "467": {
       "name": "Ice Burn",
       "type": "Ice"
+    },
+    "468": {
+      "name": "Torch Song",
+      "type": "Fire"
+    },
+    "469": {
+      "name": "Behemoth Blade",
+      "type": "Steel"
+    },
+    "470": {
+      "name": "Behemoth Bash",
+      "type": "Steel"
+    },
+    "471": {
+      "name": "Upper Hand",
+      "type": "Fighting"
+    },
+    "472": {
+      "name": "Thunder Cage",
+      "type": "Electric"
+    },
+    "473": {
+      "name": "Guard",
+      "type": "Normal"
+    },
+    "474": {
+      "name": "Spirit",
+      "type": "Normal"
+    },
+    "475": {
+      "name": "Guard",
+      "type": "Normal"
+    },
+    "476": {
+      "name": "Spirit",
+      "type": "Normal"
+    },
+    "477": {
+      "name": "Guard",
+      "type": "Normal"
+    },
+    "478": {
+      "name": "Spirit",
+      "type": "Normal"
+    },
+    "479": {
+      "name": "Behemoth Blade",
+      "type": "Steel"
+    },
+    "480": {
+      "name": "Behemoth Bash",
+      "type": "Steel"
+    },
+    "482": {
+      "name": "Dynamax Cannon",
+      "type": "Dragon"
+    },
+    "483": {
+      "name": "Dynamax Cannon",
+      "type": "Dragon"
+    },
+    "484": {
+      "name": "Clanging Scales",
+      "type": "Dragon"
+    },
+    "485": {
+      "name": "Crush Grip",
+      "type": "Normal"
+    },
+    "486": {
+      "name": "Dragon Energy",
+      "type": "Dragon"
+    },
+    "487": {
+      "name": "Aqua Step",
+      "type": "Water"
     }
   },
   "questTypes": {
@@ -59209,6 +59698,12 @@
     },
     "97": {
       "text": "Use Star Piece"
+    },
+    "98": {
+      "text": "Pokemon Reach CP"
+    },
+    "99": {
+      "text": "Spend Stardust"
     }
   },
   "grunts": {
@@ -59273,19 +59768,19 @@
       "thirdReward": true,
       "encounters": {
         "first": [
-          495,
-          498,
-          501
+          1,
+          4,
+          7
         ],
         "second": [
-          496,
-          499,
-          502
+          2,
+          5,
+          8
         ],
         "third": [
-          497,
-          500,
-          503
+          3,
+          6,
+          9
         ]
       }
     },
@@ -59334,9 +59829,9 @@
       "thirdReward": true,
       "encounters": {
         "first": [
-          10,
           123,
-          543
+          165,
+          204
         ],
         "second": [
           347,
@@ -59386,8 +59881,8 @@
       "encounters": {
         "first": [
           19,
-          331,
-          434
+          318,
+          331
         ],
         "second": [
           20,
@@ -59423,17 +59918,16 @@
         "first": [
           147,
           371,
-          443
+          696
         ],
         "second": [
           103,
-          148,
-          444
+          148
         ],
         "third": [
           149,
           373,
-          445
+          697
         ]
       }
     },
@@ -59464,13 +59958,13 @@
           303
         ],
         "second": [
+          110,
           209,
-          210,
           281
         ],
         "third": [
           38,
-          210,
+          110,
           282
         ]
       }
@@ -59499,7 +59993,7 @@
         "first": [
           56,
           66,
-          532
+          296
         ],
         "second": [
           106,
@@ -59535,7 +60029,7 @@
       "thirdReward": true,
       "encounters": {
         "first": [
-          37,
+          322,
           498,
           554
         ],
@@ -59625,7 +60119,7 @@
       "encounters": {
         "first": [
           187,
-          459,
+          273,
           495
         ],
         "second": [
@@ -59662,8 +60156,8 @@
       "thirdReward": true,
       "encounters": {
         "first": [
-          111,
-          194,
+          27,
+          207,
           529
         ],
         "second": [
@@ -59687,9 +60181,9 @@
       "thirdReward": true,
       "encounters": {
         "first": [
-          27,
           215,
-          363
+          220,
+          698
         ],
         "second": [
           38,
@@ -59698,8 +60192,8 @@
         ],
         "third": [
           362,
-          460,
-          478
+          478,
+          699
         ]
       }
     },
@@ -59740,7 +60234,7 @@
         "first": [
           27,
           50,
-          597
+          374
         ],
         "second": [
           227,
@@ -59776,7 +60270,7 @@
       "thirdReward": true,
       "encounters": {
         "first": [
-          234,
+          287,
           399,
           659
         ],
@@ -59801,8 +60295,8 @@
       "thirdReward": true,
       "encounters": {
         "first": [
-          109,
-          453,
+          72,
+          451,
           568
         ],
         "second": [
@@ -59851,18 +60345,18 @@
       "thirdReward": true,
       "encounters": {
         "first": [
-          574,
-          577
+          280,
+          686
         ],
         "second": [
+          96,
           202,
-          575,
           578
         ],
         "third": [
-          376,
           475,
-          579
+          579,
+          687
         ]
       }
     },
@@ -59889,8 +60383,8 @@
       "encounters": {
         "first": [
           524,
-          564,
-          566
+          696,
+          698
         ],
         "second": [
           75,
@@ -59899,8 +60393,8 @@
         ],
         "third": [
           76,
-          565,
-          567
+          697,
+          699
         ]
       }
     },
@@ -59913,12 +60407,11 @@
       "thirdReward": true,
       "encounters": {
         "first": [
-          116,
           339,
+          363,
           501
         ],
         "second": [
-          91,
           117,
           502
         ],
@@ -59970,17 +60463,17 @@
       "thirdReward": true,
       "encounters": {
         "first": [
-          104
+          443
         ],
         "second": [
-          67,
-          105,
+          227,
+          430,
           979
         ],
         "third": [
           68,
-          169,
-          248
+          248,
+          405
         ]
       }
     },
@@ -59993,17 +60486,17 @@
       "thirdReward": true,
       "encounters": {
         "first": [
-          88
+          116
         ],
         "second": [
-          51,
           80,
-          130
+          169,
+          208
         ],
         "third": [
+          65,
           89,
-          212,
-          376
+          212
         ]
       }
     },
@@ -60016,16 +60509,16 @@
       "thirdReward": true,
       "encounters": {
         "first": [
-          451
+          328
         ],
         "second": [
-          38,
-          350,
+          398,
+          429,
           598
         ],
         "third": [
-          31,
           229,
+          323,
           452
         ]
       }
@@ -60043,11 +60536,11 @@
         ],
         "second": [
           34,
-          230,
+          115,
           464
         ],
         "third": [
-          484
+          483
         ]
       }
     },
@@ -60133,7 +60626,7 @@
       "encounters": {
         "first": [
           81,
-          522,
+          179,
           595
         ],
         "second": [

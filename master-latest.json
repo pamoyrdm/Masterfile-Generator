@@ -449,7 +449,8 @@
       ],
       "quick_moves": [
         "Bite",
-        "Water Gun"
+        "Water Gun",
+        "Rollout"
       ],
       "charged_moves": [
         "Flash Cannon",
@@ -738,6 +739,7 @@
       ],
       "quick_moves": [
         "Poison Jab",
+        "Poison Sting",
         "Infestation"
       ],
       "charged_moves": [
@@ -1216,6 +1218,7 @@
       "quick_moves": [
         "Bite",
         "Acid",
+        "Poison Sting",
         "Dragon Tail"
       ],
       "charged_moves": [
@@ -1527,6 +1530,41 @@
           "proto": "PIKACHU_GOTOUR_2025_B_02",
           "is_costume": true
         },
+        "2863": {
+          "name": "Kurta",
+          "proto": "PIKACHU_KURTA",
+          "is_costume": true
+        },
+        "2864": {
+          "name": "Gofest 2025 Goggles Red",
+          "proto": "PIKACHU_GOFEST_2025_GOGGLES_RED",
+          "is_costume": true
+        },
+        "2865": {
+          "name": "Gofest 2025 Goggles Blue",
+          "proto": "PIKACHU_GOFEST_2025_GOGGLES_BLUE",
+          "is_costume": true
+        },
+        "2866": {
+          "name": "Gofest 2025 Goggles Yellow",
+          "proto": "PIKACHU_GOFEST_2025_GOGGLES_YELLOW",
+          "is_costume": true
+        },
+        "2867": {
+          "name": "Gofest 2025 Monocle Red",
+          "proto": "PIKACHU_GOFEST_2025_MONOCLE_RED",
+          "is_costume": true
+        },
+        "2868": {
+          "name": "Gofest 2025 Monocle Blue",
+          "proto": "PIKACHU_GOFEST_2025_MONOCLE_BLUE",
+          "is_costume": true
+        },
+        "2869": {
+          "name": "Gofest 2025 Monocle Yellow",
+          "proto": "PIKACHU_GOFEST_2025_MONOCLE_YELLOW",
+          "is_costume": true
+        },
         "3002": {
           "name": "Summer 2023 A",
           "proto": "PIKACHU_SUMMER_2023_A",
@@ -1590,6 +1628,10 @@
           "name": "Wcs 2024",
           "proto": "PIKACHU_WCS_2024",
           "is_costume": true
+        },
+        "3017": {
+          "name": "Wcs 2025",
+          "proto": "PIKACHU_WCS_2025"
         }
       },
       "attack": 112,
@@ -1632,6 +1674,7 @@
         "Thunder Punch",
         "Brick Break",
         "Wild Charge",
+        "Surf",
         "Skull Bash",
         "Trailblaze"
       ],
@@ -1660,6 +1703,7 @@
             "Psychic",
             "Wild Charge",
             "Grass Knot",
+            "Surf",
             "Trailblaze"
           ],
           "types": [
@@ -1939,7 +1983,8 @@
       ],
       "quick_moves": [
         "Bite",
-        "Poison Jab"
+        "Poison Jab",
+        "Poison Sting"
       ],
       "charged_moves": [
         "Earthquake",
@@ -2082,6 +2127,7 @@
       ],
       "quick_moves": [
         "Poison Jab",
+        "Poison Sting",
         "Iron Tail",
         "Double Kick"
       ],
@@ -2853,7 +2899,8 @@
       ],
       "quick_moves": [
         "Confusion",
-        "Infestation"
+        "Infestation",
+        "Psywave"
       ],
       "charged_moves": [
         "Bug Buzz",
@@ -3085,7 +3132,8 @@
           "weight": 7.5,
           "quick_moves": [
             "Scratch",
-            "Metal Claw"
+            "Metal Claw",
+            "Metal Sound"
           ],
           "charged_moves": [
             "Dig",
@@ -4160,7 +4208,8 @@
       ],
       "quick_moves": [
         "Poison Jab",
-        "Acid"
+        "Acid",
+        "Poison Sting"
       ],
       "charged_moves": [
         "Blizzard",
@@ -6192,6 +6241,7 @@
         "Zen Headbutt"
       ],
       "charged_moves": [
+        "Wrap",
         "Hyper Beam",
         "Power Whip",
         "Stomp"
@@ -6296,7 +6346,8 @@
       ],
       "quick_moves": [
         "Tackle",
-        "Infestation"
+        "Infestation",
+        "Rollout"
       ],
       "charged_moves": [
         "Dark Pulse",
@@ -6321,7 +6372,6 @@
             "Fairy Wind"
           ],
           "charged_moves": [
-            "Hyper Beam",
             "Hyper Beam",
             "Sludge",
             "Play Rough",
@@ -7217,7 +7267,7 @@
     "128": {
       "name": "Tauros",
       "pokedex_id": 128,
-      "default_form_id": 0,
+      "default_form_id": 1086,
       "types": [
         "Normal"
       ],
@@ -7234,25 +7284,80 @@
       "gen_id": 1,
       "generation": "Kanto",
       "forms": {
-        "0": {
-          "name": "Unset",
-          "proto": "FORM_UNSET"
-        },
         "1086": {
           "name": "Normal",
           "proto": "TAUROS_NORMAL"
         },
         "3006": {
           "name": "Paldea Combat",
-          "proto": "TAUROS_PALDEA_COMBAT"
+          "proto": "TAUROS_PALDEA_COMBAT",
+          "attack": 210,
+          "defense": 193,
+          "stamina": 181,
+          "height": 1.4,
+          "weight": 115,
+          "quick_moves": [
+            "Tackle",
+            "Zen Headbutt",
+            "Double Kick"
+          ],
+          "charged_moves": [
+            "Earthquake",
+            "Iron Head",
+            "Close Combat",
+            "Trailblaze"
+          ],
+          "types": [
+            "Fighting"
+          ]
         },
         "3007": {
           "name": "Paldea Blaze",
-          "proto": "TAUROS_PALDEA_BLAZE"
+          "proto": "TAUROS_PALDEA_BLAZE",
+          "attack": 210,
+          "defense": 193,
+          "stamina": 181,
+          "height": 1.4,
+          "weight": 85,
+          "quick_moves": [
+            "Tackle",
+            "Zen Headbutt",
+            "Double Kick"
+          ],
+          "charged_moves": [
+            "Earthquake",
+            "Iron Head",
+            "Flame Charge",
+            "Trailblaze"
+          ],
+          "types": [
+            "Fighting",
+            "Fire"
+          ]
         },
         "3008": {
           "name": "Paldea Aqua",
-          "proto": "TAUROS_PALDEA_AQUA"
+          "proto": "TAUROS_PALDEA_AQUA",
+          "attack": 210,
+          "defense": 193,
+          "stamina": 181,
+          "height": 1.4,
+          "weight": 110,
+          "quick_moves": [
+            "Tackle",
+            "Zen Headbutt",
+            "Double Kick"
+          ],
+          "charged_moves": [
+            "Earthquake",
+            "Aqua Jet",
+            "Iron Head",
+            "Trailblaze"
+          ],
+          "types": [
+            "Fighting",
+            "Water"
+          ]
         }
       },
       "attack": 198,
@@ -7383,13 +7488,15 @@
       ],
       "quick_moves": [
         "Frost Breath",
-        "Water Gun"
+        "Water Gun",
+        "Psywave"
       ],
       "charged_moves": [
         "Blizzard",
         "Hydro Pump",
         "Surf",
-        "Skull Bash"
+        "Skull Bash",
+        "Sparkling Aria"
       ],
       "gen_id": 1,
       "generation": "Kanto",
@@ -8067,7 +8174,8 @@
           "charged_moves": [
             "Ancient Power",
             "Brave Bird",
-            "Futuresight"
+            "Futuresight",
+            "Fly"
           ],
           "types": [
             "Flying",
@@ -8127,7 +8235,8 @@
           "charged_moves": [
             "Ancient Power",
             "Close Combat",
-            "Brave Bird"
+            "Brave Bird",
+            "Fly"
           ],
           "types": [
             "Fighting",
@@ -8188,7 +8297,8 @@
           "charged_moves": [
             "Ancient Power",
             "Brave Bird",
-            "Payback"
+            "Payback",
+            "Fly"
           ],
           "types": [
             "Flying",
@@ -9017,7 +9127,9 @@
       "charged_moves": [
         "Hyper Beam",
         "Dig",
-        "Brick Break"
+        "Brick Break",
+        "Swift",
+        "Trailblaze"
       ],
       "gen_id": 2,
       "generation": "Johto",
@@ -9670,6 +9782,7 @@
       ],
       "charged_moves": [
         "Aerial Ace",
+        "Psyshock",
         "Ancient Power",
         "Draining Kiss",
         "Dazzling Gleam"
@@ -11632,7 +11745,8 @@
         "Megahorn",
         "Earthquake",
         "Close Combat",
-        "Rock Blast"
+        "Rock Blast",
+        "Upper Hand"
       ],
       "gen_id": 2,
       "generation": "Johto",
@@ -12014,6 +12128,7 @@
         "Stone Edge",
         "Bulldoze",
         "Avalanche",
+        "Icicle Spear",
         "High Horsepower"
       ],
       "gen_id": 2,
@@ -12687,8 +12802,229 @@
       "types": [
         "Normal"
       ],
-      "quick_moves": [],
-      "charged_moves": [],
+      "quick_moves": [
+        "Fury Cutter",
+        "Bug Bite",
+        "Bite",
+        "Sucker Punch",
+        "Dragon Breath",
+        "Thunder Shock",
+        "Spark",
+        "Low Kick",
+        "Karate Chop",
+        "Ember",
+        "Wing Attack",
+        "Peck",
+        "Lick",
+        "Shadow Claw",
+        "Vine Whip",
+        "Razor Leaf",
+        "Mud Shot",
+        "Ice Shard",
+        "Frost Breath",
+        "Quick Attack",
+        "Scratch",
+        "Tackle",
+        "Pound",
+        "Cut",
+        "Poison Jab",
+        "Acid",
+        "Psycho Cut",
+        "Rock Throw",
+        "Metal Claw",
+        "Bullet Punch",
+        "Water Gun",
+        "Splash",
+        "Mud Slap",
+        "Zen Headbutt",
+        "Confusion",
+        "Poison Sting",
+        "Bubble",
+        "Feint Attack",
+        "Steel Wing",
+        "Fire Fang",
+        "Rock Smash",
+        "Counter",
+        "Powder Snow",
+        "Charge Beam",
+        "Volt Switch",
+        "Dragon Tail",
+        "Air Slash",
+        "Infestation",
+        "Struggle Bug",
+        "Astonish",
+        "Hex",
+        "Iron Tail",
+        "Fire Spin",
+        "Bullet Seed",
+        "Extrasensory",
+        "Snarl",
+        "Hidden Power",
+        "Take Down",
+        "Waterfall",
+        "Yawn",
+        "Present",
+        "Smack Down",
+        "Charm",
+        "Lock On",
+        "Thunder Fang",
+        "Ice Fang",
+        "Gust",
+        "Incinerate"
+      ],
+      "charged_moves": [
+        "Wrap",
+        "Hyper Beam",
+        "Dark Pulse",
+        "Sludge",
+        "Vice Grip",
+        "Flame Wheel",
+        "Megahorn",
+        "Flamethrower",
+        "Dig",
+        "Cross Chop",
+        "Psybeam",
+        "Earthquake",
+        "Stone Edge",
+        "Ice Punch",
+        "Discharge",
+        "Flash Cannon",
+        "Drill Peck",
+        "Ice Beam",
+        "Blizzard",
+        "Heat Wave",
+        "Aerial Ace",
+        "Drill Run",
+        "Petal Blizzard",
+        "Bug Buzz",
+        "Poison Fang",
+        "Night Slash",
+        "Bubble Beam",
+        "Submission",
+        "Low Sweep",
+        "Aqua Jet",
+        "Aqua Tail",
+        "Seed Bomb",
+        "Psyshock",
+        "Ancient Power",
+        "Rock Tomb",
+        "Rock Slide",
+        "Power Gem",
+        "Shadow Sneak",
+        "Shadow Punch",
+        "Ominous Wind",
+        "Shadow Ball",
+        "Magnet Bomb",
+        "Iron Head",
+        "Thunder Punch",
+        "Thunder",
+        "Thunderbolt",
+        "Twister",
+        "Dragon Pulse",
+        "Dragon Claw",
+        "Disarming Voice",
+        "Draining Kiss",
+        "Dazzling Gleam",
+        "Moonblast",
+        "Play Rough",
+        "Cross Poison",
+        "Sludge Bomb",
+        "Sludge Wave",
+        "Gunk Shot",
+        "Bone Club",
+        "Bulldoze",
+        "Mud Bomb",
+        "Signal Beam",
+        "X Scissor",
+        "Flame Charge",
+        "Flame Burst",
+        "Fire Blast",
+        "Brine",
+        "Water Pulse",
+        "Scald",
+        "Hydro Pump",
+        "Psychic",
+        "Psystrike",
+        "Icy Wind",
+        "Fire Punch",
+        "Solar Beam",
+        "Leaf Blade",
+        "Power Whip",
+        "Air Cutter",
+        "Hurricane",
+        "Brick Break",
+        "Swift",
+        "Horn Attack",
+        "Stomp",
+        "Hyper Fang",
+        "Body Slam",
+        "Struggle",
+        "Close Combat",
+        "Dynamic Punch",
+        "Focus Blast",
+        "Aurora Beam",
+        "Wild Charge",
+        "Zap Cannon",
+        "Avalanche",
+        "Brave Bird",
+        "Sky Attack",
+        "Sand Tomb",
+        "Rock Blast",
+        "Silver Wind",
+        "Night Shade",
+        "Gyro Ball",
+        "Heavy Slam",
+        "Overheat",
+        "Grass Knot",
+        "Energy Ball",
+        "Futuresight",
+        "Mirror Coat",
+        "Outrage",
+        "Crunch",
+        "Foul Play",
+        "Surf",
+        "Draco Meteor",
+        "Doom Desire",
+        "Psycho Boost",
+        "Weather Ball Fire",
+        "Weather Ball Ice",
+        "Weather Ball Water",
+        "Frenzy Plant",
+        "Blast Burn",
+        "Hydro Cannon",
+        "Last Resort",
+        "Meteor Mash",
+        "Skull Bash",
+        "Acid Spray",
+        "Earth Power",
+        "Crabhammer",
+        "Lunge",
+        "Octazooka",
+        "Mirror Shot",
+        "Super Power",
+        "Fell Stinger",
+        "Leaf Tornado",
+        "Shadow Bone",
+        "Muddy Water",
+        "Blaze Kick",
+        "Power Up Punch",
+        "Giga Impact",
+        "Synchronoise",
+        "Sacred Sword",
+        "Flying Press",
+        "Aura Sphere",
+        "Payback",
+        "Rock Wrecker",
+        "Aeroblast",
+        "Techno Blast Normal",
+        "Techno Blast Burn",
+        "Techno Blast Chill",
+        "Techno Blast Water",
+        "Techno Blast Shock",
+        "Fly",
+        "V Create",
+        "Tri Attack"
+      ],
       "gen_id": 2,
       "generation": "Johto",
       "forms": {
@@ -13343,7 +13679,8 @@
       "charged_moves": [
         "Hydro Pump",
         "Sky Attack",
-        "Futuresight"
+        "Futuresight",
+        "Fly"
       ],
       "gen_id": 2,
       "generation": "Johto",
@@ -13881,6 +14218,7 @@
         "Water Gun"
       ],
       "charged_moves": [
+        "Sludge",
         "Earthquake",
         "Sludge Wave",
         "Surf",
@@ -13980,6 +14318,7 @@
       ],
       "quick_moves": [
         "Bite",
+        "Sucker Punch",
         "Fire Fang",
         "Thunder Fang",
         "Ice Fang"
@@ -14101,6 +14440,7 @@
       "charged_moves": [
         "Dig",
         "Thunder",
+        "Swift",
         "Grass Knot"
       ],
       "gen_id": 3,
@@ -15626,7 +15966,8 @@
       "charged_moves": [
         "Cross Chop",
         "Low Sweep",
-        "Heavy Slam"
+        "Heavy Slam",
+        "Upper Hand"
       ],
       "gen_id": 3,
       "generation": "Hoenn",
@@ -15679,7 +16020,8 @@
         "Close Combat",
         "Dynamic Punch",
         "Heavy Slam",
-        "Super Power"
+        "Super Power",
+        "Upper Hand"
       ],
       "gen_id": 3,
       "generation": "Hoenn",
@@ -15908,6 +16250,7 @@
       "charged_moves": [
         "Power Gem",
         "Shadow Sneak",
+        "Dazzling Gleam",
         "Foul Play"
       ],
       "gen_id": 3,
@@ -16021,7 +16364,8 @@
       ],
       "quick_moves": [
         "Tackle",
-        "Metal Claw"
+        "Metal Claw",
+        "Metal Sound"
       ],
       "charged_moves": [
         "Rock Tomb",
@@ -16073,7 +16417,8 @@
       ],
       "quick_moves": [
         "Metal Claw",
-        "Iron Tail"
+        "Iron Tail",
+        "Metal Sound"
       ],
       "charged_moves": [
         "Rock Tomb",
@@ -16126,7 +16471,8 @@
       "quick_moves": [
         "Dragon Tail",
         "Iron Tail",
-        "Smack Down"
+        "Smack Down",
+        "Metal Sound"
       ],
       "charged_moves": [
         "Stone Edge",
@@ -16659,6 +17005,7 @@
         "Infestation"
       ],
       "charged_moves": [
+        "Sludge",
         "Ice Beam",
         "Sludge Bomb",
         "Gunk Shot",
@@ -16801,7 +17148,8 @@
       ],
       "quick_moves": [
         "Water Gun",
-        "Splash"
+        "Splash",
+        "Rollout"
       ],
       "charged_moves": [
         "Water Pulse",
@@ -16850,7 +17198,8 @@
       ],
       "quick_moves": [
         "Water Gun",
-        "Zen Headbutt"
+        "Zen Headbutt",
+        "Rollout"
       ],
       "charged_moves": [
         "Hyper Beam",
@@ -17088,11 +17437,13 @@
       ],
       "quick_moves": [
         "Charge Beam",
-        "Extrasensory"
+        "Extrasensory",
+        "Psywave"
       ],
       "charged_moves": [
         "Shadow Ball",
         "Psychic",
+        "Dynamic Punch",
         "Mirror Coat"
       ],
       "gen_id": 3,
@@ -18111,6 +18462,7 @@
       ],
       "charged_moves": [
         "Stone Edge",
+        "Rock Tomb",
         "Rock Slide",
         "Bulldoze",
         "Grass Knot"
@@ -18287,6 +18639,7 @@
         "Waterfall"
       ],
       "charged_moves": [
+        "Wrap",
         "Hyper Beam",
         "Blizzard",
         "Surf"
@@ -18900,7 +19253,8 @@
       ],
       "quick_moves": [
         "Ice Shard",
-        "Frost Breath"
+        "Frost Breath",
+        "Rollout"
       ],
       "charged_moves": [
         "Shadow Ball",
@@ -19012,7 +19366,8 @@
       "charged_moves": [
         "Water Pulse",
         "Body Slam",
-        "Aurora Beam"
+        "Aurora Beam",
+        "Surf"
       ],
       "gen_id": 3,
       "generation": "Hoenn",
@@ -19518,6 +19873,7 @@
         "Psychic"
       ],
       "quick_moves": [
+        "Fury Cutter",
         "Metal Claw",
         "Zen Headbutt"
       ],
@@ -19569,6 +19925,7 @@
         "Psychic"
       ],
       "quick_moves": [
+        "Fury Cutter",
         "Bullet Punch",
         "Zen Headbutt"
       ],
@@ -21082,6 +21439,7 @@
       "quick_moves": [
         "Razor Leaf",
         "Poison Jab",
+        "Poison Sting",
         "Magical Leaf"
       ],
       "charged_moves": [
@@ -23406,6 +23764,7 @@
       "quick_moves": [
         "Mud Shot",
         "Poison Jab",
+        "Poison Sting",
         "Counter"
       ],
       "charged_moves": [
@@ -24032,6 +24391,7 @@
       "charged_moves": [
         "Flamethrower",
         "Aerial Ace",
+        "Psyshock",
         "Ancient Power",
         "Dazzling Gleam"
       ],
@@ -24245,6 +24605,7 @@
         "Stone Edge",
         "Bulldoze",
         "Avalanche",
+        "Icicle Spear",
         "High Horsepower"
       ],
       "gen_id": 4,
@@ -24417,6 +24778,7 @@
         "Shadow Punch",
         "Ominous Wind",
         "Psychic",
+        "Dynamic Punch",
         "Poltergeist"
       ],
       "gen_id": 4,
@@ -27072,7 +27434,8 @@
       "charged_moves": [
         "Hyper Beam",
         "Disarming Voice",
-        "Dazzling Gleam"
+        "Dazzling Gleam",
+        "Body Slam"
       ],
       "gen_id": 5,
       "generation": "Unova",
@@ -27107,11 +27470,12 @@
           "attack": 147,
           "defense": 239,
           "stamina": 230,
+          "height": 1.5,
+          "weight": 32,
           "types": [
             "Normal",
             "Fairy"
-          ],
-          "unreleased": true
+          ]
         }
       }
     },
@@ -27725,7 +28089,8 @@
       ],
       "quick_moves": [
         "Bug Bite",
-        "Poison Jab"
+        "Poison Jab",
+        "Poison Sting"
       ],
       "charged_moves": [
         "Megahorn",
@@ -27907,7 +28272,7 @@
     "549": {
       "name": "Lilligant",
       "pokedex_id": 549,
-      "default_form_id": 0,
+      "default_form_id": 2051,
       "types": [
         "Grass"
       ],
@@ -27924,10 +28289,6 @@
       "gen_id": 5,
       "generation": "Unova",
       "forms": {
-        "0": {
-          "name": "Unset",
-          "proto": "FORM_UNSET"
-        },
         "2051": {
           "name": "Normal",
           "proto": "LILLIGANT_NORMAL"
@@ -27937,7 +28298,23 @@
           "proto": "LILLIGANT_HISUIAN",
           "attack": 208,
           "defense": 159,
-          "stamina": 172
+          "stamina": 172,
+          "height": 1.2,
+          "weight": 19.2,
+          "quick_moves": [
+            "Bullet Seed",
+            "Magical Leaf"
+          ],
+          "charged_moves": [
+            "Petal Blizzard",
+            "Solar Beam",
+            "Close Combat",
+            "Upper Hand"
+          ],
+          "types": [
+            "Fighting",
+            "Grass"
+          ]
         }
       },
       "attack": 214,
@@ -28464,7 +28841,8 @@
         "Thunder Punch",
         "Brick Break",
         "Foul Play",
-        "Acid Spray"
+        "Acid Spray",
+        "Upper Hand"
       ],
       "gen_id": 5,
       "generation": "Unova",
@@ -28514,7 +28892,8 @@
         "Thunder Punch",
         "Foul Play",
         "Acid Spray",
-        "Power Up Punch"
+        "Power Up Punch",
+        "Upper Hand"
       ],
       "gen_id": 5,
       "generation": "Unova",
@@ -28895,7 +29274,6 @@
       ],
       "charged_moves": [
         "Seed Bomb",
-        "Gunk Shot",
         "Gunk Shot"
       ],
       "gen_id": 5,
@@ -28976,7 +29354,7 @@
     "570": {
       "name": "Zorua",
       "pokedex_id": 570,
-      "default_form_id": 0,
+      "default_form_id": 2108,
       "types": [
         "Dark"
       ],
@@ -28993,17 +29371,42 @@
       "gen_id": 5,
       "generation": "Unova",
       "forms": {
-        "0": {
-          "name": "Unset",
-          "proto": "FORM_UNSET"
-        },
         "2108": {
           "name": "Normal",
-          "proto": "ZORUA_NORMAL"
+          "proto": "ZORUA_NORMAL",
+          "evolutions": [
+            {
+              "pokemon": 571,
+              "form": 2111
+            }
+          ]
         },
         "2796": {
           "name": "Hisuian",
-          "proto": "ZORUA_HISUIAN"
+          "proto": "ZORUA_HISUIAN",
+          "attack": 162,
+          "defense": 79,
+          "stamina": 111,
+          "quick_moves": [
+            "Scratch",
+            "Snarl"
+          ],
+          "charged_moves": [
+            "Dark Pulse",
+            "Shadow Ball",
+            "Night Shade",
+            "Foul Play"
+          ],
+          "types": [
+            "Normal",
+            "Ghost"
+          ],
+          "evolutions": [
+            {
+              "pokemon": 571,
+              "form": 2797
+            }
+          ]
         }
       },
       "attack": 153,
@@ -29021,7 +29424,8 @@
       "gym_defender_eligible": true,
       "evolutions": [
         {
-          "pokemon": 571
+          "pokemon": 571,
+          "form": 2111
         }
       ],
       "little": true
@@ -29029,7 +29433,7 @@
     "571": {
       "name": "Zoroark",
       "pokedex_id": 571,
-      "default_form_id": 0,
+      "default_form_id": 2111,
       "types": [
         "Dark"
       ],
@@ -29046,17 +29450,26 @@
       "gen_id": 5,
       "generation": "Unova",
       "forms": {
-        "0": {
-          "name": "Unset",
-          "proto": "FORM_UNSET"
-        },
         "2111": {
           "name": "Normal",
           "proto": "ZOROARK_NORMAL"
         },
         "2797": {
           "name": "Hisuian",
-          "proto": "ZOROARK_HISUIAN"
+          "proto": "ZOROARK_HISUIAN",
+          "attack": 261,
+          "defense": 128,
+          "stamina": 146,
+          "charged_moves": [
+            "Flamethrower",
+            "Shadow Ball",
+            "Sludge Bomb",
+            "Foul Play"
+          ],
+          "types": [
+            "Normal",
+            "Ghost"
+          ]
         }
       },
       "attack": 250,
@@ -29407,6 +29820,7 @@
         "Hidden Power"
       ],
       "charged_moves": [
+        "Psyshock",
         "Shadow Ball",
         "Thunder",
         "Futuresight"
@@ -34345,7 +34759,8 @@
         "Petal Blizzard",
         "Disarming Voice",
         "Moonblast",
-        "Psychic"
+        "Psychic",
+        "Trailblaze"
       ],
       "gen_id": 6,
       "generation": "Kalos",
@@ -34737,8 +35152,8 @@
         "Steel"
       ],
       "quick_moves": [
-        "Fury Cutter",
-        "Tackle"
+        "Tackle",
+        "Psycho Cut"
       ],
       "charged_moves": [
         "Iron Head",
@@ -34780,7 +35195,7 @@
         "Steel"
       ],
       "quick_moves": [
-        "Fury Cutter",
+        "Tackle",
         "Psycho Cut"
       ],
       "charged_moves": [
@@ -34809,21 +35224,22 @@
       "gym_defender_eligible": true,
       "evolutions": [
         {
-          "pokemon": 681
+          "pokemon": 681,
+          "form": 2639
         }
       ]
     },
     "681": {
       "name": "Aegislash",
       "pokedex_id": 681,
-      "default_form_id": 0,
+      "default_form_id": 2639,
       "types": [
         "Ghost",
         "Steel"
       ],
       "quick_moves": [
-        "Fury Cutter",
-        "Psycho Cut"
+        "Psycho Cut",
+        "Air Slash"
       ],
       "charged_moves": [
         "Flash Cannon",
@@ -34833,17 +35249,16 @@
       "gen_id": 6,
       "generation": "Kalos",
       "forms": {
-        "0": {
-          "name": "Unset",
-          "proto": "FORM_UNSET"
-        },
         "2639": {
           "name": "Shield",
           "proto": "AEGISLASH_SHIELD"
         },
         "2640": {
           "name": "Blade",
-          "proto": "AEGISLASH_BLADE"
+          "proto": "AEGISLASH_BLADE",
+          "attack": 272,
+          "defense": 97,
+          "stamina": 155
         }
       },
       "attack": 97,
@@ -35250,6 +35665,7 @@
       ],
       "charged_moves": [
         "Aqua Tail",
+        "Sludge Bomb",
         "Gunk Shot",
         "Hydro Pump",
         "Focus Blast",
@@ -37697,6 +38113,7 @@
       ],
       "quick_moves": [
         "Struggle Bug",
+        "Charm",
         "Fairy Wind"
       ],
       "charged_moves": [
@@ -39471,6 +39888,7 @@
       ],
       "charged_moves": [
         "Aqua Tail",
+        "Psyshock",
         "Crunch",
         "Psychic Fangs"
       ],
@@ -39510,6 +39928,7 @@
       ],
       "charged_moves": [
         "Dragon Pulse",
+        "Swift",
         "Outrage",
         "Fly"
       ],
@@ -39545,9 +39964,11 @@
       ],
       "quick_moves": [
         "Shadow Claw",
-        "Astonish"
+        "Astonish",
+        "Metal Sound"
       ],
       "charged_moves": [
+        "Wrap",
         "Shadow Ball",
         "Power Whip",
         "Heavy Slam"
@@ -39990,6 +40411,7 @@
         "Psychic"
       ],
       "quick_moves": [
+        "Shadow Claw",
         "Confusion",
         "Air Slash"
       ],
@@ -40496,9 +40918,6 @@
       "evolutions": [
         {
           "pokemon": 804
-        },
-        {
-          "pokemon": 804
         }
       ],
       "little": true
@@ -40852,6 +41271,10 @@
         "0": {
           "name": "Unset",
           "proto": "FORM_UNSET"
+        },
+        "2326": {
+          "name": "Normal",
+          "proto": "RILLABOOM_NORMAL"
         }
       },
       "attack": 239,
@@ -40975,6 +41398,10 @@
         "0": {
           "name": "Unset",
           "proto": "FORM_UNSET"
+        },
+        "3016": {
+          "name": "Normal",
+          "proto": "CINDERACE_NORMAL"
         }
       },
       "attack": 238,
@@ -41455,6 +41882,7 @@
         "Dark"
       ],
       "quick_moves": [
+        "Sucker Punch",
         "Quick Attack",
         "Snarl"
       ],
@@ -41498,6 +41926,7 @@
         "Dark"
       ],
       "quick_moves": [
+        "Sucker Punch",
         "Quick Attack",
         "Snarl"
       ],
@@ -41748,6 +42177,7 @@
       "charged_moves": [
         "Body Slam",
         "Rock Blast",
+        "Crunch",
         "Surf"
       ],
       "gen_id": 8,
@@ -42057,7 +42487,7 @@
       "family": 840,
       "legendary": false,
       "mythic": false,
-      "buddy_group_number": 2,
+      "buddy_group_number": 4,
       "buddy_distance": 5,
       "third_move_stardust": 75000,
       "third_move_candy": 75,
@@ -42115,6 +42545,7 @@
         "Mud Slap"
       ],
       "charged_moves": [
+        "Wrap",
         "Dig",
         "Bulldoze",
         "Earth Power"
@@ -42159,6 +42590,7 @@
         "Mud Slap"
       ],
       "charged_moves": [
+        "Wrap",
         "Dig",
         "Bulldoze",
         "Earth Power"
@@ -42977,7 +43409,8 @@
       ],
       "quick_moves": [
         "Shadow Claw",
-        "Metal Claw"
+        "Metal Claw",
+        "Metal Sound"
       ],
       "charged_moves": [
         "Iron Head",
@@ -43250,7 +43683,7 @@
     "870": {
       "name": "Falinks",
       "pokedex_id": 870,
-      "default_form_id": 0,
+      "default_form_id": 2325,
       "types": [
         "Fighting"
       ],
@@ -43266,9 +43699,14 @@
       "gen_id": 8,
       "generation": "Galar",
       "forms": {
-        "0": {
-          "name": "Unset",
-          "proto": "FORM_UNSET"
+        "2325": {
+          "name": "Normal",
+          "proto": "FALINKS_NORMAL"
+        },
+        "2870": {
+          "name": "Gofest 2025 Train Conductor",
+          "proto": "FALINKS_GOFEST_2025_TRAIN_CONDUCTOR",
+          "is_costume": true
         }
       },
       "attack": 193,
@@ -44023,7 +44461,16 @@
           "proto": "ZACIAN_CROWNED_SWORD",
           "attack": 332,
           "defense": 240,
-          "stamina": 192
+          "stamina": 192,
+          "quick_moves": [
+            "Metal Claw",
+            "Air Slash"
+          ],
+          "charged_moves": [
+            "Play Rough",
+            "Close Combat",
+            "Giga Impact"
+          ]
         },
         "2577": {
           "name": "Hero",
@@ -44074,7 +44521,16 @@
           "proto": "ZAMAZENTA_CROWNED_SHIELD",
           "attack": 250,
           "defense": 292,
-          "stamina": 192
+          "stamina": 192,
+          "quick_moves": [
+            "Metal Claw",
+            "Ice Fang"
+          ],
+          "charged_moves": [
+            "Moonblast",
+            "Close Combat",
+            "Giga Impact"
+          ]
         },
         "2579": {
           "name": "Hero",
@@ -44112,7 +44568,7 @@
       "charged_moves": [
         "Flamethrower",
         "Dragon Pulse",
-        "Cross Poison"
+        "Sludge Bomb"
       ],
       "gen_id": 8,
       "generation": "Galar",
@@ -44127,7 +44583,7 @@
             "Hyper Beam",
             "Flamethrower",
             "Dragon Pulse",
-            "Cross Poison"
+            "Sludge Bomb"
           ]
         },
         "2581": {
@@ -44143,7 +44599,7 @@
       "family": 890,
       "legendary": true,
       "mythic": false,
-      "buddy_group_number": 2,
+      "buddy_group_number": 3,
       "buddy_distance": 20,
       "third_move_stardust": 100000,
       "third_move_candy": 100
@@ -44183,7 +44639,18 @@
       "buddy_group_number": 2,
       "buddy_distance": 20,
       "third_move_stardust": 100000,
-      "third_move_candy": 100
+      "third_move_candy": 100,
+      "evolutions": [
+        {
+          "pokemon": 892,
+          "form": 2723
+        },
+        {
+          "pokemon": 892,
+          "form": 2724
+        }
+      ],
+      "little": true
     },
     "892": {
       "name": "Urshifu",
@@ -44577,6 +45044,7 @@
         "Bug"
       ],
       "quick_moves": [
+        "Fury Cutter",
         "Quick Attack",
         "Air Slash"
       ],
@@ -45065,13 +45533,15 @@
       ],
       "quick_moves": [
         "Bite",
+        "Hex",
         "Incinerate"
       ],
       "charged_moves": [
         "Flamethrower",
         "Shadow Ball",
         "Disarming Voice",
-        "Crunch"
+        "Crunch",
+        "Torch Song"
       ],
       "gen_id": 9,
       "generation": "Paldea",
@@ -45198,7 +45668,8 @@
         "Aerial Ace",
         "Aqua Jet",
         "Close Combat",
-        "Liquidation"
+        "Liquidation",
+        "Aqua Step"
       ],
       "gen_id": 9,
       "generation": "Paldea",
@@ -45492,6 +45963,7 @@
         "Electric"
       ],
       "quick_moves": [
+        "Thunder Shock",
         "Spark",
         "Charge Beam"
       ],
@@ -45537,6 +46009,7 @@
         "Electric"
       ],
       "quick_moves": [
+        "Thunder Shock",
         "Spark",
         "Charge Beam"
       ],
@@ -45582,6 +46055,7 @@
         "Electric"
       ],
       "quick_moves": [
+        "Thunder Shock",
         "Spark",
         "Low Kick",
         "Charge Beam"
@@ -46074,7 +46548,7 @@
       "charged_moves": [
         "Ancient Power",
         "Rock Tomb",
-        "Rock Slide"
+        "Rock Blast"
       ],
       "gen_id": 9,
       "generation": "Paldea",
@@ -46275,6 +46749,7 @@
         "Electric"
       ],
       "quick_moves": [
+        "Sucker Punch",
         "Thunder Shock",
         "Water Gun"
       ],
@@ -46666,6 +47141,7 @@
       "family": 948,
       "legendary": false,
       "mythic": false,
+      "buddy_group_number": 2,
       "buddy_distance": 3,
       "third_move_stardust": 50000,
       "third_move_candy": 50,
@@ -46690,6 +47166,7 @@
         "Mud Slap"
       ],
       "charged_moves": [
+        "Wrap",
         "Seed Bomb",
         "Acid Spray",
         "Earth Power"
@@ -46710,6 +47187,7 @@
       "family": 948,
       "legendary": false,
       "mythic": false,
+      "buddy_group_number": 2,
       "buddy_distance": 3,
       "third_move_stardust": 50000,
       "third_move_candy": 50,
@@ -46973,6 +47451,7 @@
       "charged_moves": [
         "Psybeam",
         "Psyshock",
+        "Dazzling Gleam",
         "Psychic"
       ],
       "gen_id": 9,
@@ -47010,8 +47489,7 @@
       ],
       "charged_moves": [
         "Flash Cannon",
-        "Play Rough",
-        "Brutal Swing"
+        "Play Rough"
       ],
       "gen_id": 9,
       "generation": "Paldea",
@@ -47029,6 +47507,7 @@
       "family": 957,
       "legendary": false,
       "mythic": false,
+      "buddy_group_number": 1,
       "buddy_distance": 3,
       "third_move_stardust": 75000,
       "third_move_candy": 75,
@@ -47054,8 +47533,7 @@
       ],
       "charged_moves": [
         "Flash Cannon",
-        "Play Rough",
-        "Brutal Swing"
+        "Play Rough"
       ],
       "gen_id": 9,
       "generation": "Paldea",
@@ -47073,6 +47551,7 @@
       "family": 957,
       "legendary": false,
       "mythic": false,
+      "buddy_group_number": 1,
       "buddy_distance": 3,
       "third_move_stardust": 75000,
       "third_move_candy": 75,
@@ -47098,8 +47577,8 @@
       "charged_moves": [
         "Flash Cannon",
         "Play Rough",
-        "Heavy Slam",
-        "Brutal Swing"
+        "Bulldoze",
+        "Heavy Slam"
       ],
       "gen_id": 9,
       "generation": "Paldea",
@@ -47117,6 +47596,7 @@
       "family": 957,
       "legendary": false,
       "mythic": false,
+      "buddy_group_number": 1,
       "buddy_distance": 3,
       "third_move_stardust": 75000,
       "third_move_candy": 75,
@@ -47213,11 +47693,13 @@
         "Dark"
       ],
       "quick_moves": [
+        "Sucker Punch",
         "Wing Attack",
         "Rock Throw"
       ],
       "charged_moves": [
         "Aerial Ace",
+        "Rock Tomb",
         "Payback",
         "Fly"
       ],
@@ -47345,7 +47827,8 @@
       ],
       "quick_moves": [
         "Lick",
-        "Poison Jab"
+        "Poison Jab",
+        "Metal Sound"
       ],
       "charged_moves": [
         "Gunk Shot",
@@ -47390,7 +47873,8 @@
       ],
       "quick_moves": [
         "Lick",
-        "Poison Jab"
+        "Poison Jab",
+        "Metal Sound"
       ],
       "charged_moves": [
         "Gunk Shot",
@@ -47508,7 +47992,7 @@
         "Smack Down"
       ],
       "charged_moves": [
-        "Rock Slide",
+        "Power Gem",
         "Dazzling Gleam",
         "Sludge Wave"
       ],
@@ -47552,7 +48036,7 @@
         "Smack Down"
       ],
       "charged_moves": [
-        "Rock Slide",
+        "Power Gem",
         "Dazzling Gleam",
         "Sludge Wave"
       ],
@@ -47900,6 +48384,7 @@
       "family": 978,
       "legendary": false,
       "mythic": false,
+      "buddy_group_number": 1,
       "buddy_distance": 5,
       "third_move_stardust": 75000,
       "third_move_candy": 75,
@@ -48081,13 +48566,15 @@
       ],
       "quick_moves": [
         "Metal Claw",
-        "Snarl"
+        "Snarl",
+        "Metal Sound"
       ],
       "charged_moves": [
         "Dark Pulse",
         "Iron Head",
         "X Scissor",
-        "Focus Blast"
+        "Focus Blast",
+        "Foul Play"
       ],
       "gen_id": 9,
       "generation": "Paldea",
@@ -48105,6 +48592,7 @@
       "family": 624,
       "legendary": false,
       "mythic": false,
+      "buddy_group_number": 2,
       "buddy_distance": 5,
       "third_move_stardust": 75000,
       "third_move_candy": 75,
@@ -48665,7 +49153,7 @@
     "999": {
       "name": "Gimmighoul",
       "pokedex_id": 999,
-      "default_form_id": 0,
+      "default_form_id": 2998,
       "types": [
         "Ghost"
       ],
@@ -48678,13 +49166,19 @@
       "gen_id": 9,
       "generation": "Paldea",
       "forms": {
-        "0": {
-          "name": "Unset",
-          "proto": "FORM_UNSET"
-        },
         "2998": {
           "name": "Normal",
-          "proto": "GIMMIGHOUL_NORMAL"
+          "proto": "GIMMIGHOUL_NORMAL",
+          "evolutions": [
+            {
+              "pokemon": 1000
+            }
+          ]
+        },
+        "3018": {
+          "name": "Coin A1",
+          "proto": "GIMMIGHOUL_COIN_A1",
+          "is_costume": true
         }
       },
       "attack": 140,
@@ -48720,6 +49214,7 @@
         "Hex"
       ],
       "charged_moves": [
+        "Power Gem",
         "Shadow Ball",
         "Dazzling Gleam",
         "Focus Blast"
@@ -50270,6 +50765,18 @@
       "type": "Friend Boost",
       "category": "Xp Boost"
     },
+    "304": {
+      "name": "Single Stat Increase",
+      "proto": "ITEM_SINGLE_STAT_INCREASE",
+      "type": "Stat Increase",
+      "category": "Stat Increase"
+    },
+    "305": {
+      "name": "Triple Stat Increase",
+      "proto": "ITEM_TRIPLE_STAT_INCREASE",
+      "type": "Stat Increase",
+      "category": "Stat Increase"
+    },
     "401": {
       "name": "Incense Ordinary",
       "proto": "ITEM_INCENSE_ORDINARY",
@@ -50563,6 +51070,34 @@
       "category": "Evolution Requirement",
       "min_trainer_level": 10
     },
+    "1151": {
+      "name": "Other Evolution Stone Maple A",
+      "proto": "ITEM_OTHER_EVOLUTION_STONE_MAPLE_A",
+      "type": "Evolution Requirement",
+      "category": "Evolution Requirement",
+      "min_trainer_level": 10
+    },
+    "1152": {
+      "name": "Other Evolution Stone Maple B",
+      "proto": "ITEM_OTHER_EVOLUTION_STONE_MAPLE_B",
+      "type": "Evolution Requirement",
+      "category": "Evolution Requirement",
+      "min_trainer_level": 10
+    },
+    "1153": {
+      "name": "Resource Crowned Zacian",
+      "proto": "ITEM_RESOURCE_CROWNED_ZACIAN",
+      "type": "Evolution Requirement",
+      "category": "Evolution Requirement",
+      "min_trainer_level": 1
+    },
+    "1154": {
+      "name": "Resource Crowned Zamazenta",
+      "proto": "ITEM_RESOURCE_CROWNED_ZAMAZENTA",
+      "type": "Evolution Requirement",
+      "category": "Evolution Requirement",
+      "min_trainer_level": 1
+    },
     "1201": {
       "name": "Move Reroll Fast Attack",
       "proto": "ITEM_MOVE_REROLL_FAST_ATTACK",
@@ -50644,6 +51179,13 @@
       "proto": "ITEM_TEAM_CHANGE",
       "type": "Team Change",
       "category": "Team Change",
+      "min_trainer_level": 100
+    },
+    "1407": {
+      "name": "Route Maker",
+      "proto": "ITEM_ROUTE_MAKER",
+      "type": "Route Maker",
+      "category": "Route Maker",
       "min_trainer_level": 100
     },
     "1408": {
@@ -50897,6 +51439,36 @@
     "2002": {
       "name": "Event Pass Point Go Tour 02",
       "proto": "ITEM_EVENT_PASS_POINT_GO_TOUR_02",
+      "type": "Event Pass Point",
+      "category": "Event Pass Point"
+    },
+    "2021": {
+      "name": "Event Pass Point Go Fest 01",
+      "proto": "ITEM_EVENT_PASS_POINT_GO_FEST_01",
+      "type": "Event Pass Point",
+      "category": "Event Pass Point"
+    },
+    "2022": {
+      "name": "Event Pass Point Go Fest 02",
+      "proto": "ITEM_EVENT_PASS_POINT_GO_FEST_02",
+      "type": "Event Pass Point",
+      "category": "Event Pass Point"
+    },
+    "2101": {
+      "name": "Event Pass Point Live Ops 01",
+      "proto": "ITEM_EVENT_PASS_POINT_LIVE_OPS_01",
+      "type": "Event Pass Point",
+      "category": "Event Pass Point"
+    },
+    "2102": {
+      "name": "Event Pass Point Live Ops 02",
+      "proto": "ITEM_EVENT_PASS_POINT_LIVE_OPS_02",
+      "type": "Event Pass Point",
+      "category": "Event Pass Point"
+    },
+    "2103": {
+      "name": "Event Pass Point Live Ops 03",
+      "proto": "ITEM_EVENT_PASS_POINT_LIVE_OPS_03",
       "type": "Event Pass Point",
       "category": "Event Pass Point"
     }
@@ -53239,7 +53811,121 @@
     },
     "468": {
       "name": "Torch Song",
-      "proto": "TORCH_SONG"
+      "proto": "TORCH_SONG",
+      "type": "Fire",
+      "power": 100
+    },
+    "469": {
+      "name": "Behemoth Blade",
+      "proto": "BEHEMOTH_BLADE",
+      "type": "Steel",
+      "power": 200
+    },
+    "470": {
+      "name": "Behemoth Bash",
+      "proto": "BEHEMOTH_BASH",
+      "type": "Steel",
+      "power": 125
+    },
+    "471": {
+      "name": "Upper Hand",
+      "proto": "UPPER_HAND",
+      "type": "Fighting",
+      "power": 50
+    },
+    "472": {
+      "name": "Thunder Cage",
+      "proto": "THUNDER_CAGE",
+      "type": "Electric",
+      "power": 220
+    },
+    "473": {
+      "name": "Max Shield",
+      "proto": "VN_BM_054",
+      "type": "Normal",
+      "power": 0
+    },
+    "474": {
+      "name": "Max Heal",
+      "proto": "VN_BM_055",
+      "type": "Normal",
+      "power": 0
+    },
+    "475": {
+      "name": "Max Shield",
+      "proto": "VN_BM_056",
+      "type": "Normal",
+      "power": 0
+    },
+    "476": {
+      "name": "Max Heal",
+      "proto": "VN_BM_057",
+      "type": "Normal",
+      "power": 0
+    },
+    "477": {
+      "name": "Max Shield",
+      "proto": "VN_BM_058",
+      "type": "Normal",
+      "power": 0
+    },
+    "478": {
+      "name": "Max Heal",
+      "proto": "VN_BM_059",
+      "type": "Normal",
+      "power": 0
+    },
+    "479": {
+      "name": "Max Behemoth Blade",
+      "proto": "VN_BM_060",
+      "type": "Steel",
+      "power": 350
+    },
+    "480": {
+      "name": "Max Behemoth Bash",
+      "proto": "VN_BM_061",
+      "type": "Steel",
+      "power": 350
+    },
+    "481": {
+      "name": "Thunder Cage",
+      "proto": "THUNDER_CAGE_FAST"
+    },
+    "482": {
+      "name": "Dynamax Cannon",
+      "proto": "DYNAMAX_CANNON",
+      "type": "Dragon",
+      "power": 215
+    },
+    "483": {
+      "name": "Max Dynamax Cannon",
+      "proto": "VN_BM_062",
+      "type": "Dragon",
+      "power": 350
+    },
+    "484": {
+      "name": "Clanging Scales",
+      "proto": "CLANGING_SCALES",
+      "type": "Dragon",
+      "power": 120
+    },
+    "485": {
+      "name": "Crush Grip",
+      "proto": "CRUSH_GRIP",
+      "type": "Normal",
+      "power": 210
+    },
+    "486": {
+      "name": "Dragon Energy",
+      "proto": "DRAGON_ENERGY",
+      "type": "Dragon",
+      "power": 155
+    },
+    "487": {
+      "name": "Aqua Step",
+      "proto": "AQUA_STEP",
+      "type": "Water",
+      "power": 55
     }
   },
   "quest_types": {
@@ -53513,6 +54199,12 @@
     },
     "97": {
       "text": "Use Star Piece"
+    },
+    "98": {
+      "text": "Pokemon Reach CP"
+    },
+    "99": {
+      "text": "Spend Stardust"
     }
   },
   "quest_reward_types": {
@@ -53583,6 +54275,18 @@
     "16": {
       "proto": "POKEMON_EGG",
       "text": "Pokemon Egg"
+    },
+    "17": {
+      "proto": "POKEMON_INDIVIDUAL_STAT",
+      "text": "Pokemon Individual Stat"
+    },
+    "18": {
+      "proto": "LOOT_TABLE",
+      "text": "Loot Table"
+    },
+    "19": {
+      "proto": "FRIENDSHIP_POINTS",
+      "text": "Friendship Points"
     }
   },
   "quest_conditions": {
@@ -53881,6 +54585,18 @@
     "74": {
       "proto": "WITH_PAGE_TYPE",
       "text": "With Page Type"
+    },
+    "75": {
+      "proto": "WITH_MAX_POKEMON",
+      "text": "With Max Pokemon"
+    },
+    "76": {
+      "proto": "WITH_TRAINEE_POKEMON_ATTRIBUTES",
+      "text": "With Trainee Pokemon Attributes"
+    },
+    "77": {
+      "proto": "WITH_BATTLE_OPPONENT_POKEMON",
+      "text": "With Battle Opponent Pokemon"
     }
   },
   "invasions": {
@@ -53935,19 +54651,19 @@
       "second_reward": true,
       "encounters": {
         "first": [
-          495,
-          498,
-          501
+          1,
+          4,
+          7
         ],
         "second": [
-          496,
-          499,
-          502
+          2,
+          5,
+          8
         ],
         "third": [
-          497,
-          500,
-          503
+          3,
+          6,
+          9
         ]
       }
     },
@@ -53990,9 +54706,9 @@
       "second_reward": true,
       "encounters": {
         "first": [
-          10,
           123,
-          543
+          165,
+          204
         ],
         "second": [
           347,
@@ -54036,8 +54752,8 @@
       "encounters": {
         "first": [
           19,
-          331,
-          434
+          318,
+          331
         ],
         "second": [
           20,
@@ -54069,17 +54785,16 @@
         "first": [
           147,
           371,
-          443
+          696
         ],
         "second": [
           103,
-          148,
-          444
+          148
         ],
         "third": [
           149,
           373,
-          445
+          697
         ]
       }
     },
@@ -54106,13 +54821,13 @@
           303
         ],
         "second": [
+          110,
           209,
-          210,
           281
         ],
         "third": [
           38,
-          210,
+          110,
           282
         ]
       }
@@ -54137,7 +54852,7 @@
         "first": [
           56,
           66,
-          532
+          296
         ],
         "second": [
           106,
@@ -54169,7 +54884,7 @@
       "second_reward": true,
       "encounters": {
         "first": [
-          37,
+          322,
           498,
           554
         ],
@@ -54249,7 +54964,7 @@
       "encounters": {
         "first": [
           187,
-          459,
+          273,
           495
         ],
         "second": [
@@ -54282,8 +54997,8 @@
       "second_reward": true,
       "encounters": {
         "first": [
-          111,
-          194,
+          27,
+          207,
           529
         ],
         "second": [
@@ -54305,9 +55020,9 @@
       "second_reward": true,
       "encounters": {
         "first": [
-          27,
           215,
-          363
+          220,
+          698
         ],
         "second": [
           38,
@@ -54316,8 +55031,8 @@
         ],
         "third": [
           362,
-          460,
-          478
+          478,
+          699
         ]
       }
     },
@@ -54352,7 +55067,7 @@
         "first": [
           27,
           50,
-          597
+          374
         ],
         "second": [
           227,
@@ -54384,7 +55099,7 @@
       "second_reward": true,
       "encounters": {
         "first": [
-          234,
+          287,
           399,
           659
         ],
@@ -54407,8 +55122,8 @@
       "second_reward": true,
       "encounters": {
         "first": [
-          109,
-          453,
+          72,
+          451,
           568
         ],
         "second": [
@@ -54451,18 +55166,18 @@
       "second_reward": true,
       "encounters": {
         "first": [
-          574,
-          577
+          280,
+          686
         ],
         "second": [
+          96,
           202,
-          575,
           578
         ],
         "third": [
-          376,
           475,
-          579
+          579,
+          687
         ]
       }
     },
@@ -54485,8 +55200,8 @@
       "encounters": {
         "first": [
           524,
-          564,
-          566
+          696,
+          698
         ],
         "second": [
           75,
@@ -54495,8 +55210,8 @@
         ],
         "third": [
           76,
-          565,
-          567
+          697,
+          699
         ]
       }
     },
@@ -54507,12 +55222,11 @@
       "second_reward": true,
       "encounters": {
         "first": [
-          116,
           339,
+          363,
           501
         ],
         "second": [
-          91,
           117,
           502
         ],
@@ -54558,17 +55272,17 @@
       "second_reward": true,
       "encounters": {
         "first": [
-          104
+          443
         ],
         "second": [
-          67,
-          105,
+          227,
+          430,
           979
         ],
         "third": [
           68,
-          169,
-          248
+          248,
+          405
         ]
       }
     },
@@ -54579,17 +55293,17 @@
       "second_reward": true,
       "encounters": {
         "first": [
-          88
+          116
         ],
         "second": [
-          51,
           80,
-          130
+          169,
+          208
         ],
         "third": [
+          65,
           89,
-          212,
-          376
+          212
         ]
       }
     },
@@ -54600,16 +55314,16 @@
       "second_reward": true,
       "encounters": {
         "first": [
-          451
+          328
         ],
         "second": [
-          38,
-          350,
+          398,
+          429,
           598
         ],
         "third": [
-          31,
           229,
+          323,
           452
         ]
       }
@@ -54625,11 +55339,11 @@
         ],
         "second": [
           34,
-          230,
+          115,
           464
         ],
         "third": [
-          484
+          483
         ]
       }
     },
@@ -54705,7 +55419,7 @@
       "encounters": {
         "first": [
           81,
-          522,
+          179,
           595
         ],
         "second": [
