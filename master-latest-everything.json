@@ -104289,6 +104289,13 @@
           "type": 7,
           "power": 5
         },
+        "213": {
+          "moveId": 213,
+          "moveName": "Shadow Claw",
+          "proto": "SHADOW_CLAW_FAST",
+          "type": 8,
+          "power": 6
+        },
         "243": {
           "moveId": 243,
           "moveName": "Counter",
