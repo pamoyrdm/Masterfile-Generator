@@ -15589,7 +15589,8 @@
       "stamina": 155,
       "evolutions": [
         {
-          "pokemon": 923
+          "pokemon": 923,
+          "form": 3238
         }
       ]
     },
