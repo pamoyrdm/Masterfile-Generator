@@ -100520,6 +100520,11 @@
       "id": 104,
       "proto": "QUEST_FIRST_NIGHT_CATCH_OF_THE_DAY",
       "formatted": "First Night Catch Of The Day"
+    },
+    "105": {
+      "id": 105,
+      "proto": "QUEST_SPEND_MEGA_RESOURCE",
+      "formatted": "Spend Mega Resource"
     }
   },
   "questRewardTypes": {
