@@ -17225,10 +17225,10 @@
               "candyCost": 25,
               "questRequirement": {
                 "questType": 34,
-                "target": 20,
+                "target": 70,
                 "assetsRef": "challenge_buddy_affection_plural",
                 "i18n": "Earn {{amount}} hearts with your buddy",
-                "translated": "Earn 20 hearts with your buddy"
+                "translated": "Earn 70 hearts with your buddy"
               }
             }
           }
@@ -17326,10 +17326,10 @@
           "candyCost": 25,
           "questRequirement": {
             "questType": 34,
-            "target": 20,
+            "target": 70,
             "assetsRef": "challenge_buddy_affection_plural",
             "i18n": "Earn {{amount}} hearts with your buddy",
-            "translated": "Earn 20 hearts with your buddy"
+            "translated": "Earn 70 hearts with your buddy"
           }
         }
       },
@@ -78893,10 +78893,10 @@
               "candyCost": 50,
               "questRequirement": {
                 "questType": 4,
-                "target": 10,
+                "target": 32,
                 "assetsRef": "quest_catch_type_dark_plural",
                 "i18n": "Catch {{amount}} Dark-type Pokémon",
-                "translated": "Catch 10 Dark-type Pokémon"
+                "translated": "Catch 32 Dark-type Pokémon"
               }
             }
           }
@@ -78928,10 +78928,10 @@
           "candyCost": 50,
           "questRequirement": {
             "questType": 4,
-            "target": 10,
+            "target": 32,
             "assetsRef": "quest_catch_type_dark_plural",
             "i18n": "Catch {{amount}} Dark-type Pokémon",
-            "translated": "Catch 10 Dark-type Pokémon"
+            "translated": "Catch 32 Dark-type Pokémon"
           }
         }
       },
@@ -103872,7 +103872,7 @@
           "moveName": "Flower Trick",
           "proto": "FLOWER_TRICK",
           "type": 12,
-          "power": 85
+          "power": 75
         }
       },
       "genId": 9,
@@ -105331,10 +105331,10 @@
               "candyCost": 100,
               "questRequirement": {
                 "questType": 50,
-                "target": 5,
+                "target": 25,
                 "assetsRef": "quest_buddy_walk_km_plural",
                 "i18n": "Walk {{amount}} km with your buddy",
-                "translated": "Walk 5 km with your buddy"
+                "translated": "Walk 25 km with your buddy"
               }
             }
           }
@@ -105371,10 +105371,10 @@
           "candyCost": 100,
           "questRequirement": {
             "questType": 50,
-            "target": 5,
+            "target": 25,
             "assetsRef": "quest_buddy_walk_km_plural",
             "i18n": "Walk {{amount}} km with your buddy",
-            "translated": "Walk 5 km with your buddy"
+            "translated": "Walk 25 km with your buddy"
           }
         }
       }
@@ -120154,7 +120154,7 @@
           "evoId": 700,
           "formId": 3062,
           "candyCost": 25,
-          "questRequirement": "SYLVEON_BUDDY_EVENT_EVOLUTION_QUEST"
+          "questRequirement": "SYLVEON_EVOLUTION_QUEST"
         }
       ]
     },
@@ -129515,7 +129515,7 @@
           "evoId": 675,
           "formId": 3040,
           "candyCost": 50,
-          "questRequirement": "PANCHAM_BUDDY_EVENT_EVOLUTION_QUEST"
+          "questRequirement": "PANCHAM_EVOLUTION_QUEST"
         }
       ]
     },
@@ -131344,7 +131344,7 @@
           "evoId": 923,
           "formId": 3238,
           "candyCost": 100,
-          "questRequirement": "PAWMOT_BUDDY_EVENT_EVOLUTION_QUEST"
+          "questRequirement": "PAWMOT_EVOLUTION_QUEST"
         }
       ]
     },
@@ -137254,7 +137254,7 @@
       "id": 465,
       "name": "Flower Trick",
       "proto": "FLOWER_TRICK",
-      "power": 85
+      "power": 75
     },
     "466": {
       "id": 466,
@@ -137296,7 +137296,7 @@
       "id": 472,
       "name": "Thunder Cage",
       "proto": "THUNDER_CAGE",
-      "power": 230
+      "power": 220
     },
     "473": {
       "id": 473,
@@ -137367,19 +137367,19 @@
       "id": 484,
       "name": "Clanging Scales",
       "proto": "CLANGING_SCALES",
-      "power": 130
+      "power": 120
     },
     "485": {
       "id": 485,
       "name": "Crush Grip",
       "proto": "CRUSH_GRIP",
-      "power": 230
+      "power": 210
     },
     "486": {
       "id": 486,
       "name": "Dragon Energy",
       "proto": "DRAGON_ENERGY",
-      "power": 165
+      "power": 155
     },
     "487": {
       "id": 487,
