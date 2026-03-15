@@ -61743,10 +61743,13 @@
       "chargedMoves": [
         24,
         101,
-        247
+        247,
+        493
       ],
       "eliteQuickMoves": [],
-      "eliteChargedMoves": [],
+      "eliteChargedMoves": [
+        298
+      ],
       "genId": 8,
       "generation": "Galar",
       "forms": [
