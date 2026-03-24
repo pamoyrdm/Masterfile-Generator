@@ -3445,7 +3445,8 @@
         "3340": {
           "name": "Bb 2026",
           "proto": "PIKACHU_BB_2026",
-          "form": 3340
+          "form": 3340,
+          "isCostume": true
         },
         "3341": {
           "name": "Visor 2026",
@@ -132435,7 +132436,10 @@
     "3340": {
       "formName": "Bb 2026",
       "proto": "PIKACHU_BB_2026",
-      "formId": 3340
+      "formId": 3340,
+      "isCostume": true,
+      "eliteQuickMoves": [],
+      "eliteChargedMoves": []
     },
     "3341": {
       "formName": "Visor 2026",
@@ -134576,6 +134580,14 @@
       "type": "Postcard Inventory",
       "category": "Postcard Inventory",
       "minTrainerLevel": 100
+    },
+    "804": {
+      "id": 804,
+      "name": "Soft Sfida",
+      "proto": "ITEM_SOFT_SFIDA",
+      "type": "Soft Sfida",
+      "category": "Utilites",
+      "minTrainerLevel": 99
     },
     "901": {
       "id": 901,
