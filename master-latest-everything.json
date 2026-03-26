@@ -135239,6 +135239,13 @@
       "proto": "ITEM_EVENT_PASS_POINT_MONTHLY_01",
       "type": "Event Pass Point",
       "category": "Event Pass Point"
+    },
+    "2152": {
+      "id": 2152,
+      "name": "Pass Points",
+      "proto": "ITEM_EVENT_PASS_POINT_MONTHLY_02",
+      "type": "Event Pass Point",
+      "category": "Event Pass Point"
     }
   },
   "moves": {
