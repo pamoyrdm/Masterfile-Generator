@@ -135307,6 +135307,13 @@
       "type": "Event Pass Point",
       "category": "Event Pass Point"
     },
+    "2107": {
+      "id": 2107,
+      "name": "Pass Points",
+      "proto": "ITEM_EVENT_PASS_POINT_LIVE_OPS_07",
+      "type": "Event Pass Point",
+      "category": "Event Pass Point"
+    },
     "2151": {
       "id": 2151,
       "name": "Pass Points",
