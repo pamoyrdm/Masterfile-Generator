@@ -330,7 +330,8 @@
           "name": "Normal"
         },
         "3346": {
-          "name": "Gofest 2026"
+          "name": "Gofest 2026",
+          "isCostume": true
         }
       },
       "height": 0.3,
@@ -1158,13 +1159,16 @@
           "name": "Fossil 2026"
         },
         "3343": {
-          "name": "Gofest 2026 Cap Blue"
+          "name": "Gofest 2026 Cap Blue",
+          "isCostume": true
         },
         "3344": {
-          "name": "Gofest 2026 Cap Red"
+          "name": "Gofest 2026 Cap Red",
+          "isCostume": true
         },
         "3345": {
-          "name": "Gofest 2026 Cap Yellow"
+          "name": "Gofest 2026 Cap Yellow",
+          "isCostume": true
         }
       },
       "height": 0.4,
@@ -35583,7 +35587,6 @@
     "1602": "Event Ticket Gray",
     "1603": "Global Event Ticket To Gift",
     "1604": "Event Ticket Pink To Gift",
-    "1605": "Event Ticket Gray To Gift",
     "1606": "Battle Pass Ticket",
     "1607": "Evergreen Ticket",
     "1608": "Evergreen Ticket To Gift",
@@ -35622,7 +35625,8 @@
     "2107": "Event Pass Point Live Ops 07",
     "2108": "Event Pass Point Live Ops 08",
     "2151": "Event Pass Point Monthly 01",
-    "2152": "Event Pass Point Monthly 02"
+    "2152": "Event Pass Point Monthly 02",
+    "2153": "Event Pass Point Monthly 03"
   },
   "moves": {
     "0": {
