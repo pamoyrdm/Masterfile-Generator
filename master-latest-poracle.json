@@ -10164,21 +10164,21 @@
     },
     "129_0": {
       "name": "Magikarp",
-      "id": 129,
+      "stats": {
+        "baseAttack": 29,
+        "baseDefense": 85,
+        "baseStamina": 85
+      },
       "types": [
         {
           "id": 11,
           "name": "Water"
         }
       ],
+      "id": 129,
       "form": {
         "name": "",
         "id": 0
-      },
-      "stats": {
-        "baseAttack": 29,
-        "baseDefense": 85,
-        "baseStamina": 85
       },
       "thirdMoveStardust": 10000,
       "thirdMoveCandy": 25,
@@ -10192,21 +10192,21 @@
     },
     "129_253": {
       "name": "Magikarp",
-      "id": 129,
+      "stats": {
+        "baseAttack": 29,
+        "baseDefense": 85,
+        "baseStamina": 85
+      },
       "types": [
         {
           "id": 11,
           "name": "Water"
         }
       ],
+      "id": 129,
       "form": {
         "name": "Normal",
         "id": 253
-      },
-      "stats": {
-        "baseAttack": 29,
-        "baseDefense": 85,
-        "baseStamina": 85
       },
       "thirdMoveStardust": 10000,
       "thirdMoveCandy": 25,
@@ -54555,21 +54555,21 @@
     },
     "789_0": {
       "name": "Cosmog",
-      "id": 789,
+      "stats": {
+        "baseAttack": 54,
+        "baseDefense": 57,
+        "baseStamina": 125
+      },
       "types": [
         {
           "id": 14,
           "name": "Psychic"
         }
       ],
+      "id": 789,
       "form": {
         "name": "",
         "id": 0
-      },
-      "stats": {
-        "baseAttack": 54,
-        "baseDefense": 57,
-        "baseStamina": 125
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100,
@@ -54583,21 +54583,21 @@
     },
     "789_3134": {
       "name": "Cosmog",
-      "id": 789,
+      "stats": {
+        "baseAttack": 54,
+        "baseDefense": 57,
+        "baseStamina": 125
+      },
       "types": [
         {
           "id": 14,
           "name": "Psychic"
         }
       ],
+      "id": 789,
       "form": {
         "name": "Normal",
         "id": 3134
-      },
-      "stats": {
-        "baseAttack": 54,
-        "baseDefense": 57,
-        "baseStamina": 125
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100,
@@ -54611,21 +54611,21 @@
     },
     "790_0": {
       "name": "Cosmoem",
-      "id": 790,
+      "stats": {
+        "baseAttack": 54,
+        "baseDefense": 242,
+        "baseStamina": 125
+      },
       "types": [
         {
           "id": 14,
           "name": "Psychic"
         }
       ],
+      "id": 790,
       "form": {
         "name": "",
         "id": 0
-      },
-      "stats": {
-        "baseAttack": 54,
-        "baseDefense": 242,
-        "baseStamina": 125
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100,
@@ -54646,21 +54646,21 @@
     },
     "790_3135": {
       "name": "Cosmoem",
-      "id": 790,
+      "stats": {
+        "baseAttack": 54,
+        "baseDefense": 242,
+        "baseStamina": 125
+      },
       "types": [
         {
           "id": 14,
           "name": "Psychic"
         }
       ],
+      "id": 790,
       "form": {
         "name": "Normal",
         "id": 3135
-      },
-      "stats": {
-        "baseAttack": 54,
-        "baseDefense": 242,
-        "baseStamina": 125
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100,
@@ -55240,7 +55240,11 @@
     },
     "801_0": {
       "name": "Magearna",
-      "id": 801,
+      "stats": {
+        "baseAttack": 246,
+        "baseDefense": 225,
+        "baseStamina": 190
+      },
       "types": [
         {
           "id": 9,
@@ -55251,14 +55255,10 @@
           "name": "Fairy"
         }
       ],
+      "id": 801,
       "form": {
         "name": "",
         "id": 0
-      },
-      "stats": {
-        "baseAttack": 246,
-        "baseDefense": 225,
-        "baseStamina": 190
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100,
@@ -55276,7 +55276,11 @@
     },
     "801_2721": {
       "name": "Magearna",
-      "id": 801,
+      "stats": {
+        "baseAttack": 246,
+        "baseDefense": 225,
+        "baseStamina": 190
+      },
       "types": [
         {
           "id": 9,
@@ -55287,14 +55291,10 @@
           "name": "Fairy"
         }
       ],
+      "id": 801,
       "form": {
         "name": "Normal",
         "id": 2721
-      },
-      "stats": {
-        "baseAttack": 246,
-        "baseDefense": 225,
-        "baseStamina": 190
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100,
@@ -55312,7 +55312,11 @@
     },
     "801_2722": {
       "name": "Magearna",
-      "id": 801,
+      "stats": {
+        "baseAttack": 246,
+        "baseDefense": 225,
+        "baseStamina": 190
+      },
       "types": [
         {
           "id": 9,
@@ -55323,14 +55327,10 @@
           "name": "Fairy"
         }
       ],
+      "id": 801,
       "form": {
         "name": "Original Color",
         "id": 2722
-      },
-      "stats": {
-        "baseAttack": 246,
-        "baseDefense": 225,
-        "baseStamina": 190
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100
@@ -60872,7 +60872,6 @@
           "name": "Water"
         }
       ],
-      "unreleased": true,
       "id": 902,
       "form": {
         "name": "",
@@ -60896,7 +60895,6 @@
           "name": "Water"
         }
       ],
-      "unreleased": true,
       "id": 902,
       "form": {
         "name": "Normal",
@@ -60920,7 +60918,6 @@
           "name": "Water"
         }
       ],
-      "unreleased": true,
       "id": 902,
       "form": {
         "name": "Female",
@@ -65496,7 +65493,11 @@
     },
     "984_0": {
       "name": "Great Tusk",
-      "id": 984,
+      "stats": {
+        "baseAttack": 249,
+        "baseDefense": 209,
+        "baseStamina": 251
+      },
       "types": [
         {
           "id": 2,
@@ -65507,21 +65508,21 @@
           "name": "Ground"
         }
       ],
+      "id": 984,
       "form": {
         "name": "",
         "id": 0
-      },
-      "stats": {
-        "baseAttack": 249,
-        "baseDefense": 209,
-        "baseStamina": 251
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100
     },
     "984_3294": {
       "name": "Great Tusk",
-      "id": 984,
+      "stats": {
+        "baseAttack": 249,
+        "baseDefense": 209,
+        "baseStamina": 251
+      },
       "types": [
         {
           "id": 2,
@@ -65532,21 +65533,21 @@
           "name": "Ground"
         }
       ],
+      "id": 984,
       "form": {
         "name": "Normal",
         "id": 3294
-      },
-      "stats": {
-        "baseAttack": 249,
-        "baseDefense": 209,
-        "baseStamina": 251
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100
     },
     "985_0": {
       "name": "Scream Tail",
-      "id": 985,
+      "stats": {
+        "baseAttack": 139,
+        "baseDefense": 234,
+        "baseStamina": 251
+      },
       "types": [
         {
           "id": 14,
@@ -65557,21 +65558,21 @@
           "name": "Fairy"
         }
       ],
+      "id": 985,
       "form": {
         "name": "",
         "id": 0
-      },
-      "stats": {
-        "baseAttack": 139,
-        "baseDefense": 234,
-        "baseStamina": 251
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100
     },
     "985_3295": {
       "name": "Scream Tail",
-      "id": 985,
+      "stats": {
+        "baseAttack": 139,
+        "baseDefense": 234,
+        "baseStamina": 251
+      },
       "types": [
         {
           "id": 14,
@@ -65582,21 +65583,21 @@
           "name": "Fairy"
         }
       ],
+      "id": 985,
       "form": {
         "name": "Normal",
         "id": 3295
-      },
-      "stats": {
-        "baseAttack": 139,
-        "baseDefense": 234,
-        "baseStamina": 251
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100
     },
     "986_0": {
       "name": "Brute Bonnet",
-      "id": 986,
+      "stats": {
+        "baseAttack": 232,
+        "baseDefense": 190,
+        "baseStamina": 244
+      },
       "types": [
         {
           "id": 12,
@@ -65607,21 +65608,21 @@
           "name": "Dark"
         }
       ],
+      "id": 986,
       "form": {
         "name": "",
         "id": 0
-      },
-      "stats": {
-        "baseAttack": 232,
-        "baseDefense": 190,
-        "baseStamina": 244
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100
     },
     "986_3296": {
       "name": "Brute Bonnet",
-      "id": 986,
+      "stats": {
+        "baseAttack": 232,
+        "baseDefense": 190,
+        "baseStamina": 244
+      },
       "types": [
         {
           "id": 12,
@@ -65632,21 +65633,21 @@
           "name": "Dark"
         }
       ],
+      "id": 986,
       "form": {
         "name": "Normal",
         "id": 3296
-      },
-      "stats": {
-        "baseAttack": 232,
-        "baseDefense": 190,
-        "baseStamina": 244
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100
     },
     "987_0": {
       "name": "Flutter Mane",
-      "id": 987,
+      "stats": {
+        "baseAttack": 280,
+        "baseDefense": 235,
+        "baseStamina": 146
+      },
       "types": [
         {
           "id": 8,
@@ -65657,21 +65658,21 @@
           "name": "Fairy"
         }
       ],
+      "id": 987,
       "form": {
         "name": "",
         "id": 0
-      },
-      "stats": {
-        "baseAttack": 280,
-        "baseDefense": 235,
-        "baseStamina": 146
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100
     },
     "987_3297": {
       "name": "Flutter Mane",
-      "id": 987,
+      "stats": {
+        "baseAttack": 280,
+        "baseDefense": 235,
+        "baseStamina": 146
+      },
       "types": [
         {
           "id": 8,
@@ -65682,21 +65683,21 @@
           "name": "Fairy"
         }
       ],
+      "id": 987,
       "form": {
         "name": "Normal",
         "id": 3297
-      },
-      "stats": {
-        "baseAttack": 280,
-        "baseDefense": 235,
-        "baseStamina": 146
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100
     },
     "988_0": {
       "name": "Slither Wing",
-      "id": 988,
+      "stats": {
+        "baseAttack": 261,
+        "baseDefense": 193,
+        "baseStamina": 198
+      },
       "types": [
         {
           "id": 2,
@@ -65707,21 +65708,21 @@
           "name": "Bug"
         }
       ],
+      "id": 988,
       "form": {
         "name": "",
         "id": 0
-      },
-      "stats": {
-        "baseAttack": 261,
-        "baseDefense": 193,
-        "baseStamina": 198
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100
     },
     "988_3298": {
       "name": "Slither Wing",
-      "id": 988,
+      "stats": {
+        "baseAttack": 261,
+        "baseDefense": 193,
+        "baseStamina": 198
+      },
       "types": [
         {
           "id": 2,
@@ -65732,21 +65733,21 @@
           "name": "Bug"
         }
       ],
+      "id": 988,
       "form": {
         "name": "Normal",
         "id": 3298
-      },
-      "stats": {
-        "baseAttack": 261,
-        "baseDefense": 193,
-        "baseStamina": 198
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100
     },
     "989_0": {
       "name": "Sandy Shocks",
-      "id": 989,
+      "stats": {
+        "baseAttack": 244,
+        "baseDefense": 195,
+        "baseStamina": 198
+      },
       "types": [
         {
           "id": 5,
@@ -65757,21 +65758,21 @@
           "name": "Electric"
         }
       ],
+      "id": 989,
       "form": {
         "name": "",
         "id": 0
-      },
-      "stats": {
-        "baseAttack": 244,
-        "baseDefense": 195,
-        "baseStamina": 198
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100
     },
     "989_3299": {
       "name": "Sandy Shocks",
-      "id": 989,
+      "stats": {
+        "baseAttack": 244,
+        "baseDefense": 195,
+        "baseStamina": 198
+      },
       "types": [
         {
           "id": 5,
@@ -65782,21 +65783,21 @@
           "name": "Electric"
         }
       ],
+      "id": 989,
       "form": {
         "name": "Normal",
         "id": 3299
-      },
-      "stats": {
-        "baseAttack": 244,
-        "baseDefense": 195,
-        "baseStamina": 198
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100
     },
     "990_0": {
       "name": "Iron Treads",
-      "id": 990,
+      "stats": {
+        "baseAttack": 227,
+        "baseDefense": 216,
+        "baseStamina": 207
+      },
       "types": [
         {
           "id": 5,
@@ -65807,21 +65808,21 @@
           "name": "Steel"
         }
       ],
+      "id": 990,
       "form": {
         "name": "",
         "id": 0
-      },
-      "stats": {
-        "baseAttack": 227,
-        "baseDefense": 216,
-        "baseStamina": 207
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100
     },
     "990_3300": {
       "name": "Iron Treads",
-      "id": 990,
+      "stats": {
+        "baseAttack": 227,
+        "baseDefense": 216,
+        "baseStamina": 207
+      },
       "types": [
         {
           "id": 5,
@@ -65832,21 +65833,21 @@
           "name": "Steel"
         }
       ],
+      "id": 990,
       "form": {
         "name": "Normal",
         "id": 3300
-      },
-      "stats": {
-        "baseAttack": 227,
-        "baseDefense": 216,
-        "baseStamina": 207
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100
     },
     "991_0": {
       "name": "Iron Bundle",
-      "id": 991,
+      "stats": {
+        "baseAttack": 266,
+        "baseDefense": 211,
+        "baseStamina": 148
+      },
       "types": [
         {
           "id": 11,
@@ -65857,21 +65858,21 @@
           "name": "Ice"
         }
       ],
+      "id": 991,
       "form": {
         "name": "",
         "id": 0
-      },
-      "stats": {
-        "baseAttack": 266,
-        "baseDefense": 211,
-        "baseStamina": 148
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100
     },
     "991_3301": {
       "name": "Iron Bundle",
-      "id": 991,
+      "stats": {
+        "baseAttack": 266,
+        "baseDefense": 211,
+        "baseStamina": 148
+      },
       "types": [
         {
           "id": 11,
@@ -65882,21 +65883,21 @@
           "name": "Ice"
         }
       ],
+      "id": 991,
       "form": {
         "name": "Normal",
         "id": 3301
-      },
-      "stats": {
-        "baseAttack": 266,
-        "baseDefense": 211,
-        "baseStamina": 148
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100
     },
     "992_0": {
       "name": "Iron Hands",
-      "id": 992,
+      "stats": {
+        "baseAttack": 245,
+        "baseDefense": 177,
+        "baseStamina": 319
+      },
       "types": [
         {
           "id": 2,
@@ -65907,21 +65908,21 @@
           "name": "Electric"
         }
       ],
+      "id": 992,
       "form": {
         "name": "",
         "id": 0
-      },
-      "stats": {
-        "baseAttack": 245,
-        "baseDefense": 177,
-        "baseStamina": 319
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100
     },
     "992_3302": {
       "name": "Iron Hands",
-      "id": 992,
+      "stats": {
+        "baseAttack": 245,
+        "baseDefense": 177,
+        "baseStamina": 319
+      },
       "types": [
         {
           "id": 2,
@@ -65932,21 +65933,21 @@
           "name": "Electric"
         }
       ],
+      "id": 992,
       "form": {
         "name": "Normal",
         "id": 3302
-      },
-      "stats": {
-        "baseAttack": 245,
-        "baseDefense": 177,
-        "baseStamina": 319
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100
     },
     "993_0": {
       "name": "Iron Jugulis",
-      "id": 993,
+      "stats": {
+        "baseAttack": 249,
+        "baseDefense": 179,
+        "baseStamina": 214
+      },
       "types": [
         {
           "id": 3,
@@ -65957,21 +65958,21 @@
           "name": "Dark"
         }
       ],
+      "id": 993,
       "form": {
         "name": "",
         "id": 0
-      },
-      "stats": {
-        "baseAttack": 249,
-        "baseDefense": 179,
-        "baseStamina": 214
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100
     },
     "993_3303": {
       "name": "Iron Jugulis",
-      "id": 993,
+      "stats": {
+        "baseAttack": 249,
+        "baseDefense": 179,
+        "baseStamina": 214
+      },
       "types": [
         {
           "id": 3,
@@ -65982,21 +65983,21 @@
           "name": "Dark"
         }
       ],
+      "id": 993,
       "form": {
         "name": "Normal",
         "id": 3303
-      },
-      "stats": {
-        "baseAttack": 249,
-        "baseDefense": 179,
-        "baseStamina": 214
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100
     },
     "994_0": {
       "name": "Iron Moth",
-      "id": 994,
+      "stats": {
+        "baseAttack": 281,
+        "baseDefense": 196,
+        "baseStamina": 190
+      },
       "types": [
         {
           "id": 4,
@@ -66007,21 +66008,21 @@
           "name": "Fire"
         }
       ],
+      "id": 994,
       "form": {
         "name": "",
         "id": 0
-      },
-      "stats": {
-        "baseAttack": 281,
-        "baseDefense": 196,
-        "baseStamina": 190
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100
     },
     "994_3304": {
       "name": "Iron Moth",
-      "id": 994,
+      "stats": {
+        "baseAttack": 281,
+        "baseDefense": 196,
+        "baseStamina": 190
+      },
       "types": [
         {
           "id": 4,
@@ -66032,21 +66033,21 @@
           "name": "Fire"
         }
       ],
+      "id": 994,
       "form": {
         "name": "Normal",
         "id": 3304
-      },
-      "stats": {
-        "baseAttack": 281,
-        "baseDefense": 196,
-        "baseStamina": 190
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100
     },
     "995_0": {
       "name": "Iron Thorns",
-      "id": 995,
+      "stats": {
+        "baseAttack": 250,
+        "baseDefense": 200,
+        "baseStamina": 225
+      },
       "types": [
         {
           "id": 6,
@@ -66057,21 +66058,21 @@
           "name": "Electric"
         }
       ],
+      "id": 995,
       "form": {
         "name": "",
         "id": 0
-      },
-      "stats": {
-        "baseAttack": 250,
-        "baseDefense": 200,
-        "baseStamina": 225
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100
     },
     "995_3305": {
       "name": "Iron Thorns",
-      "id": 995,
+      "stats": {
+        "baseAttack": 250,
+        "baseDefense": 200,
+        "baseStamina": 225
+      },
       "types": [
         {
           "id": 6,
@@ -66082,14 +66083,10 @@
           "name": "Electric"
         }
       ],
+      "id": 995,
       "form": {
         "name": "Normal",
         "id": 3305
-      },
-      "stats": {
-        "baseAttack": 250,
-        "baseDefense": 200,
-        "baseStamina": 225
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100
@@ -66623,7 +66620,11 @@
     },
     "1005_0": {
       "name": "Roaring Moon",
-      "id": 1005,
+      "stats": {
+        "baseAttack": 280,
+        "baseDefense": 196,
+        "baseStamina": 233
+      },
       "types": [
         {
           "id": 16,
@@ -66634,21 +66635,21 @@
           "name": "Dark"
         }
       ],
+      "id": 1005,
       "form": {
         "name": "",
         "id": 0
-      },
-      "stats": {
-        "baseAttack": 280,
-        "baseDefense": 196,
-        "baseStamina": 233
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100
     },
     "1005_3313": {
       "name": "Roaring Moon",
-      "id": 1005,
+      "stats": {
+        "baseAttack": 280,
+        "baseDefense": 196,
+        "baseStamina": 233
+      },
       "types": [
         {
           "id": 16,
@@ -66659,21 +66660,21 @@
           "name": "Dark"
         }
       ],
+      "id": 1005,
       "form": {
         "name": "Normal",
         "id": 3313
-      },
-      "stats": {
-        "baseAttack": 280,
-        "baseDefense": 196,
-        "baseStamina": 233
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100
     },
     "1006_0": {
       "name": "Iron Valiant",
-      "id": 1006,
+      "stats": {
+        "baseAttack": 279,
+        "baseDefense": 171,
+        "baseStamina": 179
+      },
       "types": [
         {
           "id": 2,
@@ -66684,21 +66685,21 @@
           "name": "Fairy"
         }
       ],
+      "id": 1006,
       "form": {
         "name": "",
         "id": 0
-      },
-      "stats": {
-        "baseAttack": 279,
-        "baseDefense": 171,
-        "baseStamina": 179
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100
     },
     "1006_3314": {
       "name": "Iron Valiant",
-      "id": 1006,
+      "stats": {
+        "baseAttack": 279,
+        "baseDefense": 171,
+        "baseStamina": 179
+      },
       "types": [
         {
           "id": 2,
@@ -66709,14 +66710,10 @@
           "name": "Fairy"
         }
       ],
+      "id": 1006,
       "form": {
         "name": "Normal",
         "id": 3314
-      },
-      "stats": {
-        "baseAttack": 279,
-        "baseDefense": 171,
-        "baseStamina": 179
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100
@@ -66823,7 +66820,11 @@
     },
     "1009_0": {
       "name": "Walking Wake",
-      "id": 1009,
+      "stats": {
+        "baseAttack": 233,
+        "baseDefense": 171,
+        "baseStamina": 203
+      },
       "types": [
         {
           "id": 11,
@@ -66834,21 +66835,21 @@
           "name": "Dragon"
         }
       ],
+      "id": 1009,
       "form": {
         "name": "",
         "id": 0
-      },
-      "stats": {
-        "baseAttack": 233,
-        "baseDefense": 171,
-        "baseStamina": 203
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100
     },
     "1009_3324": {
       "name": "Walking Wake",
-      "id": 1009,
+      "stats": {
+        "baseAttack": 233,
+        "baseDefense": 171,
+        "baseStamina": 203
+      },
       "types": [
         {
           "id": 11,
@@ -66859,21 +66860,21 @@
           "name": "Dragon"
         }
       ],
+      "id": 1009,
       "form": {
         "name": "Normal",
         "id": 3324
-      },
-      "stats": {
-        "baseAttack": 233,
-        "baseDefense": 171,
-        "baseStamina": 203
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100
     },
     "1010_0": {
       "name": "Iron Leaves",
-      "id": 1010,
+      "stats": {
+        "baseAttack": 236,
+        "baseDefense": 194,
+        "baseStamina": 189
+      },
       "types": [
         {
           "id": 12,
@@ -66884,21 +66885,21 @@
           "name": "Psychic"
         }
       ],
+      "id": 1010,
       "form": {
         "name": "",
         "id": 0
-      },
-      "stats": {
-        "baseAttack": 236,
-        "baseDefense": 194,
-        "baseStamina": 189
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100
     },
     "1010_3325": {
       "name": "Iron Leaves",
-      "id": 1010,
+      "stats": {
+        "baseAttack": 236,
+        "baseDefense": 194,
+        "baseStamina": 189
+      },
       "types": [
         {
           "id": 12,
@@ -66909,14 +66910,10 @@
           "name": "Psychic"
         }
       ],
+      "id": 1010,
       "form": {
         "name": "Normal",
         "id": 3325
-      },
-      "stats": {
-        "baseAttack": 236,
-        "baseDefense": 194,
-        "baseStamina": 189
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100
@@ -67521,7 +67518,11 @@
     },
     "1020_0": {
       "name": "Gouging Fire",
-      "id": 1020,
+      "stats": {
+        "baseAttack": 205,
+        "baseDefense": 208,
+        "baseStamina": 213
+      },
       "types": [
         {
           "id": 10,
@@ -67532,21 +67533,21 @@
           "name": "Dragon"
         }
       ],
+      "id": 1020,
       "form": {
         "name": "",
         "id": 0
-      },
-      "stats": {
-        "baseAttack": 205,
-        "baseDefense": 208,
-        "baseStamina": 213
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100
     },
     "1020_3332": {
       "name": "Gouging Fire",
-      "id": 1020,
+      "stats": {
+        "baseAttack": 205,
+        "baseDefense": 208,
+        "baseStamina": 213
+      },
       "types": [
         {
           "id": 10,
@@ -67557,21 +67558,21 @@
           "name": "Dragon"
         }
       ],
+      "id": 1020,
       "form": {
         "name": "Normal",
         "id": 3332
-      },
-      "stats": {
-        "baseAttack": 205,
-        "baseDefense": 208,
-        "baseStamina": 213
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100
     },
     "1021_0": {
       "name": "Raging Bolt",
-      "id": 1021,
+      "stats": {
+        "baseAttack": 235,
+        "baseDefense": 165,
+        "baseStamina": 245
+      },
       "types": [
         {
           "id": 13,
@@ -67582,21 +67583,21 @@
           "name": "Dragon"
         }
       ],
+      "id": 1021,
       "form": {
         "name": "",
         "id": 0
-      },
-      "stats": {
-        "baseAttack": 235,
-        "baseDefense": 165,
-        "baseStamina": 245
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100
     },
     "1021_3333": {
       "name": "Raging Bolt",
-      "id": 1021,
+      "stats": {
+        "baseAttack": 235,
+        "baseDefense": 165,
+        "baseStamina": 245
+      },
       "types": [
         {
           "id": 13,
@@ -67607,21 +67608,21 @@
           "name": "Dragon"
         }
       ],
+      "id": 1021,
       "form": {
         "name": "Normal",
         "id": 3333
-      },
-      "stats": {
-        "baseAttack": 235,
-        "baseDefense": 165,
-        "baseStamina": 245
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100
     },
     "1022_0": {
       "name": "Iron Boulder",
-      "id": 1022,
+      "stats": {
+        "baseAttack": 227,
+        "baseDefense": 195,
+        "baseStamina": 189
+      },
       "types": [
         {
           "id": 6,
@@ -67632,21 +67633,21 @@
           "name": "Psychic"
         }
       ],
+      "id": 1022,
       "form": {
         "name": "",
         "id": 0
-      },
-      "stats": {
-        "baseAttack": 227,
-        "baseDefense": 195,
-        "baseStamina": 189
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100
     },
     "1022_3334": {
       "name": "Iron Boulder",
-      "id": 1022,
+      "stats": {
+        "baseAttack": 227,
+        "baseDefense": 195,
+        "baseStamina": 189
+      },
       "types": [
         {
           "id": 6,
@@ -67657,21 +67658,21 @@
           "name": "Psychic"
         }
       ],
+      "id": 1022,
       "form": {
         "name": "Normal",
         "id": 3334
-      },
-      "stats": {
-        "baseAttack": 227,
-        "baseDefense": 195,
-        "baseStamina": 189
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100
     },
     "1023_0": {
       "name": "Iron Crown",
-      "id": 1023,
+      "stats": {
+        "baseAttack": 221,
+        "baseDefense": 200,
+        "baseStamina": 189
+      },
       "types": [
         {
           "id": 9,
@@ -67682,21 +67683,21 @@
           "name": "Psychic"
         }
       ],
+      "id": 1023,
       "form": {
         "name": "",
         "id": 0
-      },
-      "stats": {
-        "baseAttack": 221,
-        "baseDefense": 200,
-        "baseStamina": 189
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100
     },
     "1023_3335": {
       "name": "Iron Crown",
-      "id": 1023,
+      "stats": {
+        "baseAttack": 221,
+        "baseDefense": 200,
+        "baseStamina": 189
+      },
       "types": [
         {
           "id": 9,
@@ -67707,14 +67708,10 @@
           "name": "Psychic"
         }
       ],
+      "id": 1023,
       "form": {
         "name": "Normal",
         "id": 3335
-      },
-      "stats": {
-        "baseAttack": 221,
-        "baseDefense": 200,
-        "baseStamina": 189
       },
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100

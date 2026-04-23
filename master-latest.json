@@ -7513,17 +7513,22 @@
     },
     "129": {
       "name": "Magikarp",
-      "pokedex_id": 129,
-      "default_form_id": 253,
-      "types": [
-        "Water"
-      ],
       "quick_moves": [
         "Splash"
       ],
       "charged_moves": [
         "Struggle"
       ],
+      "attack": 29,
+      "defense": 85,
+      "stamina": 85,
+      "types": [
+        "Water"
+      ],
+      "legendary": false,
+      "mythic": false,
+      "pokedex_id": 129,
+      "default_form_id": 253,
       "gen_id": 1,
       "generation": "Kanto",
       "forms": {
@@ -7538,14 +7543,9 @@
           ]
         }
       },
-      "attack": 29,
-      "defense": 85,
-      "stamina": 85,
       "height": 0.9,
       "weight": 10,
       "family": 129,
-      "legendary": false,
-      "mythic": false,
       "buddy_group_number": 3,
       "buddy_distance": 1,
       "third_move_stardust": 10000,
@@ -11377,6 +11377,8 @@
           "form": 3292
         }
       ],
+      "legendary": false,
+      "mythic": false,
       "name": "Girafarig",
       "pokedex_id": 203,
       "default_form_id": 1241,
@@ -11410,8 +11412,6 @@
       "height": 1.5,
       "weight": 41.5,
       "family": 203,
-      "legendary": false,
-      "mythic": false,
       "buddy_group_number": 3,
       "buddy_distance": 3,
       "third_move_stardust": 50000,
@@ -40997,17 +40997,22 @@
     },
     "789": {
       "name": "Cosmog",
-      "pokedex_id": 789,
-      "default_form_id": 3134,
-      "types": [
-        "Psychic"
-      ],
       "quick_moves": [
         "Splash"
       ],
       "charged_moves": [
         "Struggle"
       ],
+      "attack": 54,
+      "defense": 57,
+      "stamina": 125,
+      "types": [
+        "Psychic"
+      ],
+      "legendary": true,
+      "mythic": false,
+      "pokedex_id": 789,
+      "default_form_id": 3134,
       "gen_id": 7,
       "generation": "Alola",
       "forms": {
@@ -41022,14 +41027,9 @@
           ]
         }
       },
-      "attack": 54,
-      "defense": 57,
-      "stamina": 125,
       "height": 0.2,
       "weight": 0.1,
       "family": 789,
-      "legendary": true,
-      "mythic": false,
       "buddy_group_number": 2,
       "buddy_distance": 20,
       "third_move_stardust": 100000,
@@ -41043,17 +41043,22 @@
     },
     "790": {
       "name": "Cosmoem",
-      "pokedex_id": 790,
-      "default_form_id": 3135,
-      "types": [
-        "Psychic"
-      ],
       "quick_moves": [
         "Splash"
       ],
       "charged_moves": [
         "Struggle"
       ],
+      "attack": 54,
+      "defense": 242,
+      "stamina": 125,
+      "types": [
+        "Psychic"
+      ],
+      "legendary": true,
+      "mythic": false,
+      "pokedex_id": 790,
+      "default_form_id": 3135,
       "gen_id": 7,
       "generation": "Alola",
       "forms": {
@@ -41072,14 +41077,9 @@
           ]
         }
       },
-      "attack": 54,
-      "defense": 242,
-      "stamina": 125,
       "height": 0.1,
       "weight": 999.9,
       "family": 789,
-      "legendary": true,
-      "mythic": false,
       "buddy_group_number": 2,
       "buddy_distance": 20,
       "third_move_stardust": 100000,
@@ -41533,18 +41533,23 @@
     },
     "801": {
       "name": "Magearna",
-      "pokedex_id": 801,
-      "default_form_id": 2721,
-      "types": [
-        "Steel",
-        "Fairy"
-      ],
       "quick_moves": [
         "Splash"
       ],
       "charged_moves": [
         "Struggle"
       ],
+      "attack": 246,
+      "defense": 225,
+      "stamina": 190,
+      "types": [
+        "Steel",
+        "Fairy"
+      ],
+      "legendary": false,
+      "mythic": true,
+      "pokedex_id": 801,
+      "default_form_id": 2721,
       "gen_id": 7,
       "generation": "Alola",
       "forms": {
@@ -41560,14 +41565,9 @@
           "proto": "MAGEARNA_ORIGINAL_COLOR"
         }
       },
-      "attack": 246,
-      "defense": 225,
-      "stamina": 190,
       "height": 1,
       "weight": 80.5,
       "family": 801,
-      "legendary": false,
-      "mythic": true,
       "buddy_group_number": 2,
       "buddy_distance": 20,
       "third_move_stardust": 100000,
@@ -46137,10 +46137,12 @@
         "Ice Beam",
         "Blizzard",
         "Aqua Jet",
+        "Aqua Tail",
         "Shadow Ball",
         "Water Pulse",
         "Hydro Pump",
         "Icy Wind",
+        "Swift",
         "Rest",
         "Night Shade",
         "Outrage",
@@ -49880,18 +49882,23 @@
     },
     "984": {
       "name": "Greattusk",
-      "pokedex_id": 984,
-      "default_form_id": 3294,
-      "types": [
-        "Fighting",
-        "Ground"
-      ],
       "quick_moves": [
         "Splash"
       ],
       "charged_moves": [
         "Struggle"
       ],
+      "attack": 249,
+      "defense": 209,
+      "stamina": 251,
+      "types": [
+        "Fighting",
+        "Ground"
+      ],
+      "legendary": false,
+      "mythic": false,
+      "pokedex_id": 984,
+      "default_form_id": 3294,
       "gen_id": 9,
       "generation": "Paldea",
       "forms": {
@@ -49900,14 +49907,9 @@
           "proto": "GREATTUSK_NORMAL"
         }
       },
-      "attack": 249,
-      "defense": 209,
-      "stamina": 251,
       "height": 2.2,
       "weight": 320,
       "family": 984,
-      "legendary": false,
-      "mythic": false,
       "buddy_distance": 20,
       "third_move_stardust": 100000,
       "third_move_candy": 100,
@@ -49915,18 +49917,23 @@
     },
     "985": {
       "name": "Screamtail",
-      "pokedex_id": 985,
-      "default_form_id": 3295,
-      "types": [
-        "Psychic",
-        "Fairy"
-      ],
       "quick_moves": [
         "Splash"
       ],
       "charged_moves": [
         "Struggle"
       ],
+      "attack": 139,
+      "defense": 234,
+      "stamina": 251,
+      "types": [
+        "Psychic",
+        "Fairy"
+      ],
+      "legendary": false,
+      "mythic": false,
+      "pokedex_id": 985,
+      "default_form_id": 3295,
       "gen_id": 9,
       "generation": "Paldea",
       "forms": {
@@ -49935,14 +49942,9 @@
           "proto": "SCREAMTAIL_NORMAL"
         }
       },
-      "attack": 139,
-      "defense": 234,
-      "stamina": 251,
       "height": 1.2,
       "weight": 8,
       "family": 985,
-      "legendary": false,
-      "mythic": false,
       "buddy_distance": 20,
       "third_move_stardust": 100000,
       "third_move_candy": 100,
@@ -49950,18 +49952,23 @@
     },
     "986": {
       "name": "Brutebonnet",
-      "pokedex_id": 986,
-      "default_form_id": 3296,
-      "types": [
-        "Grass",
-        "Dark"
-      ],
       "quick_moves": [
         "Splash"
       ],
       "charged_moves": [
         "Struggle"
       ],
+      "attack": 232,
+      "defense": 190,
+      "stamina": 244,
+      "types": [
+        "Grass",
+        "Dark"
+      ],
+      "legendary": false,
+      "mythic": false,
+      "pokedex_id": 986,
+      "default_form_id": 3296,
       "gen_id": 9,
       "generation": "Paldea",
       "forms": {
@@ -49970,14 +49977,9 @@
           "proto": "BRUTEBONNET_NORMAL"
         }
       },
-      "attack": 232,
-      "defense": 190,
-      "stamina": 244,
       "height": 1.2,
       "weight": 21,
       "family": 986,
-      "legendary": false,
-      "mythic": false,
       "buddy_distance": 20,
       "third_move_stardust": 100000,
       "third_move_candy": 100,
@@ -49985,18 +49987,23 @@
     },
     "987": {
       "name": "Fluttermane",
-      "pokedex_id": 987,
-      "default_form_id": 3297,
-      "types": [
-        "Ghost",
-        "Fairy"
-      ],
       "quick_moves": [
         "Splash"
       ],
       "charged_moves": [
         "Struggle"
       ],
+      "attack": 280,
+      "defense": 235,
+      "stamina": 146,
+      "types": [
+        "Ghost",
+        "Fairy"
+      ],
+      "legendary": false,
+      "mythic": false,
+      "pokedex_id": 987,
+      "default_form_id": 3297,
       "gen_id": 9,
       "generation": "Paldea",
       "forms": {
@@ -50005,14 +50012,9 @@
           "proto": "FLUTTERMANE_NORMAL"
         }
       },
-      "attack": 280,
-      "defense": 235,
-      "stamina": 146,
       "height": 1.4,
       "weight": 4,
       "family": 987,
-      "legendary": false,
-      "mythic": false,
       "buddy_distance": 20,
       "third_move_stardust": 100000,
       "third_move_candy": 100,
@@ -50020,18 +50022,23 @@
     },
     "988": {
       "name": "Slitherwing",
-      "pokedex_id": 988,
-      "default_form_id": 3298,
-      "types": [
-        "Fighting",
-        "Bug"
-      ],
       "quick_moves": [
         "Splash"
       ],
       "charged_moves": [
         "Struggle"
       ],
+      "attack": 261,
+      "defense": 193,
+      "stamina": 198,
+      "types": [
+        "Fighting",
+        "Bug"
+      ],
+      "legendary": false,
+      "mythic": false,
+      "pokedex_id": 988,
+      "default_form_id": 3298,
       "gen_id": 9,
       "generation": "Paldea",
       "forms": {
@@ -50040,14 +50047,9 @@
           "proto": "SLITHERWING_NORMAL"
         }
       },
-      "attack": 261,
-      "defense": 193,
-      "stamina": 198,
       "height": 3.2,
       "weight": 92,
       "family": 988,
-      "legendary": false,
-      "mythic": false,
       "buddy_distance": 20,
       "third_move_stardust": 100000,
       "third_move_candy": 100,
@@ -50055,18 +50057,23 @@
     },
     "989": {
       "name": "Sandyshocks",
-      "pokedex_id": 989,
-      "default_form_id": 3299,
-      "types": [
-        "Ground",
-        "Electric"
-      ],
       "quick_moves": [
         "Splash"
       ],
       "charged_moves": [
         "Struggle"
       ],
+      "attack": 244,
+      "defense": 195,
+      "stamina": 198,
+      "types": [
+        "Ground",
+        "Electric"
+      ],
+      "legendary": false,
+      "mythic": false,
+      "pokedex_id": 989,
+      "default_form_id": 3299,
       "gen_id": 9,
       "generation": "Paldea",
       "forms": {
@@ -50075,14 +50082,9 @@
           "proto": "SANDYSHOCKS_NORMAL"
         }
       },
-      "attack": 244,
-      "defense": 195,
-      "stamina": 198,
       "height": 2.3,
       "weight": 60,
       "family": 989,
-      "legendary": false,
-      "mythic": false,
       "buddy_distance": 20,
       "third_move_stardust": 100000,
       "third_move_candy": 100,
@@ -50090,18 +50092,23 @@
     },
     "990": {
       "name": "Irontreads",
-      "pokedex_id": 990,
-      "default_form_id": 3300,
-      "types": [
-        "Ground",
-        "Steel"
-      ],
       "quick_moves": [
         "Splash"
       ],
       "charged_moves": [
         "Struggle"
       ],
+      "attack": 227,
+      "defense": 216,
+      "stamina": 207,
+      "types": [
+        "Ground",
+        "Steel"
+      ],
+      "legendary": false,
+      "mythic": false,
+      "pokedex_id": 990,
+      "default_form_id": 3300,
       "gen_id": 9,
       "generation": "Paldea",
       "forms": {
@@ -50110,14 +50117,9 @@
           "proto": "IRONTREADS_NORMAL"
         }
       },
-      "attack": 227,
-      "defense": 216,
-      "stamina": 207,
       "height": 0.9,
       "weight": 240,
       "family": 990,
-      "legendary": false,
-      "mythic": false,
       "buddy_distance": 20,
       "third_move_stardust": 100000,
       "third_move_candy": 100,
@@ -50125,18 +50127,23 @@
     },
     "991": {
       "name": "Ironbundle",
-      "pokedex_id": 991,
-      "default_form_id": 3301,
-      "types": [
-        "Water",
-        "Ice"
-      ],
       "quick_moves": [
         "Splash"
       ],
       "charged_moves": [
         "Struggle"
       ],
+      "attack": 266,
+      "defense": 211,
+      "stamina": 148,
+      "types": [
+        "Water",
+        "Ice"
+      ],
+      "legendary": false,
+      "mythic": false,
+      "pokedex_id": 991,
+      "default_form_id": 3301,
       "gen_id": 9,
       "generation": "Paldea",
       "forms": {
@@ -50145,14 +50152,9 @@
           "proto": "IRONBUNDLE_NORMAL"
         }
       },
-      "attack": 266,
-      "defense": 211,
-      "stamina": 148,
       "height": 0.6,
       "weight": 11,
       "family": 991,
-      "legendary": false,
-      "mythic": false,
       "buddy_distance": 20,
       "third_move_stardust": 100000,
       "third_move_candy": 100,
@@ -50160,18 +50162,23 @@
     },
     "992": {
       "name": "Ironhands",
-      "pokedex_id": 992,
-      "default_form_id": 3302,
-      "types": [
-        "Fighting",
-        "Electric"
-      ],
       "quick_moves": [
         "Splash"
       ],
       "charged_moves": [
         "Struggle"
       ],
+      "attack": 245,
+      "defense": 177,
+      "stamina": 319,
+      "types": [
+        "Fighting",
+        "Electric"
+      ],
+      "legendary": false,
+      "mythic": false,
+      "pokedex_id": 992,
+      "default_form_id": 3302,
       "gen_id": 9,
       "generation": "Paldea",
       "forms": {
@@ -50180,14 +50187,9 @@
           "proto": "IRONHANDS_NORMAL"
         }
       },
-      "attack": 245,
-      "defense": 177,
-      "stamina": 319,
       "height": 1.8,
       "weight": 380.7,
       "family": 992,
-      "legendary": false,
-      "mythic": false,
       "buddy_distance": 20,
       "third_move_stardust": 100000,
       "third_move_candy": 100,
@@ -50195,18 +50197,23 @@
     },
     "993": {
       "name": "Ironjugulis",
-      "pokedex_id": 993,
-      "default_form_id": 3303,
-      "types": [
-        "Flying",
-        "Dark"
-      ],
       "quick_moves": [
         "Splash"
       ],
       "charged_moves": [
         "Struggle"
       ],
+      "attack": 249,
+      "defense": 179,
+      "stamina": 214,
+      "types": [
+        "Flying",
+        "Dark"
+      ],
+      "legendary": false,
+      "mythic": false,
+      "pokedex_id": 993,
+      "default_form_id": 3303,
       "gen_id": 9,
       "generation": "Paldea",
       "forms": {
@@ -50215,14 +50222,9 @@
           "proto": "IRONJUGULIS_NORMAL"
         }
       },
-      "attack": 249,
-      "defense": 179,
-      "stamina": 214,
       "height": 1.3,
       "weight": 111,
       "family": 993,
-      "legendary": false,
-      "mythic": false,
       "buddy_distance": 20,
       "third_move_stardust": 100000,
       "third_move_candy": 100,
@@ -50230,18 +50232,23 @@
     },
     "994": {
       "name": "Ironmoth",
-      "pokedex_id": 994,
-      "default_form_id": 3304,
-      "types": [
-        "Poison",
-        "Fire"
-      ],
       "quick_moves": [
         "Splash"
       ],
       "charged_moves": [
         "Struggle"
       ],
+      "attack": 281,
+      "defense": 196,
+      "stamina": 190,
+      "types": [
+        "Poison",
+        "Fire"
+      ],
+      "legendary": false,
+      "mythic": false,
+      "pokedex_id": 994,
+      "default_form_id": 3304,
       "gen_id": 9,
       "generation": "Paldea",
       "forms": {
@@ -50250,14 +50257,9 @@
           "proto": "IRONMOTH_NORMAL"
         }
       },
-      "attack": 281,
-      "defense": 196,
-      "stamina": 190,
       "height": 1.2,
       "weight": 36,
       "family": 994,
-      "legendary": false,
-      "mythic": false,
       "buddy_distance": 20,
       "third_move_stardust": 100000,
       "third_move_candy": 100,
@@ -50265,18 +50267,23 @@
     },
     "995": {
       "name": "Ironthorns",
-      "pokedex_id": 995,
-      "default_form_id": 3305,
-      "types": [
-        "Rock",
-        "Electric"
-      ],
       "quick_moves": [
         "Splash"
       ],
       "charged_moves": [
         "Struggle"
       ],
+      "attack": 250,
+      "defense": 200,
+      "stamina": 225,
+      "types": [
+        "Rock",
+        "Electric"
+      ],
+      "legendary": false,
+      "mythic": false,
+      "pokedex_id": 995,
+      "default_form_id": 3305,
       "gen_id": 9,
       "generation": "Paldea",
       "forms": {
@@ -50285,14 +50292,9 @@
           "proto": "IRONTHORNS_NORMAL"
         }
       },
-      "attack": 250,
-      "defense": 200,
-      "stamina": 225,
       "height": 1.6,
       "weight": 303,
       "family": 995,
-      "legendary": false,
-      "mythic": false,
       "buddy_distance": 20,
       "third_move_stardust": 100000,
       "third_move_candy": 100,
@@ -50694,18 +50696,23 @@
     },
     "1005": {
       "name": "Roaringmoon",
-      "pokedex_id": 1005,
-      "default_form_id": 3313,
-      "types": [
-        "Dragon",
-        "Dark"
-      ],
       "quick_moves": [
         "Splash"
       ],
       "charged_moves": [
         "Struggle"
       ],
+      "attack": 280,
+      "defense": 196,
+      "stamina": 233,
+      "types": [
+        "Dragon",
+        "Dark"
+      ],
+      "legendary": false,
+      "mythic": false,
+      "pokedex_id": 1005,
+      "default_form_id": 3313,
       "gen_id": 9,
       "generation": "Paldea",
       "forms": {
@@ -50714,14 +50721,9 @@
           "proto": "ROARINGMOON_NORMAL"
         }
       },
-      "attack": 280,
-      "defense": 196,
-      "stamina": 233,
       "height": 2,
       "weight": 380,
       "family": 1005,
-      "legendary": false,
-      "mythic": false,
       "buddy_distance": 20,
       "third_move_stardust": 100000,
       "third_move_candy": 100,
@@ -50729,18 +50731,23 @@
     },
     "1006": {
       "name": "Ironvaliant",
-      "pokedex_id": 1006,
-      "default_form_id": 3314,
-      "types": [
-        "Fighting",
-        "Fairy"
-      ],
       "quick_moves": [
         "Splash"
       ],
       "charged_moves": [
         "Struggle"
       ],
+      "attack": 279,
+      "defense": 171,
+      "stamina": 179,
+      "types": [
+        "Fighting",
+        "Fairy"
+      ],
+      "legendary": false,
+      "mythic": false,
+      "pokedex_id": 1006,
+      "default_form_id": 3314,
       "gen_id": 9,
       "generation": "Paldea",
       "forms": {
@@ -50749,14 +50756,9 @@
           "proto": "IRONVALIANT_NORMAL"
         }
       },
-      "attack": 279,
-      "defense": 171,
-      "stamina": 179,
       "height": 1.4,
       "weight": 35,
       "family": 1006,
-      "legendary": false,
-      "mythic": false,
       "buddy_distance": 20,
       "third_move_stardust": 100000,
       "third_move_candy": 100,
@@ -50840,18 +50842,23 @@
     },
     "1009": {
       "name": "Walkingwake",
-      "pokedex_id": 1009,
-      "default_form_id": 3324,
-      "types": [
-        "Water",
-        "Dragon"
-      ],
       "quick_moves": [
         "Splash"
       ],
       "charged_moves": [
         "Struggle"
       ],
+      "attack": 233,
+      "defense": 171,
+      "stamina": 203,
+      "types": [
+        "Water",
+        "Dragon"
+      ],
+      "legendary": true,
+      "mythic": false,
+      "pokedex_id": 1009,
+      "default_form_id": 3324,
       "gen_id": 9,
       "generation": "Paldea",
       "forms": {
@@ -50860,32 +50867,32 @@
           "proto": "WALKINGWAKE_NORMAL"
         }
       },
-      "attack": 233,
-      "defense": 171,
-      "stamina": 203,
       "height": 3.5,
       "weight": 280,
       "family": 1009,
-      "legendary": true,
-      "mythic": false,
       "buddy_distance": 20,
       "third_move_stardust": 100000,
       "third_move_candy": 100
     },
     "1010": {
       "name": "Ironleaves",
-      "pokedex_id": 1010,
-      "default_form_id": 3325,
-      "types": [
-        "Grass",
-        "Psychic"
-      ],
       "quick_moves": [
         "Splash"
       ],
       "charged_moves": [
         "Struggle"
       ],
+      "attack": 236,
+      "defense": 194,
+      "stamina": 189,
+      "types": [
+        "Grass",
+        "Psychic"
+      ],
+      "legendary": true,
+      "mythic": false,
+      "pokedex_id": 1010,
+      "default_form_id": 3325,
       "gen_id": 9,
       "generation": "Paldea",
       "forms": {
@@ -50894,14 +50901,9 @@
           "proto": "IRONLEAVES_NORMAL"
         }
       },
-      "attack": 236,
-      "defense": 194,
-      "stamina": 189,
       "height": 1.5,
       "weight": 125,
       "family": 1010,
-      "legendary": true,
-      "mythic": false,
       "buddy_distance": 20,
       "third_move_stardust": 100000,
       "third_move_candy": 100
@@ -51307,18 +51309,23 @@
     },
     "1020": {
       "name": "Gougingfire",
-      "pokedex_id": 1020,
-      "default_form_id": 3332,
-      "types": [
-        "Fire",
-        "Dragon"
-      ],
       "quick_moves": [
         "Splash"
       ],
       "charged_moves": [
         "Struggle"
       ],
+      "attack": 205,
+      "defense": 208,
+      "stamina": 213,
+      "types": [
+        "Fire",
+        "Dragon"
+      ],
+      "legendary": true,
+      "mythic": false,
+      "pokedex_id": 1020,
+      "default_form_id": 3332,
       "gen_id": 9,
       "generation": "Paldea",
       "forms": {
@@ -51327,32 +51334,32 @@
           "proto": "GOUGINGFIRE_NORMAL"
         }
       },
-      "attack": 205,
-      "defense": 208,
-      "stamina": 213,
       "height": 3.5,
       "weight": 590,
       "family": 1020,
-      "legendary": true,
-      "mythic": false,
       "buddy_distance": 20,
       "third_move_stardust": 100000,
       "third_move_candy": 100
     },
     "1021": {
       "name": "Ragingbolt",
-      "pokedex_id": 1021,
-      "default_form_id": 3333,
-      "types": [
-        "Electric",
-        "Dragon"
-      ],
       "quick_moves": [
         "Splash"
       ],
       "charged_moves": [
         "Struggle"
       ],
+      "attack": 235,
+      "defense": 165,
+      "stamina": 245,
+      "types": [
+        "Electric",
+        "Dragon"
+      ],
+      "legendary": true,
+      "mythic": false,
+      "pokedex_id": 1021,
+      "default_form_id": 3333,
       "gen_id": 9,
       "generation": "Paldea",
       "forms": {
@@ -51361,32 +51368,32 @@
           "proto": "RAGINGBOLT_NORMAL"
         }
       },
-      "attack": 235,
-      "defense": 165,
-      "stamina": 245,
       "height": 5.2,
       "weight": 480,
       "family": 1021,
-      "legendary": true,
-      "mythic": false,
       "buddy_distance": 20,
       "third_move_stardust": 100000,
       "third_move_candy": 100
     },
     "1022": {
       "name": "Ironboulder",
-      "pokedex_id": 1022,
-      "default_form_id": 3334,
-      "types": [
-        "Rock",
-        "Psychic"
-      ],
       "quick_moves": [
         "Splash"
       ],
       "charged_moves": [
         "Struggle"
       ],
+      "attack": 227,
+      "defense": 195,
+      "stamina": 189,
+      "types": [
+        "Rock",
+        "Psychic"
+      ],
+      "legendary": true,
+      "mythic": false,
+      "pokedex_id": 1022,
+      "default_form_id": 3334,
       "gen_id": 9,
       "generation": "Paldea",
       "forms": {
@@ -51395,32 +51402,32 @@
           "proto": "IRONBOULDER_NORMAL"
         }
       },
-      "attack": 227,
-      "defense": 195,
-      "stamina": 189,
       "height": 1.5,
       "weight": 162.5,
       "family": 1022,
-      "legendary": true,
-      "mythic": false,
       "buddy_distance": 20,
       "third_move_stardust": 100000,
       "third_move_candy": 100
     },
     "1023": {
       "name": "Ironcrown",
-      "pokedex_id": 1023,
-      "default_form_id": 3335,
-      "types": [
-        "Steel",
-        "Psychic"
-      ],
       "quick_moves": [
         "Splash"
       ],
       "charged_moves": [
         "Struggle"
       ],
+      "attack": 221,
+      "defense": 200,
+      "stamina": 189,
+      "types": [
+        "Steel",
+        "Psychic"
+      ],
+      "legendary": true,
+      "mythic": false,
+      "pokedex_id": 1023,
+      "default_form_id": 3335,
       "gen_id": 9,
       "generation": "Paldea",
       "forms": {
@@ -51429,14 +51436,9 @@
           "proto": "IRONCROWN_NORMAL"
         }
       },
-      "attack": 221,
-      "defense": 200,
-      "stamina": 189,
       "height": 1.6,
       "weight": 156,
       "family": 1023,
-      "legendary": true,
-      "mythic": false,
       "buddy_distance": 20,
       "third_move_stardust": 100000,
       "third_move_candy": 100
