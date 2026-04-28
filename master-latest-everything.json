@@ -135140,6 +135140,13 @@
       "type": "Global Event Ticket",
       "category": "Global Event Ticket"
     },
+    "1605": {
+      "id": 1605,
+      "name": "Extra Ticket",
+      "proto": "ITEM_EVENT_TICKET_GRAY_TO_GIFT",
+      "type": "Global Event Ticket",
+      "category": "Global Event Ticket"
+    },
     "1606": {
       "id": 1606,
       "name": "GO Battle League Timed Research Pass",

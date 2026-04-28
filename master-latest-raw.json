@@ -95197,6 +95197,13 @@
       "type": "Global Event Ticket",
       "category": "Global Event Ticket"
     },
+    "1605": {
+      "itemId": 1605,
+      "itemName": "Event Ticket Gray To Gift",
+      "proto": "ITEM_EVENT_TICKET_GRAY_TO_GIFT",
+      "type": "Global Event Ticket",
+      "category": "Global Event Ticket"
+    },
     "1606": {
       "itemId": 1606,
       "itemName": "Battle Pass Ticket",
