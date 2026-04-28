@@ -56058,7 +56058,7 @@
       "type": "Mixed",
       "gender": 1,
       "grunt": "Grunt",
-      "second_reward": true,
+      "second_reward": false,
       "encounters": {
         "first": [
           1,
@@ -56081,7 +56081,7 @@
       "type": "Mixed",
       "gender": 2,
       "grunt": "Grunt",
-      "second_reward": true,
+      "second_reward": false,
       "encounters": {
         "first": [
           143
@@ -56158,7 +56158,7 @@
       "type": "Dark",
       "gender": 2,
       "grunt": "Grunt",
-      "second_reward": true,
+      "second_reward": false,
       "encounters": {
         "first": [
           19,
@@ -56190,7 +56190,7 @@
       "type": "Dragon",
       "gender": 2,
       "grunt": "Grunt",
-      "second_reward": true,
+      "second_reward": false,
       "encounters": {
         "first": [
           147,
@@ -56292,7 +56292,7 @@
       "type": "Fire",
       "gender": 2,
       "grunt": "Grunt",
-      "second_reward": true,
+      "second_reward": false,
       "encounters": {
         "first": [
           37,
@@ -56326,7 +56326,7 @@
       "type": "Flying",
       "gender": 2,
       "grunt": "Grunt",
-      "second_reward": true,
+      "second_reward": false,
       "encounters": {
         "first": [
           16,
@@ -56371,7 +56371,7 @@
       "type": "Grass",
       "gender": 1,
       "grunt": "Grunt",
-      "second_reward": true,
+      "second_reward": false,
       "encounters": {
         "first": [
           331,
@@ -56428,7 +56428,7 @@
       "type": "Ice",
       "gender": 2,
       "grunt": "Grunt",
-      "second_reward": true,
+      "second_reward": false,
       "encounters": {
         "first": [
           215,
@@ -56473,7 +56473,7 @@
       "type": "Metal",
       "gender": 1,
       "grunt": "Grunt",
-      "second_reward": true,
+      "second_reward": false,
       "encounters": {
         "first": [
           27,
@@ -56507,7 +56507,7 @@
       "type": "Normal",
       "gender": 1,
       "grunt": "Grunt",
-      "second_reward": true,
+      "second_reward": false,
       "encounters": {
         "first": [
           52,
@@ -56575,7 +56575,7 @@
       "type": "Psychic",
       "gender": 1,
       "grunt": "Grunt",
-      "second_reward": true,
+      "second_reward": false,
       "encounters": {
         "first": [
           96,
@@ -56609,7 +56609,7 @@
       "type": "Rock",
       "gender": 1,
       "grunt": "Grunt",
-      "second_reward": true,
+      "second_reward": false,
       "encounters": {
         "first": [
           138,
@@ -56632,7 +56632,7 @@
       "type": "Water",
       "gender": 2,
       "grunt": "Grunt",
-      "second_reward": true,
+      "second_reward": false,
       "encounters": {
         "first": [
           72,
@@ -56684,7 +56684,7 @@
       "type": "Cliff",
       "gender": 0,
       "grunt": "Executive",
-      "second_reward": true,
+      "second_reward": false,
       "encounters": {
         "first": [
           129
@@ -56705,7 +56705,7 @@
       "type": "Arlo",
       "gender": 0,
       "grunt": "Executive",
-      "second_reward": true,
+      "second_reward": false,
       "encounters": {
         "first": [
           303
@@ -56726,7 +56726,7 @@
       "type": "Sierra",
       "gender": 0,
       "grunt": "Executive",
-      "second_reward": true,
+      "second_reward": false,
       "encounters": {
         "first": [
           187
@@ -56747,7 +56747,7 @@
       "type": "Giovanni",
       "gender": 0,
       "grunt": "Giovanni",
-      "second_reward": true,
+      "second_reward": false,
       "encounters": {
         "first": [
           53
@@ -56777,7 +56777,7 @@
       "type": "Decoy",
       "gender": 2,
       "grunt": "Grunt",
-      "second_reward": true,
+      "second_reward": false,
       "encounters": {
         "first": [
           69
@@ -56830,7 +56830,7 @@
       "type": "Electric",
       "gender": 2,
       "grunt": "Grunt",
-      "second_reward": true,
+      "second_reward": false,
       "encounters": {
         "first": [
           81,
