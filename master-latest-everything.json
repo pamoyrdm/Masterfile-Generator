@@ -3481,6 +3481,11 @@
           "proto": "PIKACHU_GOFEST_2026_CAP_YELLOW",
           "form": 3345,
           "isCostume": true
+        },
+        "3348": {
+          "name": "Anniversary 2026",
+          "proto": "PIKACHU_ANNIVERSARY_2026",
+          "form": 3348
         }
       },
       "stats": {
@@ -132611,6 +132616,11 @@
       "isCostume": true,
       "purificationDust": 1000,
       "purificationCandy": 1
+    },
+    "3348": {
+      "formName": "Anniversary 2026",
+      "proto": "PIKACHU_ANNIVERSARY_2026",
+      "formId": 3348
     }
   },
   "types": {
@@ -137979,6 +137989,11 @@
       "name": "Gigaton Hammer",
       "proto": "GIGATON_HAMMER",
       "power": 300
+    },
+    "497": {
+      "id": 497,
+      "name": "Plasma Fists",
+      "proto": "PLASMA_FISTS"
     }
   },
   "questTypes": {

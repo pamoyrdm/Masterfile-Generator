@@ -2051,7 +2051,8 @@
         3342,
         3343,
         3344,
-        3345
+        3345,
+        3348
       ],
       "sizeSettings": [
         {
@@ -93912,6 +93913,11 @@
       "isCostume": true,
       "purificationDust": 1000,
       "purificationCandy": 1
+    },
+    "3348": {
+      "formName": "Anniversary 2026",
+      "proto": "PIKACHU_ANNIVERSARY_2026",
+      "formId": 3348
     }
   },
   "types": {
