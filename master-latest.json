@@ -55298,7 +55298,9 @@
     },
     "497": {
       "name": "Plasma Fists",
-      "proto": "PLASMA_FISTS"
+      "proto": "PLASMA_FISTS",
+      "type": "Electric",
+      "power": 135
     }
   },
   "quest_types": {
