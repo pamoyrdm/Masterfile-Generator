@@ -61191,7 +61191,8 @@
       "chargedMoves": [
         35,
         77,
-        251
+        251,
+        497
       ],
       "eliteQuickMoves": [],
       "eliteChargedMoves": [],
@@ -65784,6 +65785,16 @@
           "defense": 229,
           "stamina": 163,
           "unreleased": true
+        },
+        {
+          "tempEvoId": 1,
+          "attack": 267,
+          "defense": 229,
+          "stamina": 163,
+          "height": 1.6,
+          "weight": 99,
+          "firstEnergyCost": 200,
+          "subsequentEnergyCost": 40
         }
       ]
     },
@@ -71842,6 +71853,7 @@
       "legendary": false,
       "mythic": false,
       "ultraBeast": false,
+      "buddyGroupNumber": 1,
       "buddyDistance": 3,
       "thirdMoveStardust": 50000,
       "thirdMoveCandy": 50,
@@ -71917,6 +71929,7 @@
       "legendary": false,
       "mythic": false,
       "ultraBeast": false,
+      "buddyGroupNumber": 2,
       "buddyDistance": 3,
       "thirdMoveStardust": 50000,
       "thirdMoveCandy": 50,
@@ -86083,6 +86096,16 @@
           "defense": 229,
           "stamina": 163,
           "unreleased": true
+        },
+        {
+          "tempEvoId": 1,
+          "attack": 267,
+          "defense": 229,
+          "stamina": 163,
+          "height": 1.6,
+          "weight": 99,
+          "firstEnergyCost": 200,
+          "subsequentEnergyCost": 40
         }
       ]
     },
@@ -90503,7 +90526,19 @@
       "formName": "Gofest 2025 Train Conductor",
       "proto": "FALINKS_GOFEST_2025_TRAIN_CONDUCTOR",
       "formId": 2870,
-      "isCostume": true
+      "isCostume": true,
+      "tempEvolutions": [
+        {
+          "tempEvoId": 1,
+          "attack": 267,
+          "defense": 229,
+          "stamina": 163,
+          "height": 1.6,
+          "weight": 99,
+          "firstEnergyCost": 200,
+          "subsequentEnergyCost": 40
+        }
+      ]
     },
     "2871": {
       "formName": "Counterfeit",

@@ -93785,6 +93785,13 @@
           "proto": "WILD_CHARGE",
           "type": 13,
           "power": 90
+        },
+        "497": {
+          "moveId": 497,
+          "moveName": "Plasma Fists",
+          "proto": "PLASMA_FISTS",
+          "type": 13,
+          "power": 135
         }
       },
       "genId": 7,
@@ -99897,7 +99904,12 @@
           "name": "Gofest 2025 Train Conductor",
           "proto": "FALINKS_GOFEST_2025_TRAIN_CONDUCTOR",
           "form": 2870,
-          "isCostume": true
+          "isCostume": true,
+          "tempEvolutions": {
+            "1": {
+              "tempEvoId": 1
+            }
+          }
         }
       },
       "stats": {
@@ -99928,7 +99940,10 @@
             "defense": 229,
             "stamina": 163
           },
-          "unreleased": true
+          "height": 1.6,
+          "weight": 99,
+          "firstEnergyCost": 200,
+          "subsequentEnergyCost": 40
         }
       }
     },
@@ -109053,6 +109068,7 @@
       "mythic": false,
       "ultraBeast": false,
       "misc": {
+        "buddyGroupNumber": 1,
         "buddyDistance": 3,
         "thirdMoveStardust": 50000,
         "thirdMoveCandy": 50,
@@ -109155,6 +109171,7 @@
       "mythic": false,
       "ultraBeast": false,
       "misc": {
+        "buddyGroupNumber": 2,
         "buddyDistance": 3,
         "thirdMoveStardust": 50000,
         "thirdMoveCandy": 50,
@@ -124783,6 +124800,16 @@
           "defense": 229,
           "stamina": 163,
           "unreleased": true
+        },
+        {
+          "tempEvoId": 1,
+          "attack": 267,
+          "defense": 229,
+          "stamina": 163,
+          "height": 1.6,
+          "weight": 99,
+          "firstEnergyCost": 200,
+          "subsequentEnergyCost": 40
         }
       ]
     },
@@ -129205,7 +129232,19 @@
       "formName": "Gofest 2025 Train Conductor",
       "proto": "FALINKS_GOFEST_2025_TRAIN_CONDUCTOR",
       "formId": 2870,
-      "isCostume": true
+      "isCostume": true,
+      "tempEvolutions": [
+        {
+          "tempEvoId": 1,
+          "attack": 267,
+          "defense": 229,
+          "stamina": 163,
+          "height": 1.6,
+          "weight": 99,
+          "firstEnergyCost": 200,
+          "subsequentEnergyCost": 40
+        }
+      ]
     },
     "2871": {
       "formName": "Counterfeit",
