@@ -11914,8 +11914,6 @@
       "thirdMoveCandy": 100,
       "tradable": true,
       "transferable": true,
-      "purificationDust": 20000,
-      "purificationCandy": 20,
       "tempEvolutions": [
         {
           "tempEvoId": 2,
@@ -11934,8 +11932,34 @@
           "defense": 229,
           "stamina": 235,
           "unreleased": true
+        },
+        {
+          "tempEvoId": 2,
+          "attack": 399,
+          "defense": 215,
+          "stamina": 228,
+          "height": 2.3,
+          "weight": 127,
+          "types": [
+            2,
+            14
+          ],
+          "firstEnergyCost": 7500,
+          "subsequentEnergyCost": 150
+        },
+        {
+          "tempEvoId": 3,
+          "attack": 413,
+          "defense": 223,
+          "stamina": 228,
+          "height": 1.5,
+          "weight": 33,
+          "firstEnergyCost": 7500,
+          "subsequentEnergyCost": 150
         }
-      ]
+      ],
+      "purificationDust": 20000,
+      "purificationCandy": 20
     },
     "151": {
       "pokemonName": "Mew",
@@ -78434,8 +78458,6 @@
       "formName": "Normal",
       "proto": "MEWTWO_NORMAL",
       "formId": 135,
-      "purificationDust": 20000,
-      "purificationCandy": 20,
       "tempEvolutions": [
         {
           "tempEvoId": 2,
@@ -78454,8 +78476,34 @@
           "defense": 229,
           "stamina": 235,
           "unreleased": true
+        },
+        {
+          "tempEvoId": 2,
+          "attack": 399,
+          "defense": 215,
+          "stamina": 228,
+          "height": 2.3,
+          "weight": 127,
+          "types": [
+            2,
+            14
+          ],
+          "firstEnergyCost": 7500,
+          "subsequentEnergyCost": 150
+        },
+        {
+          "tempEvoId": 3,
+          "attack": 413,
+          "defense": 223,
+          "stamina": 228,
+          "height": 1.5,
+          "weight": 33,
+          "firstEnergyCost": 7500,
+          "subsequentEnergyCost": 150
         }
-      ]
+      ],
+      "purificationDust": 20000,
+      "purificationCandy": 20
     },
     "136": {
       "formName": "Red Striped",

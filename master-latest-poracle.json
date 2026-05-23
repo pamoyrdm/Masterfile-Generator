@@ -11780,6 +11780,36 @@
             "baseStamina": 235
           },
           "unreleased": true
+        },
+        {
+          "tempEvoId": 2,
+          "stats": {
+            "baseAttack": 399,
+            "baseDefense": 215,
+            "baseStamina": 228
+          },
+          "types": [
+            {
+              "id": 2,
+              "name": "Fighting"
+            },
+            {
+              "id": 14,
+              "name": "Psychic"
+            }
+          ],
+          "firstEnergyCost": 7500,
+          "subsequentEnergyCost": 150
+        },
+        {
+          "tempEvoId": 3,
+          "stats": {
+            "baseAttack": 413,
+            "baseDefense": 223,
+            "baseStamina": 228
+          },
+          "firstEnergyCost": 7500,
+          "subsequentEnergyCost": 150
         }
       ]
     },
@@ -11852,6 +11882,36 @@
             "baseStamina": 235
           },
           "unreleased": true
+        },
+        {
+          "tempEvoId": 2,
+          "stats": {
+            "baseAttack": 399,
+            "baseDefense": 215,
+            "baseStamina": 228
+          },
+          "types": [
+            {
+              "id": 2,
+              "name": "Fighting"
+            },
+            {
+              "id": 14,
+              "name": "Psychic"
+            }
+          ],
+          "firstEnergyCost": 7500,
+          "subsequentEnergyCost": 150
+        },
+        {
+          "tempEvoId": 3,
+          "stats": {
+            "baseAttack": 413,
+            "baseDefense": 223,
+            "baseStamina": 228
+          },
+          "firstEnergyCost": 7500,
+          "subsequentEnergyCost": 150
         }
       ]
     },
