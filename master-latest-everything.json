@@ -28480,6 +28480,7 @@
       "misc": {
         "buddyGroupNumber": 5,
         "buddyDistance": 5,
+        "buddyMegaEnergy": 15,
         "thirdMoveStardust": 75000,
         "thirdMoveCandy": 75,
         "gymDefenderEligible": true,
@@ -28494,7 +28495,8 @@
             "defense": 228,
             "stamina": 163
           },
-          "unreleased": true
+          "firstEnergyCost": 300,
+          "subsequentEnergyCost": 60
         }
       }
     },
@@ -121537,8 +121539,6 @@
       "formName": "Normal",
       "proto": "SKARMORY_NORMAL",
       "formId": 1295,
-      "purificationDust": 5000,
-      "purificationCandy": 5,
       "tempEvolutions": [
         {
           "tempEvoId": 1,
@@ -121546,8 +121546,18 @@
           "defense": 228,
           "stamina": 163,
           "unreleased": true
+        },
+        {
+          "tempEvoId": 1,
+          "attack": 273,
+          "defense": 228,
+          "stamina": 163,
+          "firstEnergyCost": 300,
+          "subsequentEnergyCost": 60
         }
-      ]
+      ],
+      "purificationDust": 5000,
+      "purificationCandy": 5
     },
     "1298": {
       "formName": "Normal",

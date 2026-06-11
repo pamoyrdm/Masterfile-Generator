@@ -17137,6 +17137,16 @@
             "baseStamina": 163
           },
           "unreleased": true
+        },
+        {
+          "tempEvoId": 1,
+          "stats": {
+            "baseAttack": 273,
+            "baseDefense": 228,
+            "baseStamina": 163
+          },
+          "firstEnergyCost": 300,
+          "subsequentEnergyCost": 60
         }
       ]
     },
@@ -17173,6 +17183,16 @@
             "baseStamina": 163
           },
           "unreleased": true
+        },
+        {
+          "tempEvoId": 1,
+          "stats": {
+            "baseAttack": 273,
+            "baseDefense": 228,
+            "baseStamina": 163
+          },
+          "firstEnergyCost": 300,
+          "subsequentEnergyCost": 60
         }
       ]
     },
