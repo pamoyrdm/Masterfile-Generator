@@ -6919,6 +6919,8 @@
           "candyCost": 50
         }
       ],
+      "purificationDust": 3000,
+      "purificationCandy": 3,
       "little": true
     },
     "87": {
@@ -6995,7 +6997,9 @@
       "thirdMoveCandy": 50,
       "gymDefenderEligible": true,
       "tradable": true,
-      "transferable": true
+      "transferable": true,
+      "purificationDust": 3000,
+      "purificationCandy": 3
     },
     "88": {
       "pokemonName": "Grimer",
@@ -13013,6 +13017,8 @@
           "costumeName": "Jan 2022 Noevolve"
         }
       ],
+      "purificationDust": 1000,
+      "purificationCandy": 1,
       "little": true
     },
     "164": {
@@ -13083,7 +13089,9 @@
       "thirdMoveCandy": 25,
       "gymDefenderEligible": true,
       "tradable": true,
-      "transferable": true
+      "transferable": true,
+      "purificationDust": 1000,
+      "purificationCandy": 1
     },
     "165": {
       "pokemonName": "Ledyba",
@@ -17860,7 +17868,7 @@
       "ultraBeast": false,
       "buddyGroupNumber": 5,
       "buddyDistance": 5,
-      "buddyMegaEnergy": 15,
+      "buddyMegaEnergy": 25,
       "thirdMoveStardust": 75000,
       "thirdMoveCandy": 75,
       "gymDefenderEligible": true,
@@ -17879,6 +17887,7 @@
           "attack": 273,
           "defense": 228,
           "stamina": 163,
+          "weight": 40.4,
           "firstEnergyCost": 300,
           "subsequentEnergyCost": 60
         }
@@ -46791,6 +46800,8 @@
           "candyCost": 25
         }
       ],
+      "purificationDust": 5000,
+      "purificationCandy": 5,
       "little": true
     },
     "611": {
@@ -46865,7 +46876,9 @@
           "evoId": 612,
           "candyCost": 100
         }
-      ]
+      ],
+      "purificationDust": 5000,
+      "purificationCandy": 5
     },
     "612": {
       "pokemonName": "Haxorus",
@@ -46936,7 +46949,9 @@
       "thirdMoveCandy": 75,
       "gymDefenderEligible": true,
       "tradable": true,
-      "transferable": true
+      "transferable": true,
+      "purificationDust": 5000,
+      "purificationCandy": 5
     },
     "613": {
       "pokemonName": "Cubchoo",
@@ -49174,7 +49189,9 @@
       "thirdMoveStardust": 100000,
       "thirdMoveCandy": 100,
       "tradable": true,
-      "transferable": true
+      "transferable": true,
+      "purificationDust": 20000,
+      "purificationCandy": 20
     },
     "644": {
       "pokemonName": "Zekrom",
@@ -54600,6 +54617,8 @@
           "candyCost": 400
         }
       ],
+      "purificationDust": 5000,
+      "purificationCandy": 5,
       "little": true
     },
     "715": {
@@ -54672,7 +54691,9 @@
       "thirdMoveCandy": 75,
       "gymDefenderEligible": true,
       "tradable": true,
-      "transferable": true
+      "transferable": true,
+      "purificationDust": 5000,
+      "purificationCandy": 5
     },
     "716": {
       "pokemonName": "Xerneas",
@@ -62331,6 +62352,8 @@
           "candyCost": 25
         }
       ],
+      "purificationDust": 1000,
+      "purificationCandy": 1,
       "little": true
     },
     "822": {
@@ -62405,7 +62428,9 @@
           "evoId": 823,
           "candyCost": 100
         }
-      ]
+      ],
+      "purificationDust": 1000,
+      "purificationCandy": 1
     },
     "823": {
       "pokemonName": "Corviknight",
@@ -62478,7 +62503,9 @@
       "thirdMoveCandy": 25,
       "gymDefenderEligible": true,
       "tradable": true,
-      "transferable": true
+      "transferable": true,
+      "purificationDust": 1000,
+      "purificationCandy": 1
     },
     "824": {
       "pokemonName": "Blipbug",
@@ -81726,12 +81753,16 @@
           "formId": 1035,
           "candyCost": 50
         }
-      ]
+      ],
+      "purificationDust": 3000,
+      "purificationCandy": 3
     },
     "1035": {
       "formName": "Normal",
       "proto": "DEWGONG_NORMAL",
-      "formId": 1035
+      "formId": 1035,
+      "purificationDust": 3000,
+      "purificationCandy": 3
     },
     "1038": {
       "formName": "Normal",
@@ -82213,6 +82244,8 @@
           "candyCost": 50
         }
       ],
+      "purificationDust": 1000,
+      "purificationCandy": 1,
       "costumeOverrideEvos": [
         {
           "costumeId": 54,
@@ -82224,7 +82257,9 @@
     "1154": {
       "formName": "Normal",
       "proto": "NOCTOWL_NORMAL",
-      "formId": 1154
+      "formId": 1154,
+      "purificationDust": 1000,
+      "purificationCandy": 1
     },
     "1157": {
       "formName": "Normal",
@@ -82727,6 +82762,7 @@
           "attack": 273,
           "defense": 228,
           "stamina": 163,
+          "weight": 40.4,
           "firstEnergyCost": 300,
           "subsequentEnergyCost": 60
         }
@@ -85921,7 +85957,9 @@
           "formId": 2225,
           "candyCost": 25
         }
-      ]
+      ],
+      "purificationDust": 5000,
+      "purificationCandy": 5
     },
     "2225": {
       "formName": "Normal",
@@ -85933,12 +85971,16 @@
           "formId": 2228,
           "candyCost": 100
         }
-      ]
+      ],
+      "purificationDust": 5000,
+      "purificationCandy": 5
     },
     "2228": {
       "formName": "Normal",
       "proto": "HAXORUS_NORMAL",
-      "formId": 2228
+      "formId": 2228,
+      "purificationDust": 5000,
+      "purificationCandy": 5
     },
     "2231": {
       "formName": "Normal",
@@ -86192,7 +86234,9 @@
     "2315": {
       "formName": "Normal",
       "proto": "RESHIRAM_NORMAL",
-      "formId": 2315
+      "formId": 2315,
+      "purificationDust": 20000,
+      "purificationCandy": 20
     },
     "2318": {
       "formName": "Normal",
@@ -91746,12 +91790,16 @@
           "formId": 3071,
           "candyCost": 400
         }
-      ]
+      ],
+      "purificationDust": 5000,
+      "purificationCandy": 5
     },
     "3071": {
       "formName": "Normal",
       "proto": "NOIVERN_NORMAL",
-      "formId": 3071
+      "formId": 3071,
+      "purificationDust": 5000,
+      "purificationCandy": 5
     },
     "3072": {
       "formName": "Normal",
@@ -92552,7 +92600,9 @@
           "formId": 3161,
           "candyCost": 25
         }
-      ]
+      ],
+      "purificationDust": 1000,
+      "purificationCandy": 1
     },
     "3161": {
       "formName": "Normal",
@@ -92564,13 +92614,17 @@
           "formId": 3162,
           "candyCost": 100
         }
-      ]
+      ],
+      "purificationDust": 1000,
+      "purificationCandy": 1
     },
     "3162": {
       "formName": "Normal",
       "proto": "CORVIKNIGHT_NORMAL",
       "formId": 3162,
-      "gmaxMove": 439
+      "gmaxMove": 439,
+      "purificationDust": 1000,
+      "purificationCandy": 1
     },
     "3163": {
       "formName": "Normal",
