@@ -69805,6 +69805,9 @@
     "2205": {
       "name": "Event Ticket S23 2026 01"
     },
+    "2206": {
+      "name": "Event Ticket S23 2026 02"
+    },
     "2207": {
       "name": "Event Ticket S23 2026 03"
     },
@@ -69813,6 +69816,9 @@
     },
     "2237": {
       "name": "Event Ticket S23 2026 01 To Gift"
+    },
+    "2238": {
+      "name": "Event Ticket S23 2026 02 To Gift"
     }
   },
   "moves": {
@@ -71359,6 +71365,10 @@
     "590": {
       "name": "Glaive Rush",
       "type": "Dragon"
+    },
+    "592": {
+      "name": "Snipe Shot",
+      "type": "Water"
     }
   },
   "questTypes": {
@@ -71850,10 +71860,12 @@
         ],
         "second": [
           20,
+          228,
           359
         ],
         "third": [
-          510
+          510,
+          635
         ]
       }
     },
@@ -71994,7 +72006,8 @@
       "encounters": {
         "first": [
           77,
-          255
+          255,
+          607
         ],
         "second": [
           126,
@@ -72557,7 +72570,7 @@
       "gender": 1,
       "grunt": "Grunt",
       "firstReward": true,
-      "secondReward": true,
+      "secondReward": false,
       "thirdReward": false,
       "encounters": {
         "first": [
@@ -72567,6 +72580,7 @@
         ],
         "second": [
           302,
+          356,
           563
         ],
         "third": [

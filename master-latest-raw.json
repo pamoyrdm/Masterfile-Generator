@@ -95805,6 +95805,13 @@
       "type": "Global Event Ticket",
       "category": "Global Event Ticket"
     },
+    "2206": {
+      "itemId": 2206,
+      "itemName": "Event Ticket S23 2026 02",
+      "proto": "ITEM_EVENT_TICKET_S23_2026_02",
+      "type": "Global Event Ticket",
+      "category": "Global Event Ticket"
+    },
     "2207": {
       "itemId": 2207,
       "itemName": "Event Ticket S23 2026 03",
@@ -95823,6 +95830,13 @@
       "itemId": 2237,
       "itemName": "Event Ticket S23 2026 01 To Gift",
       "proto": "ITEM_EVENT_TICKET_S23_2026_01_TO_GIFT",
+      "type": "Global Event Ticket",
+      "category": "Global Event Ticket"
+    },
+    "2238": {
+      "itemId": 2238,
+      "itemName": "Event Ticket S23 2026 02 To Gift",
+      "proto": "ITEM_EVENT_TICKET_S23_2026_02_TO_GIFT",
       "type": "Global Event Ticket",
       "category": "Global Event Ticket"
     },
@@ -100708,6 +100722,22 @@
       "power": 105,
       "durationMs": 2000,
       "energyDelta": -50
+    },
+    "592": {
+      "moveId": 592,
+      "moveName": "Snipe Shot",
+      "proto": "SNIPE_SHOT",
+      "fast": false,
+      "type": 11,
+      "pvpPower": 65,
+      "pvpEnergyDelta": -35,
+      "pvpBuffs": {
+        "attackerAttackStatStageChange": 2,
+        "buffActivationChance": 0.125
+      },
+      "power": 100,
+      "durationMs": 3500,
+      "energyDelta": -33
     }
   },
   "questTypes": {
@@ -102082,13 +102112,13 @@
           "position": "first"
         },
         {
-          "id": null,
-          "formId": 0,
+          "id": 20,
+          "formId": 48,
           "position": "second"
         },
         {
-          "id": 20,
-          "formId": 48,
+          "id": 228,
+          "formId": 229,
           "position": "second"
         },
         {
@@ -102102,13 +102132,13 @@
           "position": "third"
         },
         {
-          "id": null,
-          "formId": 0,
+          "id": 510,
+          "formId": 1934,
           "position": "third"
         },
         {
-          "id": 510,
-          "formId": 1934,
+          "id": 635,
+          "formId": 2297,
           "position": "third"
         }
       ]
@@ -102387,11 +102417,6 @@
       "thirdReward": false,
       "encounters": [
         {
-          "id": null,
-          "formId": 0,
-          "position": "first"
-        },
-        {
           "id": 77,
           "formId": 1011,
           "position": "first"
@@ -102399,6 +102424,11 @@
         {
           "id": 255,
           "formId": 1358,
+          "position": "first"
+        },
+        {
+          "id": 607,
+          "formId": 2213,
           "position": "first"
         },
         {
@@ -103549,7 +103579,7 @@
       "proto": "CHARACTER_GHOST_GRUNT_MALE",
       "active": true,
       "firstReward": true,
-      "secondReward": true,
+      "secondReward": false,
       "thirdReward": false,
       "encounters": [
         {
@@ -103568,13 +103598,13 @@
           "position": "first"
         },
         {
-          "id": null,
-          "formId": 0,
+          "id": 302,
+          "formId": 923,
           "position": "second"
         },
         {
-          "id": 302,
-          "formId": 923,
+          "id": 356,
+          "formId": 917,
           "position": "second"
         },
         {
