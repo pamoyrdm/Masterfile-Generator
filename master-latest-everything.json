@@ -140180,14 +140180,12 @@
       "encounters": {
         "first": [
           {
-            "id": [
-              {}
-            ],
-            "formId": 0
-          },
-          {
             "id": 13,
             "formId": 616
+          },
+          {
+            "id": 48,
+            "formId": 259
           },
           {
             "id": 736,
@@ -140264,7 +140262,7 @@
       "proto": "CHARACTER_DARK_GRUNT_FEMALE",
       "active": true,
       "firstReward": true,
-      "secondReward": false,
+      "secondReward": true,
       "thirdReward": false,
       "encounters": {
         "first": [
@@ -140283,8 +140281,8 @@
         ],
         "second": [
           {
-            "id": 20,
-            "formId": 48
+            "id": 215,
+            "formId": 797
           },
           {
             "id": 228,
@@ -140296,12 +140294,6 @@
           }
         ],
         "third": [
-          {
-            "id": [
-              {}
-            ],
-            "formId": 0
-          },
           {
             "id": 510,
             "formId": 1934
@@ -140569,18 +140561,16 @@
         ],
         "second": [
           {
-            "id": [
-              {}
-            ],
-            "formId": 0
-          },
-          {
             "id": 126,
             "formId": 634
           },
           {
             "id": 257,
             "formId": 1364
+          },
+          {
+            "id": 323,
+            "formId": 1520
           }
         ],
         "third": [
@@ -140729,14 +140719,12 @@
         ],
         "second": [
           {
-            "id": [
-              {}
-            ],
-            "formId": 0
-          },
-          {
             "id": 254,
             "formId": 1355
+          },
+          {
+            "id": 345,
+            "formId": 1568
           },
           {
             "id": 755,
@@ -141209,7 +141197,7 @@
       "proto": "CHARACTER_ROCK_GRUNT_MALE",
       "active": true,
       "firstReward": true,
-      "secondReward": false,
+      "secondReward": true,
       "thirdReward": false,
       "encounters": {
         "first": [
@@ -141283,18 +141271,16 @@
         ],
         "second": [
           {
-            "id": [
-              {}
-            ],
-            "formId": 0
-          },
-          {
             "id": 260,
             "formId": 211
           },
           {
             "id": 319,
             "formId": 737
+          },
+          {
+            "id": 751,
+            "formId": 3100
           }
         ],
         "third": [
@@ -141328,6 +141314,10 @@
           {
             "id": 129,
             "formId": 253
+          },
+          {
+            "id": 349,
+            "formId": 1580
           }
         ],
         "second": [

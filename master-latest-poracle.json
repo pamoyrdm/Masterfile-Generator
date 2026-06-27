@@ -71805,6 +71805,7 @@
       "encounters": {
         "first": [
           13,
+          48,
           736
         ],
         "second": [
@@ -71850,7 +71851,7 @@
       "gender": 2,
       "grunt": "Grunt",
       "firstReward": true,
-      "secondReward": false,
+      "secondReward": true,
       "thirdReward": false,
       "encounters": {
         "first": [
@@ -71859,7 +71860,7 @@
           318
         ],
         "second": [
-          20,
+          215,
           228,
           359
         ],
@@ -72011,7 +72012,8 @@
         ],
         "second": [
           126,
-          257
+          257,
+          323
         ],
         "third": [
           467,
@@ -72099,6 +72101,7 @@
         ],
         "second": [
           254,
+          345,
           755
         ],
         "third": [
@@ -72354,7 +72357,7 @@
       "gender": 1,
       "grunt": "Grunt",
       "firstReward": true,
-      "secondReward": false,
+      "secondReward": true,
       "thirdReward": false,
       "encounters": {
         "first": [
@@ -72389,7 +72392,8 @@
         ],
         "second": [
           260,
-          319
+          319,
+          751
         ],
         "third": [
           73,
@@ -72407,7 +72411,8 @@
       "thirdReward": false,
       "encounters": {
         "first": [
-          129
+          129,
+          349
         ],
         "second": [
           129
