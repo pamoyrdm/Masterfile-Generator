@@ -179,7 +179,8 @@
             }
           ],
           "costume_override_evos": [
-            11
+            11,
+            14
           ]
         },
         "895": {}
@@ -194,7 +195,8 @@
         }
       ],
       "costume_override_evos": [
-        11
+        11,
+        14
       ],
       "little": true
     },
@@ -208,7 +210,8 @@
             }
           ],
           "costume_override_evos": [
-            11
+            11,
+            14
           ]
         }
       },
@@ -222,7 +225,8 @@
         }
       ],
       "costume_override_evos": [
-        11
+        11,
+        14
       ]
     },
     "9": {

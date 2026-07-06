@@ -636,6 +636,11 @@
           "costumeId": 11,
           "costumeProto": "JAN_2020_NOEVOLVE",
           "costumeName": "Jan 2020 Noevolve"
+        },
+        {
+          "costumeId": 14,
+          "costumeProto": "SPRING_2020_NOEVOLVE",
+          "costumeName": "Spring 2020 Noevolve"
         }
       ],
       "purificationDust": 3000,
@@ -722,6 +727,11 @@
           "costumeId": 11,
           "costumeProto": "JAN_2020_NOEVOLVE",
           "costumeName": "Jan 2020 Noevolve"
+        },
+        {
+          "costumeId": 14,
+          "costumeProto": "SPRING_2020_NOEVOLVE",
+          "costumeName": "Spring 2020 Noevolve"
         }
       ],
       "purificationDust": 3000,
@@ -62108,10 +62118,13 @@
       "chargedMoves": [
         70,
         105,
-        284
+        284,
+        592
       ],
       "eliteQuickMoves": [],
-      "eliteChargedMoves": [],
+      "eliteChargedMoves": [
+        299
+      ],
       "genId": 8,
       "generation": "Galar",
       "forms": [
@@ -79133,6 +79146,11 @@
           "costumeId": 11,
           "costumeProto": "JAN_2020_NOEVOLVE",
           "costumeName": "Jan 2020 Noevolve"
+        },
+        {
+          "costumeId": 14,
+          "costumeProto": "SPRING_2020_NOEVOLVE",
+          "costumeName": "Spring 2020 Noevolve"
         }
       ]
     },
@@ -79154,6 +79172,11 @@
           "costumeId": 11,
           "costumeProto": "JAN_2020_NOEVOLVE",
           "costumeName": "Jan 2020 Noevolve"
+        },
+        {
+          "costumeId": 14,
+          "costumeProto": "SPRING_2020_NOEVOLVE",
+          "costumeName": "Spring 2020 Noevolve"
         }
       ]
     },
@@ -90469,6 +90492,9 @@
       "stamina": 205,
       "height": 7,
       "weight": 850,
+      "eliteChargedMoves": [
+        394
+      ],
       "purificationDust": 20000,
       "purificationCandy": 20
     },
@@ -90507,6 +90533,9 @@
       "stamina": 189,
       "height": 6.3,
       "weight": 660,
+      "eliteChargedMoves": [
+        388
+      ],
       "purificationDust": 20000,
       "purificationCandy": 20
     },
@@ -95836,6 +95865,13 @@
       "itemId": 2207,
       "itemName": "Event Ticket S23 2026 03",
       "proto": "ITEM_EVENT_TICKET_S23_2026_03",
+      "type": "Global Event Ticket",
+      "category": "Global Event Ticket"
+    },
+    "2208": {
+      "itemId": 2208,
+      "itemName": "Event Ticket S23 2026 04",
+      "proto": "ITEM_EVENT_TICKET_S23_2026_04",
       "type": "Global Event Ticket",
       "category": "Global Event Ticket"
     },
