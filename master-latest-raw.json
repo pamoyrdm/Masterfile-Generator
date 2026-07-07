@@ -95896,6 +95896,13 @@
       "type": "Global Event Ticket",
       "category": "Global Event Ticket"
     },
+    "2240": {
+      "itemId": 2240,
+      "itemName": "Event Ticket S23 2026 04 To Gift",
+      "proto": "ITEM_EVENT_TICKET_S23_2026_04_TO_GIFT",
+      "type": "Global Event Ticket",
+      "category": "Global Event Ticket"
+    },
     "undefined": {
       "itemName": "Fusion Resource White Kyurem",
       "proto": "FUSION_RESOURCE_WHITE_KYUREM",
