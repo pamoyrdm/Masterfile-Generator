@@ -94221,7 +94221,8 @@
     "3348": {
       "formName": "Anniversary 2026",
       "proto": "PIKACHU_ANNIVERSARY_2026",
-      "formId": 3348
+      "formId": 3348,
+      "isCostume": true
     },
     "3349": {
       "formName": "Gulping",
