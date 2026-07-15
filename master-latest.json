@@ -43583,9 +43583,10 @@
         "Water Gun"
       ],
       "charged_moves": [
-        "Drill Peck",
         "Hydro Pump",
-        "Fly"
+        "Surf",
+        "Fly",
+        {}
       ],
       "gen_id": 8,
       "generation": "Galar",
@@ -55831,11 +55832,13 @@
     },
     "594": {
       "name": "Gulp Missile Gulping",
-      "proto": "GULP_MISSILE_GULPING"
+      "proto": "GULP_MISSILE_GULPING",
+      "type": "Normal"
     },
     "595": {
       "name": "Gulp Missile Gorging",
-      "proto": "GULP_MISSILE_GORGING"
+      "proto": "GULP_MISSILE_GORGING",
+      "type": "Normal"
     }
   },
   "quest_types": {
