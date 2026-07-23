@@ -43585,7 +43585,8 @@
       "charged_moves": [
         "Hydro Pump",
         "Surf",
-        "Fly"
+        "Fly",
+        "Dive"
       ],
       "gen_id": 8,
       "generation": "Galar",
@@ -55846,6 +55847,12 @@
       "proto": "SNIPE_SHOT",
       "type": "Water",
       "power": 100
+    },
+    "593": {
+      "name": "Dive",
+      "proto": "DIVE",
+      "type": "Water",
+      "power": 70
     },
     "594": {
       "name": "Gulp Missile Gulping",

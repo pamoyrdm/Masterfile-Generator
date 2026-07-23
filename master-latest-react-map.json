@@ -29710,7 +29710,8 @@
       "chargedMoves": [
         107,
         284,
-        341
+        341,
+        593
       ],
       "genId": 8,
       "generation": "Galar",
@@ -37672,6 +37673,10 @@
     },
     "592": {
       "name": "Snipe Shot",
+      "type": 11
+    },
+    "593": {
+      "name": "Dive",
       "type": 11
     },
     "594": {
