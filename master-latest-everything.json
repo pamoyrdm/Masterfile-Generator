@@ -135906,6 +135906,13 @@
       "type": "Event Pass Point",
       "category": "Event Pass Point"
     },
+    "2109": {
+      "id": 2109,
+      "name": "Event Pass Point Live Ops 09",
+      "proto": "ITEM_EVENT_PASS_POINT_LIVE_OPS_09",
+      "type": "Event Pass Point",
+      "category": "Event Pass Point"
+    },
     "2151": {
       "id": 2151,
       "name": "Pass Points",
