@@ -136003,6 +136003,13 @@
       "type": "Global Event Ticket",
       "category": "Global Event Ticket"
     },
+    "2214": {
+      "id": 2214,
+      "name": "Event Ticket S23 2026 10",
+      "proto": "ITEM_EVENT_TICKET_S23_2026_10",
+      "type": "Global Event Ticket",
+      "category": "Global Event Ticket"
+    },
     "2237": {
       "id": 2237,
       "name": "Event Ticket S23 2026 01 To Gift",
@@ -136035,6 +136042,13 @@
       "id": 2244,
       "name": "Event Ticket S23 2026 08 To Gift",
       "proto": "ITEM_EVENT_TICKET_S23_2026_08_TO_GIFT",
+      "type": "Global Event Ticket",
+      "category": "Global Event Ticket"
+    },
+    "2246": {
+      "id": 2246,
+      "name": "Event Ticket S23 2026 10 To Gift",
+      "proto": "ITEM_EVENT_TICKET_S23_2026_10_TO_GIFT",
       "type": "Global Event Ticket",
       "category": "Global Event Ticket"
     }
