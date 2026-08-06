@@ -69856,6 +69856,9 @@
     "2109": {
       "name": "Event Pass Point Live Ops 09"
     },
+    "2110": {
+      "name": "Event Pass Point Live Ops 10"
+    },
     "2151": {
       "name": "Pass Points"
     },
@@ -69892,6 +69895,9 @@
     "2214": {
       "name": "Event Ticket S23 2026 10"
     },
+    "2216": {
+      "name": "Event Ticket S23 2026 12"
+    },
     "2237": {
       "name": "Event Ticket S23 2026 01 To Gift"
     },
@@ -69909,6 +69915,9 @@
     },
     "2246": {
       "name": "Event Ticket S23 2026 10 To Gift"
+    },
+    "2248": {
+      "name": "Event Ticket S23 2026 12 To Gift"
     }
   },
   "moves": {
