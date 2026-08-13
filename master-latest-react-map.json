@@ -1187,10 +1187,12 @@
           "isCostume": true
         },
         "3352": {
-          "name": "Pxp 2026"
+          "name": "Pxp 2026",
+          "isCostume": true
         },
         "3353": {
-          "name": "Wcs 2026"
+          "name": "Wcs 2026",
+          "isCostume": true
         },
         "3357": {
           "name": "Glass Helmet 2026"
@@ -23019,9 +23021,7 @@
       "mythical": false,
       "ultraBeast": false,
       "tempEvolutions": {
-        "1": {
-          "unreleased": true
-        }
+        "1": {}
       }
     },
     "653": {
@@ -23119,9 +23119,7 @@
       "mythical": false,
       "ultraBeast": false,
       "tempEvolutions": {
-        "1": {
-          "unreleased": true
-        }
+        "1": {}
       }
     },
     "656": {
@@ -23217,9 +23215,7 @@
       "mythical": false,
       "ultraBeast": false,
       "tempEvolutions": {
-        "1": {
-          "unreleased": true
-        }
+        "1": {}
       }
     },
     "659": {

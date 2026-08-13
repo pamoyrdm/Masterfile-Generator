@@ -43596,6 +43596,16 @@
             "baseStamina": 204
           },
           "unreleased": true
+        },
+        {
+          "tempEvoId": 1,
+          "stats": {
+            "baseAttack": 242,
+            "baseDefense": 282,
+            "baseStamina": 204
+          },
+          "firstEnergyCost": 300,
+          "subsequentEnergyCost": 80
         }
       ]
     },
@@ -43632,6 +43642,16 @@
             "baseStamina": 204
           },
           "unreleased": true
+        },
+        {
+          "tempEvoId": 1,
+          "stats": {
+            "baseAttack": 242,
+            "baseDefense": 282,
+            "baseStamina": 204
+          },
+          "firstEnergyCost": 300,
+          "subsequentEnergyCost": 80
         }
       ]
     },
@@ -43780,6 +43800,16 @@
             "baseStamina": 181
           },
           "unreleased": true
+        },
+        {
+          "tempEvoId": 1,
+          "stats": {
+            "baseAttack": 331,
+            "baseDefense": 235,
+            "baseStamina": 181
+          },
+          "firstEnergyCost": 300,
+          "subsequentEnergyCost": 80
         }
       ]
     },
@@ -43816,6 +43846,16 @@
             "baseStamina": 181
           },
           "unreleased": true
+        },
+        {
+          "tempEvoId": 1,
+          "stats": {
+            "baseAttack": 331,
+            "baseDefense": 235,
+            "baseStamina": 181
+          },
+          "firstEnergyCost": 300,
+          "subsequentEnergyCost": 80
         }
       ]
     },
@@ -43964,6 +44004,16 @@
             "baseStamina": 176
           },
           "unreleased": true
+        },
+        {
+          "tempEvoId": 1,
+          "stats": {
+            "baseAttack": 299,
+            "baseDefense": 180,
+            "baseStamina": 176
+          },
+          "firstEnergyCost": 300,
+          "subsequentEnergyCost": 80
         }
       ]
     },
@@ -44000,6 +44050,16 @@
             "baseStamina": 176
           },
           "unreleased": true
+        },
+        {
+          "tempEvoId": 1,
+          "stats": {
+            "baseAttack": 299,
+            "baseDefense": 180,
+            "baseStamina": 176
+          },
+          "firstEnergyCost": 300,
+          "subsequentEnergyCost": 80
         }
       ]
     },
