@@ -43794,7 +43794,7 @@
             "baseStamina": 204
           },
           "firstEnergyCost": 300,
-          "subsequentEnergyCost": 80
+          "subsequentEnergyCost": 60
         }
       ]
     },
@@ -43840,7 +43840,7 @@
             "baseStamina": 204
           },
           "firstEnergyCost": 300,
-          "subsequentEnergyCost": 80
+          "subsequentEnergyCost": 60
         }
       ]
     },
@@ -43998,7 +43998,7 @@
             "baseStamina": 181
           },
           "firstEnergyCost": 300,
-          "subsequentEnergyCost": 80
+          "subsequentEnergyCost": 60
         }
       ]
     },
@@ -44044,7 +44044,7 @@
             "baseStamina": 181
           },
           "firstEnergyCost": 300,
-          "subsequentEnergyCost": 80
+          "subsequentEnergyCost": 60
         }
       ]
     },
@@ -44202,7 +44202,7 @@
             "baseStamina": 176
           },
           "firstEnergyCost": 300,
-          "subsequentEnergyCost": 80
+          "subsequentEnergyCost": 60
         }
       ]
     },
@@ -44248,7 +44248,7 @@
             "baseStamina": 176
           },
           "firstEnergyCost": 300,
-          "subsequentEnergyCost": 80
+          "subsequentEnergyCost": 60
         }
       ]
     },
