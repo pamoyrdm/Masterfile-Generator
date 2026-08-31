@@ -3372,7 +3372,8 @@
       "genId": 1,
       "generation": "Kanto",
       "forms": [
-        157
+        157,
+        3362
       ],
       "sizeSettings": [
         {
@@ -3451,7 +3452,8 @@
       "genId": 1,
       "generation": "Kanto",
       "forms": [
-        160
+        160,
+        3363
       ],
       "sizeSettings": [
         {
@@ -13471,7 +13473,8 @@
       "genId": 2,
       "generation": "Johto",
       "forms": [
-        202
+        202,
+        3364
       ],
       "sizeSettings": [
         {
@@ -64775,7 +64778,9 @@
       "generation": "Galar",
       "forms": [
         2477,
-        2478
+        2478,
+        3365,
+        3366
       ],
       "sizeSettings": [
         {
@@ -64850,7 +64855,9 @@
       "generation": "Galar",
       "forms": [
         2480,
-        2481
+        2481,
+        3367,
+        3368
       ],
       "sizeSettings": [
         {
@@ -94375,6 +94382,41 @@
       "formName": "K 2026 A 01",
       "proto": "PIKACHU_K_2026_A_01",
       "formId": 3361
+    },
+    "3362": {
+      "formName": "Halloween 2026 01",
+      "proto": "ZUBAT_HALLOWEEN_2026_01",
+      "formId": 3362
+    },
+    "3363": {
+      "formName": "Halloween 2026 01",
+      "proto": "GOLBAT_HALLOWEEN_2026_01",
+      "formId": 3363
+    },
+    "3364": {
+      "formName": "Halloween 2026 01",
+      "proto": "CROBAT_HALLOWEEN_2026_01",
+      "formId": 3364
+    },
+    "3365": {
+      "formName": "P Halloween 2026 01",
+      "proto": "SINISTEA_P_HALLOWEEN_2026_01",
+      "formId": 3365
+    },
+    "3366": {
+      "formName": "A Halloween 2026 01",
+      "proto": "SINISTEA_A_HALLOWEEN_2026_01",
+      "formId": 3366
+    },
+    "3367": {
+      "formName": "P Halloween 2026 01",
+      "proto": "POLTEAGEIST_P_HALLOWEEN_2026_01",
+      "formId": 3367
+    },
+    "3368": {
+      "formName": "A Halloween 2026 01",
+      "proto": "POLTEAGEIST_A_HALLOWEEN_2026_01",
+      "formId": 3368
     },
     "3375": {
       "formName": "Anniversary 2026 Philippine 01",
