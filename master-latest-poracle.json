@@ -28277,6 +28277,26 @@
             }
           ],
           "unreleased": true
+        },
+        {
+          "tempEvoId": 1,
+          "stats": {
+            "baseAttack": 278,
+            "baseDefense": 207,
+            "baseStamina": 198
+          },
+          "types": [
+            {
+              "id": 2,
+              "name": "Fighting"
+            },
+            {
+              "id": 3,
+              "name": "Flying"
+            }
+          ],
+          "firstEnergyCost": 300,
+          "subsequentEnergyCost": 60
         }
       ]
     },
@@ -28323,6 +28343,26 @@
             }
           ],
           "unreleased": true
+        },
+        {
+          "tempEvoId": 1,
+          "stats": {
+            "baseAttack": 278,
+            "baseDefense": 207,
+            "baseStamina": 198
+          },
+          "types": [
+            {
+              "id": 2,
+              "name": "Fighting"
+            },
+            {
+              "id": 3,
+              "name": "Flying"
+            }
+          ],
+          "firstEnergyCost": 300,
+          "subsequentEnergyCost": 60
         }
       ]
     },
@@ -70351,6 +70391,12 @@
     },
     "2248": {
       "name": "Event Ticket S23 2026 12 To Gift"
+    },
+    "2253": {
+      "name": "Event Ticket S24 Sep 12 Community"
+    },
+    "2254": {
+      "name": "Event Ticket S24 Sep 12 Community To Gift"
     }
   },
   "moves": {

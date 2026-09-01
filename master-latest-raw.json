@@ -31003,6 +31003,7 @@
       "ultraBeast": false,
       "buddyGroupNumber": 2,
       "buddyDistance": 1,
+      "buddyMegaEnergy": 25,
       "thirdMoveStardust": 10000,
       "thirdMoveCandy": 25,
       "gymDefenderEligible": true,
@@ -31084,6 +31085,7 @@
       "ultraBeast": false,
       "buddyGroupNumber": 4,
       "buddyDistance": 1,
+      "buddyMegaEnergy": 25,
       "thirdMoveStardust": 10000,
       "thirdMoveCandy": 25,
       "gymDefenderEligible": true,
@@ -31166,13 +31168,12 @@
       "ultraBeast": false,
       "buddyGroupNumber": 4,
       "buddyDistance": 1,
+      "buddyMegaEnergy": 25,
       "thirdMoveStardust": 10000,
       "thirdMoveCandy": 25,
       "gymDefenderEligible": true,
       "tradable": true,
       "transferable": true,
-      "purificationDust": 1000,
-      "purificationCandy": 1,
       "tempEvolutions": [
         {
           "tempEvoId": 1,
@@ -31184,8 +31185,24 @@
             3
           ],
           "unreleased": true
+        },
+        {
+          "tempEvoId": 1,
+          "attack": 278,
+          "defense": 207,
+          "stamina": 198,
+          "height": 1.9,
+          "weight": 50,
+          "types": [
+            2,
+            3
+          ],
+          "firstEnergyCost": 300,
+          "subsequentEnergyCost": 60
         }
-      ]
+      ],
+      "purificationDust": 1000,
+      "purificationCandy": 1
     },
     "399": {
       "pokemonName": "Bidoof",
@@ -71093,7 +71110,7 @@
       "chargedMoves": [
         26,
         279,
-        333
+        353
       ],
       "eliteQuickMoves": [],
       "eliteChargedMoves": [],
@@ -71137,6 +71154,7 @@
       "legendary": false,
       "mythic": false,
       "ultraBeast": false,
+      "buddyGroupNumber": 2,
       "buddyDistance": 3,
       "thirdMoveStardust": 50000,
       "thirdMoveCandy": 50,
@@ -71165,7 +71183,7 @@
       "chargedMoves": [
         26,
         279,
-        333
+        353
       ],
       "eliteQuickMoves": [],
       "eliteChargedMoves": [],
@@ -71211,6 +71229,7 @@
       "legendary": false,
       "mythic": false,
       "ultraBeast": false,
+      "buddyGroupNumber": 3,
       "buddyDistance": 3,
       "thirdMoveStardust": 50000,
       "thirdMoveCandy": 50,
@@ -84196,8 +84215,6 @@
       "formName": "Normal",
       "proto": "STARAPTOR_NORMAL",
       "formId": 1664,
-      "purificationDust": 1000,
-      "purificationCandy": 1,
       "tempEvolutions": [
         {
           "tempEvoId": 1,
@@ -84209,8 +84226,24 @@
             3
           ],
           "unreleased": true
+        },
+        {
+          "tempEvoId": 1,
+          "attack": 278,
+          "defense": 207,
+          "stamina": 198,
+          "height": 1.9,
+          "weight": 50,
+          "types": [
+            2,
+            3
+          ],
+          "firstEnergyCost": 300,
+          "subsequentEnergyCost": 60
         }
-      ]
+      ],
+      "purificationDust": 1000,
+      "purificationCandy": 1
     },
     "1667": {
       "formName": "Normal",
@@ -94381,7 +94414,8 @@
     "3361": {
       "formName": "K 2026 A 01",
       "proto": "PIKACHU_K_2026_A_01",
-      "formId": 3361
+      "formId": 3361,
+      "isCostume": true
     },
     "3362": {
       "formName": "Halloween 2026 01",
@@ -96157,6 +96191,20 @@
       "itemId": 2248,
       "itemName": "Event Ticket S23 2026 12 To Gift",
       "proto": "ITEM_EVENT_TICKET_S23_2026_12_TO_GIFT",
+      "type": "Global Event Ticket",
+      "category": "Global Event Ticket"
+    },
+    "2253": {
+      "itemId": 2253,
+      "itemName": "Event Ticket S24 Sep 12 Community",
+      "proto": "ITEM_EVENT_TICKET_S24_SEP_12_COMMUNITY",
+      "type": "Global Event Ticket",
+      "category": "Global Event Ticket"
+    },
+    "2254": {
+      "itemId": 2254,
+      "itemName": "Event Ticket S24 Sep 12 Community To Gift",
+      "proto": "ITEM_EVENT_TICKET_S24_SEP_12_COMMUNITY_TO_GIFT",
       "type": "Global Event Ticket",
       "category": "Global Event Ticket"
     },
