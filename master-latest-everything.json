@@ -48434,7 +48434,7 @@
       "misc": {
         "buddyGroupNumber": 2,
         "buddyDistance": 1,
-        "buddyMegaEnergy": 25,
+        "buddyMegaEnergy": 5,
         "thirdMoveStardust": 10000,
         "thirdMoveCandy": 25,
         "gymDefenderEligible": true,
@@ -48556,7 +48556,7 @@
       "misc": {
         "buddyGroupNumber": 4,
         "buddyDistance": 1,
-        "buddyMegaEnergy": 25,
+        "buddyMegaEnergy": 5,
         "thirdMoveStardust": 10000,
         "thirdMoveCandy": 25,
         "gymDefenderEligible": true,
@@ -48675,7 +48675,7 @@
       "misc": {
         "buddyGroupNumber": 4,
         "buddyDistance": 1,
-        "buddyMegaEnergy": 25,
+        "buddyMegaEnergy": 5,
         "thirdMoveStardust": 10000,
         "thirdMoveCandy": 25,
         "gymDefenderEligible": true,
@@ -136308,6 +136308,13 @@
       "id": 2254,
       "name": "Event Ticket S24 Sep 12 Community To Gift",
       "proto": "ITEM_EVENT_TICKET_S24_SEP_12_COMMUNITY_TO_GIFT",
+      "type": "Global Event Ticket",
+      "category": "Global Event Ticket"
+    },
+    "2255": {
+      "id": 2255,
+      "name": "Event Ticket S24 Sep 19 Megaraid",
+      "proto": "ITEM_EVENT_TICKET_S24_SEP_19_MEGARAID",
       "type": "Global Event Ticket",
       "category": "Global Event Ticket"
     }
