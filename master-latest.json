@@ -1263,10 +1263,12 @@
         "Dragon Tail"
       ],
       "charged_moves": [
+        "Wrap",
         "Dark Pulse",
         "Sludge Wave",
         "Gunk Shot",
-        "Acid Spray"
+        "Acid Spray",
+        "Brutal Swing"
       ],
       "gen_id": 1,
       "generation": "Kanto",
@@ -1838,7 +1840,8 @@
         "Wild Charge",
         "Surf",
         "Skull Bash",
-        "Trailblaze"
+        "Trailblaze",
+        "Volt Tackle"
       ],
       "gen_id": 1,
       "generation": "Kanto",
@@ -1871,7 +1874,8 @@
             "Wild Charge",
             "Grass Knot",
             "Surf",
-            "Trailblaze"
+            "Trailblaze",
+            "Volt Tackle"
           ],
           "types": [
             "Electric",
@@ -2319,6 +2323,7 @@
         "Megahorn",
         "Earthquake",
         "Sludge Wave",
+        "Avalanche",
         "Sand Tomb",
         "Earth Power"
       ],
@@ -4326,6 +4331,7 @@
         "Grass"
       ],
       "quick_moves": [
+        "Sucker Punch",
         "Razor Leaf",
         "Acid"
       ],
@@ -5474,9 +5480,11 @@
           ],
           "charged_moves": [
             "Dark Pulse",
+            "Ice Punch",
             "Sludge Wave",
             "Gunk Shot",
-            "Acid Spray"
+            "Acid Spray",
+            "Brutal Swing"
           ],
           "types": [
             "Poison",
@@ -8293,7 +8301,8 @@
         "Ancient Power",
         "Rock Slide",
         "Iron Head",
-        "Earth Power"
+        "Earth Power",
+        "Brutal Swing"
       ],
       "gen_id": 1,
       "generation": "Kanto",
@@ -8309,6 +8318,13 @@
           "name": "Summer 2023",
           "proto": "AERODACTYL_SUMMER_2023",
           "is_costume": true,
+          "charged_moves": [
+            "Hyper Beam",
+            "Ancient Power",
+            "Rock Slide",
+            "Iron Head",
+            "Earth Power"
+          ],
           "temp_evolutions": {
             "1": {}
           }
@@ -8346,7 +8362,8 @@
       ],
       "quick_moves": [
         "Lick",
-        "Zen Headbutt"
+        "Zen Headbutt",
+        "Psywave"
       ],
       "charged_moves": [
         "Hyper Beam",
@@ -8367,7 +8384,11 @@
         "2849": {
           "name": "Wildarea 2024",
           "proto": "SNORLAX_WILDAREA_2024",
-          "is_costume": true
+          "is_costume": true,
+          "quick_moves": [
+            "Lick",
+            "Zen Headbutt"
+          ]
         }
       },
       "attack": 190,
@@ -9702,6 +9723,7 @@
         "Megahorn",
         "Shadow Sneak",
         "Cross Poison",
+        "Foul Play",
         "Lunge",
         "Trailblaze"
       ],
@@ -9737,7 +9759,8 @@
       ],
       "quick_moves": [
         "Bite",
-        "Air Slash"
+        "Air Slash",
+        "Gust"
       ],
       "charged_moves": [
         "Poison Fang",
@@ -12753,6 +12776,7 @@
       ],
       "charged_moves": [
         "Flash Cannon",
+        "Drill Run",
         "Brave Bird",
         "Sky Attack"
       ],
@@ -12851,13 +12875,15 @@
       ],
       "quick_moves": [
         "Fire Fang",
-        "Snarl"
+        "Snarl",
+        "Incinerate"
       ],
       "charged_moves": [
         "Flamethrower",
         "Fire Blast",
         "Crunch",
-        "Foul Play"
+        "Foul Play",
+        "Trailblaze"
       ],
       "gen_id": 2,
       "generation": "Johto",
@@ -13654,7 +13680,8 @@
         "Thunderbolt",
         "Stomp",
         "Body Slam",
-        "Gyro Ball"
+        "Gyro Ball",
+        "High Horsepower"
       ],
       "gen_id": 2,
       "generation": "Johto",
@@ -14020,6 +14047,7 @@
         "Hydro Pump",
         "Sky Attack",
         "Futuresight",
+        "Earth Power",
         "Fly"
       ],
       "gen_id": 2,
@@ -14031,7 +14059,13 @@
         },
         "2729": {
           "name": "S",
-          "proto": "LUGIA_S"
+          "proto": "LUGIA_S",
+          "charged_moves": [
+            "Hydro Pump",
+            "Sky Attack",
+            "Futuresight",
+            "Fly"
+          ]
         }
       },
       "attack": 193,
@@ -16809,6 +16843,7 @@
         "Stone Edge",
         "Rock Tomb",
         "Thunder",
+        "Brick Break",
         "Heavy Slam",
         "Meteor Beam"
       ],
@@ -17141,12 +17176,14 @@
       ],
       "quick_moves": [
         "Tackle",
+        "Infestation",
         "Struggle Bug"
       ],
       "charged_moves": [
         "Bug Buzz",
         "Thunderbolt",
-        "Signal Beam"
+        "Signal Beam",
+        "Lunge"
       ],
       "gen_id": 3,
       "generation": "Hoenn",
@@ -17179,10 +17216,12 @@
       ],
       "quick_moves": [
         "Tackle",
+        "Infestation",
         "Struggle Bug"
       ],
       "charged_moves": [
         "Bug Buzz",
+        "Shadow Ball",
         "Dazzling Gleam",
         "Silver Wind"
       ],
@@ -20746,6 +20785,7 @@
           "defense": 330,
           "stamina": 137,
           "quick_moves": [
+            "Low Kick",
             "Zen Headbutt",
             "Counter"
           ],
@@ -22875,7 +22915,8 @@
       "charged_moves": [
         "Dark Pulse",
         "Shadow Ball",
-        "Dazzling Gleam"
+        "Dazzling Gleam",
+        "Mystical Fire"
       ],
       "gen_id": 4,
       "generation": "Sinnoh",
@@ -24986,7 +25027,8 @@
       "charged_moves": [
         "Psychic",
         "Leaf Blade",
-        "Close Combat"
+        "Close Combat",
+        "Sacred Sword"
       ],
       "gen_id": 4,
       "generation": "Sinnoh",
@@ -25745,13 +25787,15 @@
         "Dark"
       ],
       "quick_moves": [
+        "Sucker Punch",
         "Feint Attack",
         "Snarl"
       ],
       "charged_moves": [
         "Dark Pulse",
         "Shadow Ball",
-        "Focus Blast"
+        "Focus Blast",
+        "Foul Play"
       ],
       "gen_id": 4,
       "generation": "Sinnoh",
@@ -27738,7 +27782,8 @@
       ],
       "quick_moves": [
         "Pound",
-        "Zen Headbutt"
+        "Zen Headbutt",
+        "Charge Beam"
       ],
       "charged_moves": [
         "Hyper Beam",
@@ -29372,7 +29417,8 @@
       "charged_moves": [
         "Dark Pulse",
         "Shadow Ball",
-        "Psychic"
+        "Psychic",
+        "Energy Ball"
       ],
       "gen_id": 5,
       "generation": "Unova",
@@ -29753,6 +29799,7 @@
         "Dark"
       ],
       "quick_moves": [
+        "Sucker Punch",
         "Shadow Claw",
         "Snarl"
       ],
@@ -29775,10 +29822,15 @@
           "attack": 261,
           "defense": 128,
           "stamina": 146,
+          "quick_moves": [
+            "Shadow Claw",
+            "Snarl"
+          ],
           "charged_moves": [
             "Flamethrower",
             "Shadow Ball",
             "Sludge Bomb",
+            "Swift",
             "Foul Play"
           ],
           "types": [
@@ -31560,6 +31612,7 @@
         "Fire"
       ],
       "quick_moves": [
+        "Astonish",
         "Hex",
         "Fire Spin",
         "Incinerate"
@@ -41936,6 +41989,7 @@
       "charged_moves": [
         "Discharge",
         "Thunder Punch",
+        "Dynamic Punch",
         "Wild Charge",
         "Plasma Fists"
       ],
@@ -43862,11 +43916,25 @@
       "forms": {
         "2463": {
           "name": "Low Key",
-          "proto": "TOXTRICITY_LOW_KEY"
+          "proto": "TOXTRICITY_LOW_KEY",
+          "charged_moves": [
+            "Discharge",
+            "Swift",
+            "Wild Charge",
+            "Acid Spray",
+            "Power Up Punch"
+          ]
         },
         "2464": {
           "name": "Amped",
-          "proto": "TOXTRICITY_AMPED"
+          "proto": "TOXTRICITY_AMPED",
+          "charged_moves": [
+            "Discharge",
+            "Swift",
+            "Wild Charge",
+            "Acid Spray",
+            "Power Up Punch"
+          ]
         }
       },
       "attack": 224,
@@ -44437,6 +44505,7 @@
       ],
       "charged_moves": [
         "Dark Pulse",
+        "Draining Kiss",
         "Play Rough",
         "Foul Play",
         "Power Up Punch"
@@ -46250,6 +46319,7 @@
         "Ground"
       ],
       "quick_moves": [
+        "Scratch",
         "Tackle",
         "Rock Smash",
         "Smack Down"
@@ -48329,12 +48399,14 @@
         "Poison"
       ],
       "quick_moves": [
+        "Scratch",
         "Poison Jab",
         "Mud Slap"
       ],
       "charged_moves": [
         "Poison Fang",
         "Sludge Bomb",
+        "Foul Play",
         "Acid Spray"
       ],
       "gen_id": 9,
@@ -49094,6 +49166,7 @@
       ],
       "charged_moves": [
         "Aerial Ace",
+        "Drill Run",
         "Rock Tomb",
         "Payback",
         "Fly"
@@ -49587,6 +49660,7 @@
       ],
       "quick_moves": [
         "Wing Attack",
+        "Peck",
         "Double Kick"
       ],
       "charged_moves": [
@@ -50018,6 +50092,7 @@
         "Dark"
       ],
       "quick_moves": [
+        "Low Kick",
         "Metal Claw",
         "Snarl",
         "Metal Sound"
@@ -54375,7 +54450,7 @@
       "name": "Psycho Boost",
       "proto": "PSYCHO_BOOST",
       "type": "Psychic",
-      "power": 70
+      "power": 130
     },
     "289": {
       "name": "Origin Pulse",
