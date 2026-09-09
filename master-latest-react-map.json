@@ -5516,14 +5516,7 @@
         },
         "3001": {
           "name": "Summer 2023",
-          "isCostume": true,
-          "chargedMoves": [
-            14,
-            62,
-            64,
-            74,
-            304
-          ]
+          "isCostume": true
         }
       },
       "height": 1.8,
@@ -5565,11 +5558,7 @@
         },
         "2849": {
           "name": "Wildarea 2024",
-          "isCostume": true,
-          "quickMoves": [
-            212,
-            234
-          ]
+          "isCostume": true
         }
       },
       "height": 2.1,
@@ -9523,13 +9512,7 @@
           "name": "Normal"
         },
         "2729": {
-          "name": "S",
-          "chargedMoves": [
-            107,
-            257,
-            275,
-            341
-          ]
+          "name": "S"
         }
       },
       "height": 5.21,
@@ -20337,7 +20320,6 @@
         17
       ],
       "quickMoves": [
-        203,
         213,
         278
       ],
@@ -20355,10 +20337,6 @@
         },
         "2797": {
           "name": "Hisuian",
-          "quickMoves": [
-            213,
-            278
-          ],
           "chargedMoves": [
             24,
             70,
@@ -23291,7 +23269,8 @@
         45,
         51,
         107,
-        284
+        284,
+        367
       ],
       "genId": 6,
       "generation": "Kalos",
@@ -35827,7 +35806,9 @@
     "2248": "Event Ticket S23 2026 12 To Gift",
     "2253": "Event Ticket S24 Sep 12 Community",
     "2254": "Event Ticket S24 Sep 12 Community To Gift",
-    "2255": "Event Ticket S24 Sep 19 Megaraid"
+    "2255": "Event Ticket S24 Sep 19 Megaraid",
+    "2269": "Event Ticket S24 Nov9 Gowaol",
+    "2270": "Event Ticket S24 Nov9 Gowaol To Gift"
   },
   "moves": {
     "0": {
