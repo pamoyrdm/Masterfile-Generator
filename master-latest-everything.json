@@ -136763,17 +136763,17 @@
       "type": "Global Event Ticket",
       "category": "Global Event Ticket"
     },
+    "2257": {
+      "id": 2257,
+      "name": "Event Ticket S24 Sep 26 Catch",
+      "proto": "ITEM_EVENT_TICKET_S24_SEP_26_CATCH",
+      "type": "Global Event Ticket",
+      "category": "Global Event Ticket"
+    },
     "2269": {
       "id": 2269,
       "name": "Event Ticket S24 Nov9 Gowaol",
       "proto": "ITEM_EVENT_TICKET_S24_NOV9_GOWAOL",
-      "type": "Global Event Ticket",
-      "category": "Global Event Ticket"
-    },
-    "2270": {
-      "id": 2270,
-      "name": "Event Ticket S24 Nov9 Gowaol To Gift",
-      "proto": "ITEM_EVENT_TICKET_S24_NOV9_GOWAOL_TO_GIFT",
       "type": "Global Event Ticket",
       "category": "Global Event Ticket"
     }
