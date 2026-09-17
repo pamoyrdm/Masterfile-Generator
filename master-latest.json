@@ -53162,6 +53162,12 @@
       "type": "Global Event Ticket",
       "category": "Global Event Ticket"
     },
+    "2259": {
+      "name": "Event Ticket S24 Oct 3 Maxbattle",
+      "proto": "ITEM_EVENT_TICKET_S24_OCT_3_MAXBATTLE",
+      "type": "Global Event Ticket",
+      "category": "Global Event Ticket"
+    },
     "2269": {
       "name": "Event Ticket S24 Nov9 Gowaol",
       "proto": "ITEM_EVENT_TICKET_S24_NOV9_GOWAOL",
