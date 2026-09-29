@@ -39759,7 +39759,9 @@
     "26": "Raid Level 2 Worldwide Ultra Beast",
     "27": "Raid Level 3 Worldwide Ultra Beast",
     "28": "Raid Level 4 Worldwide Ultra Beast",
-    "29": "Raid Level 5 Worldwide Ultra Beast"
+    "29": "Raid Level 5 Worldwide Ultra Beast",
+    "30": "Raid Level Ultra Burst",
+    "31": "Raid Level Ultra Burst Coordinated"
   },
   "routeTypes": {
     "0": "Route Type Unset",
