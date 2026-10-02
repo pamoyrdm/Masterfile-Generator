@@ -2809,7 +2809,8 @@
           "name": "Normal"
         },
         "3369": {
-          "name": "Wildarea 2026 01"
+          "name": "Wildarea 2026 01",
+          "isCostume": true
         }
       },
       "height": 1.6,
@@ -35816,6 +35817,7 @@
     "2261": "Event Ticket S24 Oct 10 Community",
     "2262": "Event Ticket S24 Oct 10 Community To Gift",
     "2263": "Event Ticket S24 Oct 17 Hatch",
+    "2265": "Event Ticket S24 Oct 24 Maxbattle",
     "2269": "Event Ticket S24 Nov9 Gowaol"
   },
   "moves": {

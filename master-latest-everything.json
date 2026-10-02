@@ -9152,7 +9152,8 @@
         "3369": {
           "name": "Wildarea 2026 01",
           "proto": "MACHAMP_WILDAREA_2026_01",
-          "form": 3369
+          "form": 3369,
+          "isCostume": true
         }
       },
       "stats": {
@@ -133799,7 +133800,10 @@
     "3369": {
       "formName": "Wildarea 2026 01",
       "proto": "MACHAMP_WILDAREA_2026_01",
-      "formId": 3369
+      "formId": 3369,
+      "isCostume": true,
+      "purificationDust": 3000,
+      "purificationCandy": 3
     },
     "3375": {
       "formName": "Anniversary 2026 Philippine 01",
@@ -136840,6 +136844,13 @@
       "id": 2263,
       "name": "Event Ticket S24 Oct 17 Hatch",
       "proto": "ITEM_EVENT_TICKET_S24_OCT_17_HATCH",
+      "type": "Global Event Ticket",
+      "category": "Global Event Ticket"
+    },
+    "2265": {
+      "id": 2265,
+      "name": "Event Ticket S24 Oct 24 Maxbattle",
+      "proto": "ITEM_EVENT_TICKET_S24_OCT_24_MAXBATTLE",
       "type": "Global Event Ticket",
       "category": "Global Event Ticket"
     },
