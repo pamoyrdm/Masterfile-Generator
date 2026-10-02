@@ -56870,7 +56870,7 @@
         "first": [
           13,
           48,
-          736
+          767
         ],
         "second": [
           127,
@@ -56946,7 +56946,7 @@
       "second_reward": false,
       "encounters": {
         "first": [
-          147,
+          610,
           633,
           714
         ],
@@ -57015,7 +57015,7 @@
       "encounters": {
         "first": [
           56,
-          66,
+          296,
           532
         ],
         "second": [
@@ -57128,8 +57128,8 @@
       "encounters": {
         "first": [
           114,
-          252,
-          708
+          708,
+          753
         ],
         "second": [
           254,
@@ -57411,8 +57411,7 @@
       "second_reward": true,
       "encounters": {
         "first": [
-          129,
-          349
+          129
         ],
         "second": [
           129
@@ -57440,7 +57439,7 @@
       "second_reward": false,
       "encounters": {
         "first": [
-          610
+          104
         ],
         "second": [
           110,
@@ -57461,7 +57460,7 @@
       "second_reward": false,
       "encounters": {
         "first": [
-          696
+          88
         ],
         "second": [
           80,
@@ -57482,7 +57481,7 @@
       "second_reward": false,
       "encounters": {
         "first": [
-          698
+          674
         ],
         "second": [
           9,
@@ -57511,7 +57510,7 @@
           464
         ],
         "third": [
-          643
+          644
         ]
       }
     },
@@ -57563,9 +57562,9 @@
       "second_reward": false,
       "encounters": {
         "first": [
-          92,
           355,
-          562
+          562,
+          769
         ],
         "second": [
           302,
