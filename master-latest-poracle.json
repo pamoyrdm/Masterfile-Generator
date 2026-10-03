@@ -49309,6 +49309,10 @@
       "id": 705,
       "types": [
         {
+          "id": 9,
+          "name": "Steel"
+        },
+        {
           "id": 16,
           "name": "Dragon"
         }
@@ -49319,7 +49323,7 @@
       },
       "stats": {
         "baseAttack": 153,
-        "baseDefense": 201,
+        "baseDefense": 190,
         "baseStamina": 151
       },
       "thirdMoveStardust": 75000,
@@ -49385,6 +49389,10 @@
       "name": "Goodra",
       "id": 706,
       "types": [
+        {
+          "id": 9,
+          "name": "Steel"
+        },
         {
           "id": 16,
           "name": "Dragon"
