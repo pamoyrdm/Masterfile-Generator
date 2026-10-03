@@ -57447,7 +57447,8 @@
       "second_reward": true,
       "encounters": {
         "first": [
-          129
+          129,
+          349
         ],
         "second": [
           129
