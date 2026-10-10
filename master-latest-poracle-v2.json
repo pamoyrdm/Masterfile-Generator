@@ -78887,7 +78887,9 @@
         "move_592": "Snipe Shot",
         "move_593": "Dive",
         "move_594": "Gulp Missile Gulping",
-        "move_595": "Gulp Missile Gorging"
+        "move_595": "Gulp Missile Gorging",
+        "move_615": "Kowtow Cleave",
+        "move_619": "<<move_name_0064>>+"
       },
       "items": {
         "item_0": "Unknown",
@@ -88048,7 +88050,9 @@
         "move_592": "Präzisionsschuss",
         "move_593": "Taucher",
         "move_594": "Gulp Missile Gulping",
-        "move_595": "Gulp Missile Gorging"
+        "move_595": "Gulp Missile Gorging",
+        "move_615": "Kowtow Cleave",
+        "move_619": "<<move_name_0064>>+"
       },
       "items": {
         "item_0": "Unbekannt",
@@ -97176,7 +97180,9 @@
         "move_592": "Disparo Certero",
         "move_593": "Buceo",
         "move_594": "Gulp Missile Gulping",
-        "move_595": "Gulp Missile Gorging"
+        "move_595": "Gulp Missile Gorging",
+        "move_615": "Kowtow Cleave",
+        "move_619": "<<move_name_0064>>+"
       },
       "items": {
         "item_0": "Desconocido",
@@ -107547,7 +107553,9 @@
         "move_592": "Tir de Précision",
         "move_593": "Plongée",
         "move_594": "Gulp Missile Gulping",
-        "move_595": "Gulp Missile Gorging"
+        "move_595": "Gulp Missile Gorging",
+        "move_615": "Kowtow Cleave",
+        "move_619": "<<move_name_0064>> +"
       },
       "items": {
         "item_0": "Inconnu",
@@ -116664,7 +116672,9 @@
         "move_592": "Tiromirato",
         "move_593": "Sub",
         "move_594": "Gulp Missile Gulping",
-        "move_595": "Gulp Missile Gorging"
+        "move_595": "Gulp Missile Gorging",
+        "move_615": "Kowtow Cleave",
+        "move_619": "<<move_name_0064>>+"
       },
       "items": {
         "item_0": "Sconosciuto",
@@ -129257,7 +129267,9 @@
         "move_592": "Меткая Стрельба",
         "move_593": "Нырок",
         "move_594": "Gulp Missile Gulping",
-        "move_595": "Gulp Missile Gorging"
+        "move_595": "Gulp Missile Gorging",
+        "move_615": "Kowtow Cleave",
+        "move_619": "<<move_name_0064>>+"
       },
       "items": {
         "item_0": "Неизвестный",
