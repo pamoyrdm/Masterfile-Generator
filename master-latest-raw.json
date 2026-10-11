@@ -43977,7 +43977,9 @@
         265,
         280
       ],
-      "eliteQuickMoves": [],
+      "eliteQuickMoves": [
+        203
+      ],
       "eliteChargedMoves": [],
       "genId": 5,
       "generation": "Unova",
@@ -90205,6 +90207,7 @@
         125,
         280
       ],
+      "eliteQuickMoves": [],
       "types": [
         1,
         8
