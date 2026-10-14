@@ -41315,6 +41315,16 @@
             "baseStamina": 155
           },
           "unreleased": true
+        },
+        {
+          "tempEvoId": 1,
+          "stats": {
+            "baseAttack": 335,
+            "baseDefense": 227,
+            "baseStamina": 155
+          },
+          "firstEnergyCost": 300,
+          "subsequentEnergyCost": 60
         }
       ]
     },
@@ -41351,6 +41361,16 @@
             "baseStamina": 155
           },
           "unreleased": true
+        },
+        {
+          "tempEvoId": 1,
+          "stats": {
+            "baseAttack": 335,
+            "baseDefense": 227,
+            "baseStamina": 155
+          },
+          "firstEnergyCost": 300,
+          "subsequentEnergyCost": 60
         }
       ]
     },
@@ -70529,6 +70549,9 @@
     },
     "2265": {
       "name": "Event Ticket S24 Oct 24 Maxbattle"
+    },
+    "2267": {
+      "name": "Event Ticket S24 Oct31 Megaraid"
     },
     "2269": {
       "name": "Event Ticket S24 Nov9 Gowaol"

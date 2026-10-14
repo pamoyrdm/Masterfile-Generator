@@ -31656,7 +31656,8 @@
           "attack": 335,
           "defense": 227,
           "stamina": 155,
-          "unreleased": true
+          "height": 2.5,
+          "weight": 69.6
         }
       }
     },
@@ -53281,6 +53282,12 @@
     "2265": {
       "name": "Event Ticket S24 Oct 24 Maxbattle",
       "proto": "ITEM_EVENT_TICKET_S24_OCT_24_MAXBATTLE",
+      "type": "Global Event Ticket",
+      "category": "Global Event Ticket"
+    },
+    "2267": {
+      "name": "Event Ticket S24 Oct31 Megaraid",
+      "proto": "ITEM_EVENT_TICKET_S24_OCT31_MEGARAID",
       "type": "Global Event Ticket",
       "category": "Global Event Ticket"
     },
