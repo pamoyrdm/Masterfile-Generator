@@ -2451,11 +2451,12 @@
           "attack": 253,
           "defense": 205,
           "stamina": 216,
+          "height": 1.7,
+          "weight": 42.3,
           "types": [
             "Flying",
             "Fairy"
-          ],
-          "unreleased": true
+          ]
         }
       }
     },
@@ -56168,7 +56169,9 @@
     },
     "616": {
       "name": "Soak",
-      "proto": "SOAK_FAST"
+      "proto": "SOAK_FAST",
+      "type": "Water",
+      "power": 6
     },
     "619": {
       "name": "Vm Move Temp Evolution Mega V0142 Pokemon Aerodactyl",

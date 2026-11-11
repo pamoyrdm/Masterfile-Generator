@@ -2943,6 +2943,7 @@
       "ultraBeast": false,
       "buddyGroupNumber": 2,
       "buddyDistance": 1,
+      "buddyMegaEnergy": 5,
       "thirdMoveStardust": 10000,
       "thirdMoveCandy": 25,
       "gymDefenderEligible": true,
@@ -3024,6 +3025,7 @@
       "ultraBeast": false,
       "buddyGroupNumber": 3,
       "buddyDistance": 1,
+      "buddyMegaEnergy": 5,
       "thirdMoveStardust": 10000,
       "thirdMoveCandy": 25,
       "gymDefenderEligible": true,
@@ -3040,6 +3042,20 @@
             18
           ],
           "unreleased": true
+        },
+        {
+          "tempEvoId": 1,
+          "attack": 253,
+          "defense": 205,
+          "stamina": 216,
+          "height": 1.7,
+          "weight": 42.3,
+          "types": [
+            3,
+            18
+          ],
+          "firstEnergyCost": 300,
+          "subsequentEnergyCost": 60
         }
       ]
     },
@@ -13814,6 +13830,7 @@
       "ultraBeast": false,
       "buddyGroupNumber": 1,
       "buddyDistance": 1,
+      "buddyMegaEnergy": 5,
       "thirdMoveStardust": 10000,
       "thirdMoveCandy": 25,
       "gymDefenderEligible": true,
@@ -81809,6 +81826,20 @@
             18
           ],
           "unreleased": true
+        },
+        {
+          "tempEvoId": 1,
+          "attack": 253,
+          "defense": 205,
+          "stamina": 216,
+          "height": 1.7,
+          "weight": 42.3,
+          "types": [
+            3,
+            18
+          ],
+          "firstEnergyCost": 300,
+          "subsequentEnergyCost": 60
         }
       ]
     },
@@ -101390,6 +101421,19 @@
       "power": 85,
       "durationMs": 2000,
       "energyDelta": -50
+    },
+    "616": {
+      "moveId": 616,
+      "moveName": "Soak",
+      "proto": "SOAK_FAST",
+      "fast": true,
+      "type": 11,
+      "pvpPower": 6,
+      "pvpEnergyDelta": 8,
+      "pvpDurationTurns": 1,
+      "power": 6,
+      "durationMs": 1000,
+      "energyDelta": 18
     }
   },
   "questTypes": {

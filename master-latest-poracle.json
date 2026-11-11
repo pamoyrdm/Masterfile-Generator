@@ -4350,6 +4350,26 @@
             }
           ],
           "unreleased": true
+        },
+        {
+          "tempEvoId": 1,
+          "stats": {
+            "baseAttack": 253,
+            "baseDefense": 205,
+            "baseStamina": 216
+          },
+          "types": [
+            {
+              "id": 3,
+              "name": "Flying"
+            },
+            {
+              "id": 18,
+              "name": "Fairy"
+            }
+          ],
+          "firstEnergyCost": 300,
+          "subsequentEnergyCost": 60
         }
       ]
     },
@@ -4392,6 +4412,26 @@
             }
           ],
           "unreleased": true
+        },
+        {
+          "tempEvoId": 1,
+          "stats": {
+            "baseAttack": 253,
+            "baseDefense": 205,
+            "baseStamina": 216
+          },
+          "types": [
+            {
+              "id": 3,
+              "name": "Flying"
+            },
+            {
+              "id": 18,
+              "name": "Fairy"
+            }
+          ],
+          "firstEnergyCost": 300,
+          "subsequentEnergyCost": 60
         }
       ]
     },
@@ -72130,6 +72170,10 @@
     "615": {
       "name": "Kowtow Cleave",
       "type": "Dark"
+    },
+    "616": {
+      "name": "Soak Fast",
+      "type": "Water"
     }
   },
   "questTypes": {

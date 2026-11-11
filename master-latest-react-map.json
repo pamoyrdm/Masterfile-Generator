@@ -1660,9 +1660,7 @@
       "mythical": false,
       "ultraBeast": false,
       "tempEvolutions": {
-        "1": {
-          "unreleased": true
-        }
+        "1": {}
       }
     },
     "37": {
@@ -37857,7 +37855,8 @@
       "type": 17
     },
     "616": {
-      "name": "Soak"
+      "name": "Soak",
+      "type": 11
     },
     "619": {
       "name": "Vm Move Temp Evolution Mega V0142 Pokemon Aerodactyl"

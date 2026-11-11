@@ -869,8 +869,7 @@
         "1": {
           "attack": 253,
           "defense": 205,
-          "stamina": 216,
-          "unreleased": true
+          "stamina": 216
         }
       }
     },
