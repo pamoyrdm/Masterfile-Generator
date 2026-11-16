@@ -35988,7 +35988,9 @@
         309
       ],
       "eliteQuickMoves": [],
-      "eliteChargedMoves": [],
+      "eliteChargedMoves": [
+        72
+      ],
       "genId": 4,
       "generation": "Sinnoh",
       "forms": [
@@ -96592,6 +96594,13 @@
       "itemId": 2272,
       "itemName": "Event Ticket S24 Nov21 Community To Gift",
       "proto": "ITEM_EVENT_TICKET_S24_NOV21_COMMUNITY_TO_GIFT",
+      "type": "Global Event Ticket",
+      "category": "Global Event Ticket"
+    },
+    "2273": {
+      "itemId": 2273,
+      "itemName": "Event Ticket S24 Nov28 Megaraid",
+      "proto": "ITEM_EVENT_TICKET_S24_NOV28_MEGARAID",
       "type": "Global Event Ticket",
       "category": "Global Event Ticket"
     },
