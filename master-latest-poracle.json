@@ -46706,7 +46706,7 @@
         }
       ],
       "form": {
-        "name": "Red Flower",
+        "name": "Red",
         "id": 2614
       },
       "stats": {
@@ -46734,7 +46734,7 @@
         }
       ],
       "form": {
-        "name": "Yellow Flower",
+        "name": "Yellow Plumage",
         "id": 2615
       },
       "stats": {
@@ -46762,7 +46762,7 @@
         }
       ],
       "form": {
-        "name": "Orange Flower",
+        "name": "Orange",
         "id": 2616
       },
       "stats": {
@@ -46790,7 +46790,7 @@
         }
       ],
       "form": {
-        "name": "Blue Flower",
+        "name": "Blue Plumage",
         "id": 2617
       },
       "stats": {
@@ -46818,7 +46818,7 @@
         }
       ],
       "form": {
-        "name": "White Flower",
+        "name": "White",
         "id": 2618
       },
       "stats": {
@@ -46889,7 +46889,7 @@
         }
       ],
       "form": {
-        "name": "Red Flower",
+        "name": "Red",
         "id": 2619
       },
       "stats": {
@@ -46921,7 +46921,7 @@
         }
       ],
       "form": {
-        "name": "Yellow Flower",
+        "name": "Yellow Plumage",
         "id": 2620
       },
       "stats": {
@@ -46953,7 +46953,7 @@
         }
       ],
       "form": {
-        "name": "Orange Flower",
+        "name": "Orange",
         "id": 2621
       },
       "stats": {
@@ -46985,7 +46985,7 @@
         }
       ],
       "form": {
-        "name": "Blue Flower",
+        "name": "Blue Plumage",
         "id": 2622
       },
       "stats": {
@@ -47017,7 +47017,7 @@
         }
       ],
       "form": {
-        "name": "White Flower",
+        "name": "White",
         "id": 2623
       },
       "stats": {
@@ -47070,7 +47070,7 @@
         }
       ],
       "form": {
-        "name": "Red Flower",
+        "name": "Red",
         "id": 2624
       },
       "stats": {
@@ -47091,7 +47091,7 @@
         }
       ],
       "form": {
-        "name": "Yellow Flower",
+        "name": "Yellow Plumage",
         "id": 2625
       },
       "stats": {
@@ -47112,7 +47112,7 @@
         }
       ],
       "form": {
-        "name": "Orange Flower",
+        "name": "Orange",
         "id": 2626
       },
       "stats": {
@@ -47133,7 +47133,7 @@
         }
       ],
       "form": {
-        "name": "Blue Flower",
+        "name": "Blue Plumage",
         "id": 2627
       },
       "stats": {
@@ -47154,7 +47154,7 @@
         }
       ],
       "form": {
-        "name": "White Flower",
+        "name": "White",
         "id": 2628
       },
       "stats": {
@@ -47429,7 +47429,7 @@
         }
       ],
       "form": {
-        "name": "Heart Trim",
+        "name": "Heart",
         "id": 2630
       },
       "stats": {
@@ -47450,7 +47450,7 @@
         }
       ],
       "form": {
-        "name": "Star Trim",
+        "name": "Star",
         "id": 2631
       },
       "stats": {
@@ -47471,7 +47471,7 @@
         }
       ],
       "form": {
-        "name": "Diamond Trim",
+        "name": "Diamond",
         "id": 2632
       },
       "stats": {
@@ -47492,7 +47492,7 @@
         }
       ],
       "form": {
-        "name": "Debutante Trim",
+        "name": "Debutante",
         "id": 2633
       },
       "stats": {
@@ -47513,7 +47513,7 @@
         }
       ],
       "form": {
-        "name": "Matron Trim",
+        "name": "Matron",
         "id": 2634
       },
       "stats": {
@@ -47534,7 +47534,7 @@
         }
       ],
       "form": {
-        "name": "Dandy Trim",
+        "name": "Dandy",
         "id": 2635
       },
       "stats": {
@@ -47555,7 +47555,7 @@
         }
       ],
       "form": {
-        "name": "La Reine Trim",
+        "name": "La Reine",
         "id": 2636
       },
       "stats": {
@@ -47576,7 +47576,7 @@
         }
       ],
       "form": {
-        "name": "Kabuki Trim",
+        "name": "Kabuki",
         "id": 2637
       },
       "stats": {
@@ -47597,7 +47597,7 @@
         }
       ],
       "form": {
-        "name": "Pharaoh Trim",
+        "name": "Pharaoh",
         "id": 2638
       },
       "stats": {
